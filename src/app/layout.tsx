@@ -2,7 +2,7 @@ import type {Metadata} from 'next';
 import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 import { cn } from '@/lib/utils';
-import { UserProvider } from '@/hooks/use-user';
+import { UserProvider } from '@/hooks/use-user.tsx';
 
 export const metadata: Metadata = {
   title: 'FCFM Assist',
