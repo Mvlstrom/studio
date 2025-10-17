@@ -4,6 +4,7 @@ import { FcfmIcon } from '@/components/icons';
 import { Upload } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { cn } from '@/lib/utils';
+import { DataEditor } from './data-editor';
 
 export function Header() {
   const { toast } = useToast();
@@ -13,23 +14,7 @@ export function Header() {
         <FcfmIcon className="w-8 h-8" />
         <h1 className="text-xl font-semibold font-headline tracking-tight">FCFM Assist</h1>
       </div>
-      <Button
-        variant="outline"
-        size="sm"
-        className={cn(
-            'text-primary bg-primary-foreground hover:bg-primary-foreground/90',
-            'dark:text-primary-foreground dark:bg-primary dark:hover:bg-primary/90'
-        )}
-        onClick={() => {
-          toast({
-            title: 'Función de Administrador',
-            description: 'La carga de archivos solo está disponible para administradores.',
-          });
-        }}
-      >
-        <Upload className="w-4 h-4 mr-2" />
-        Cargar Datos
-      </Button>
+      <DataEditor />
     </header>
   );
 }
