@@ -41,7 +41,7 @@ export async function getAiResponse(prevState: any, formData: FormData) {
 export async function updateData(newData: string) {
   if (typeof newData === 'string') {
     currentData = newData;
-    return { success: true };
+    return { success: true, message: 'Datos actualizados correctamente.' };
   }
-  return { success: false, message: 'Invalid data format.' };
+  return { success: false, message: 'Formato de datos inválido.' };
 }
