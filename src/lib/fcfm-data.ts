@@ -1,20 +1,24 @@
 export const fcfmData = `
-Información sobre la Facultad de Ciencias Físicas y Matemáticas (FCFM) de la Universidad de Chile.
+Horario de Eventos FCFM:
 
-**Eventos Próximos:**
-- Charla de Inteligencia Artificial: 25 de Octubre, 17:00, Auditorio Gorbea.
-- Feria de Software: 1 al 5 de Noviembre, patio central. Se presentarán proyectos de estudiantes de Ingeniería de Computación.
-- Semana de Bienvenida Mechona: 1 al 5 de Marzo. Actividades de integración para nuevos estudiantes.
-
-**Horarios de Ramos (Primer Año, Plan Común):**
-- Cálculo Diferencial e Integral: Lunes y Miércoles, 8:15 - 9:45.
-- Álgebra: Martes y Jueves, 10:15 - 11:45.
-- Física: Mecánica: Martes y Jueves, 8:15 - 9:45.
-- Programación: Lunes y Miércoles, 14:30 - 16:00.
-
-**Recursos y Servicios:**
-- Biblioteca Central: Lunes a Viernes de 8:30 a 20:30. Sábados de 9:00 a 14:00.
-- Oficina de Atención Estudiantil (SAE): Lunes a Jueves de 9:00 a 17:00. Viernes de 9:00 a 14:00. Ubicada en el Edificio Escuela, piso 1.
-- Casino: Abierto de 12:00 a 15:00 para almuerzo.
-- Salas de estudio: Disponibles 24/7 en el edificio Beauchef 851, pisos -2 y -3.
+- Evento: Cátedra, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL3101-1 Análisis y Diseño de Circuitos Eléctricos, Ubicación: Curso B06-Beauchef 851 Sala
+- Evento: Cátedra, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL5203-2 Laboratorio de Energía, Ubicación: Curso E215-Edificio Eléctrica Sala
+- Evento: Laboratorio, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL5207-1 Laboratorio de Tecnologías de Información y Comunicaciones, Ubicación: Curso Salón Gorbea-Edificio Escuela Sala
+- Evento: MONTAJE Lanzamiento Plataforma Espacio Ciencia - ANID Ciencia Abierta, Hora Inicio: 08:00, Hora Fin: 11:00, Ubicación: Salón Gorbea-Edificio Escuela Sala
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IQ3400-3 Introducción a la Sustentabilidad en la Ingeniería y Ciencias, Ubicación: Curso S28
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-1 Evaluación de Proyectos, Ubicación: Curso F21-Edificio Física Sala
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-2 Evaluación de Proyectos, Ubicación: Curso E216-Edificio Eléctrica Sala
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-3 Evaluación de Proyectos, Ubicación: Curso B204-Edificio Computación Sala
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: GL4202-1 Petrología Ignea, Ubicación: Curso Laboratorio de Rocas-Edificio Geología Sala
+- Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: FI2001-2 Mecánica, Ubicación: Curso Q10-Edificio Química Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-2 Inglés 1, Ubicación: Curso B114-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-4 Inglés 1, Ubicación: Curso B205-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2022-2 Inglés 2, Ubicación: Curso B115-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI3023-1 Inglés 3, Ubicación: Curso B101-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4204-10 Inglés 4, Ubicación: Curso B103-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4205-9 Inglés 5, Ubicación: Curso B113-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2301-1 Francés Elemental, Ubicación: Curso B105-Edificio Computación Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120A-1 Running I, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120B-1 Running II, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
+- Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR160A-1 Métodos de Entrenamiento en Gimnasio I, Ubicación: Curso Gimnasio Pesas-Beau
 `;
