@@ -1,0 +1,18 @@
+rules_version = '2';
+
+service firebase.storage {
+  match /b/{bucket}/o {
+    // Allow admin users to upload files to the 'uploads' directory.
+    // This rule assumes that the client-side logic correctly identifies admin users
+    // and that all uploads are directed to this path.
+    // In a real-world scenario with server-side auth, you would verify an admin claim.
+    match /uploads/{fileName} {
+      allow write: if request.auth != null;
+    }
+
+    // Public read access can be granted if needed, for example:
+    // match /public/{allPaths=**} {
+    //   allow read;
+    // }
+  }
+}

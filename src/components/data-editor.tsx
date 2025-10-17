@@ -44,6 +44,7 @@ export function DataEditor() {
 
     try {
       const { storage } = initializeFirebase();
+      // Ensure uploads go to a specific path that rules can target
       const storageRef = ref(storage, `uploads/${file.name}`);
       
       await uploadBytes(storageRef, file, {
