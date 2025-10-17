@@ -13,37 +13,63 @@ import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
 import { FileUp, Upload } from 'lucide-react';
 import { useState } from 'react';
-import { cn } from '@/lib/utils';
 import { useToast } from '@/hooks/use-toast';
 import { Input } from './ui/input';
 import { Label } from './ui/label';
+import { getStorage, ref, uploadBytes } from "firebase/storage";
+import { initializeFirebase } from '@/firebase';
+
 
 export function DataEditor() {
   const [instructions, setInstructions] = useState('');
   const [file, setFile] = useState<File | null>(null);
   const { toast } = useToast();
+  const [isUploading, setIsUploading] = useState(false);
 
-  const handleSave = () => {
+  const handleSave = async () => {
     if (!file) {
-        toast({
-            variant: 'destructive',
-            title: 'Error',
-            description: 'Por favor, selecciona un archivo para subir.',
-        })
-        return;
+      toast({
+        variant: 'destructive',
+        title: 'Error',
+        description: 'Por favor, selecciona un archivo para subir.',
+      });
+      return;
     }
 
-    // In a real app, you'd call an action to upload the file and save the instructions.
-    console.log({
-        file: file.name,
-        instructions,
-    })
-
+    setIsUploading(true);
     toast({
-        title: 'Datos Guardados',
-        description: `El archivo ${file.name} ha sido subido con tus instrucciones (simulado).`,
-    })
-  }
+      title: 'Subiendo archivo...',
+      description: `Por favor, espera mientras se sube ${file.name}.`,
+    });
+
+    try {
+      const { storage } = initializeFirebase();
+      const storageRef = ref(storage, `uploads/${file.name}`);
+      
+      await uploadBytes(storageRef, file, {
+        customMetadata: {
+          instructions: instructions,
+        }
+      });
+
+      toast({
+        title: '¡Archivo subido con éxito!',
+        description: `El archivo ${file.name} ha sido guardado.`,
+      });
+      setFile(null);
+      setInstructions('');
+      // Consider closing the sheet upon success
+    } catch (error) {
+      console.error("File upload error:", error);
+      toast({
+        variant: 'destructive',
+        title: 'Error al subir el archivo',
+        description: 'Hubo un problema al subir el archivo. Revisa la consola para más detalles.',
+      });
+    } finally {
+      setIsUploading(false);
+    }
+  };
 
   return (
     <Sheet>
@@ -51,10 +77,6 @@ export function DataEditor() {
         <Button
           variant="outline"
           size="sm"
-          className={cn(
-            'text-primary bg-primary-foreground hover:bg-primary-foreground/90',
-            'dark:text-primary-foreground dark:bg-primary dark:hover:bg-primary/90'
-          )}
         >
           <Upload className="w-4 h-4 mr-2" />
           Cargar Datos
@@ -85,11 +107,11 @@ export function DataEditor() {
         </div>
         <SheetFooter>
             <SheetClose asChild>
-                <Button variant="outline">Cancelar</Button>
+                <Button variant="outline" disabled={isUploading}>Cancelar</Button>
             </SheetClose>
-            <Button type="submit" onClick={handleSave}>
+            <Button type="submit" onClick={handleSave} disabled={isUploading}>
                 <FileUp className="w-4 h-4 mr-2" />
-                Guardar y Subir
+                {isUploading ? 'Subiendo...' : 'Guardar y Subir'}
             </Button>
         </SheetFooter>
       </SheetContent>

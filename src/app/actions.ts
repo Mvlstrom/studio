@@ -2,6 +2,8 @@
 
 import { generateFCFMResponse } from '@/ai/flows/generate-fcfm-response';
 import { fcfmData } from '@/lib/fcfm-data';
+import { getStorage, ref, getDownloadURL } from 'firebase/storage';
+import { initializeFirebase } from '@/firebase';
 import { z } from 'zod';
 
 const schema = z.object({
