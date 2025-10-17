@@ -13,18 +13,26 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu';
-import { LogOut, User as UserIcon } from 'lucide-react';
+import { LogIn, LogOut, User as UserIcon } from 'lucide-react';
+import { useRouter } from 'next/navigation';
 
 export function Header() {
   const auth = useAuth();
   const { user } = useUser();
-  const userIsAdmin = isAdmin(user?.email);
+  const router = useRouter();
+  // An admin is a non-anonymous user whose email is in the admin list
+  const userIsAdmin = user && !user.isAnonymous && isAdmin(user?.email);
 
   const handleSignOut = () => {
     if (auth) {
       auth.signOut();
+      router.push('/login');
     }
   };
+
+  const handleSignIn = () => {
+    router.push('/login');
+  }
 
   return (
     <header className="sticky top-0 z-10 flex items-center justify-between h-16 px-4 border-b shrink-0 bg-primary text-primary-foreground md:px-6">
@@ -34,7 +42,7 @@ export function Header() {
       </div>
       <div className="flex items-center gap-4">
         {userIsAdmin && <DataEditor />}
-        {user && (
+        {user && !user.isAnonymous ? (
            <DropdownMenu>
             <DropdownMenuTrigger asChild>
               <Button variant="ghost" className="relative h-8 w-8 rounded-full">
@@ -62,6 +70,11 @@ export function Header() {
               </DropdownMenuItem>
             </DropdownMenuContent>
           </DropdownMenu>
+        ) : (
+          <Button variant="outline" size="sm" onClick={handleSignIn} className="gap-2 text-primary bg-primary-foreground hover:bg-primary-foreground/90">
+            <LogIn className="w-4 h-4" />
+            Admin Login
+          </Button>
         )}
       </div>
     </header>
