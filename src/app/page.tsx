@@ -1,21 +1,21 @@
 'use client';
 import { Chat } from '@/components/chat';
 import { Header } from '@/components/header';
-import { useUser } from '@/firebase';
+import { useUser } from '@/hooks/use-user';
 import { useRouter } from 'next/navigation';
 import { useEffect } from 'react';
 
 export default function Home() {
-  const { user, isUserLoading } = useUser();
+  const { user, isLoading } = useUser();
   const router = useRouter();
 
   useEffect(() => {
-    if (!isUserLoading && !user) {
+    if (!isLoading && !user) {
       router.push('/login');
     }
-  }, [user, isUserLoading, router]);
+  }, [user, isLoading, router]);
 
-  if (isUserLoading) {
+  if (isLoading || !user) {
     return (
       <div className="flex items-center justify-center h-screen">
         <div className="animate-spin rounded-full h-32 w-32 border-t-2 border-b-2 border-primary"></div>
@@ -23,8 +23,6 @@ export default function Home() {
     );
   }
 
-  // If there's no user object even after loading, it might be an anonymous user
-  // We can let them access the chat. The header will adapt based on user state.
   return (
     <div className="flex flex-col h-screen">
       <Header />
