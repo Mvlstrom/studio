@@ -92,7 +92,7 @@ export function DataEditor() {
         <div className="py-4 flex-1 flex flex-col gap-4">
             <div className="grid w-full max-w-sm items-center gap-1.5">
                 <Label htmlFor="file">Archivo</Label>
-                <Input id="file" type="file" onChange={(e) => setFile(e.target.files?.[0] || null)} />
+                <Input id="file" type="file" onChange={(e) => setFile(e.target.files?.[0] || null)} disabled={isUploading} />
             </div>
             <div className="grid w-full gap-1.5 h-full">
                 <Label htmlFor="instructions">Instrucciones de uso</Label>
@@ -102,6 +102,7 @@ export function DataEditor() {
                     className="h-full resize-none"
                     value={instructions}
                     onChange={(e) => setInstructions(e.target.value)}
+                    disabled={isUploading}
                 />
             </div>
         </div>
