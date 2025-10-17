@@ -2,7 +2,7 @@
 import { Button } from '@/components/ui/button';
 import { FcfmIcon } from '@/components/icons';
 import { DataEditor } from './data-editor';
-import { Avatar, AvatarFallback, AvatarImage } from './ui/avatar';
+import { Avatar, AvatarFallback } from './ui/avatar';
 import {
   DropdownMenu,
   DropdownMenuContent,

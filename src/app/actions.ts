@@ -1,14 +1,16 @@
 'use server';
 
 import { generateFCFMResponse } from '@/ai/flows/generate-fcfm-response';
-import { fcfmData } from '@/lib/fcfm-data';
-import { getStorage, ref, getDownloadURL } from 'firebase/storage';
-import { initializeFirebase } from '@/firebase';
+import { fcfmData as defaultData } from '@/lib/fcfm-data';
 import { z } from 'zod';
 
 const schema = z.object({
   query: z.string().min(1),
 });
+
+// This is a mutable variable to hold the data.
+// In a real application, this would be a database.
+let currentData = defaultData;
 
 export async function getAiResponse(prevState: any, formData: FormData) {
   const validatedFields = schema.safeParse({
@@ -22,10 +24,24 @@ export async function getAiResponse(prevState: any, formData: FormData) {
   const { query } = validatedFields.data;
 
   try {
-    const response = await generateFCFMResponse({ query, data: fcfmData });
+    // The AI response now uses the potentially updated 'currentData'.
+    const response = await generateFCFMResponse({ query, data: currentData });
     return { success: true, message: response.response };
   } catch (error) {
     console.error(error);
     return { success: false, message: 'Lo siento, ha ocurrido un error. Por favor, intenta de nuevo.' };
   }
+}
+
+/**
+ * Server Action to update the data used by the chatbot.
+ * This is a temporary solution for local development.
+ * @param newData The new data string to use.
+ */
+export async function updateData(newData: string) {
+  if (typeof newData === 'string') {
+    currentData = newData;
+    return { success: true };
+  }
+  return { success: false, message: 'Invalid data format.' };
 }

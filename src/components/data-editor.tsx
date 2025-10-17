@@ -7,114 +7,89 @@ import {
   SheetTitle,
   SheetTrigger,
   SheetFooter,
-  SheetClose
+  SheetClose,
 } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
-import { FileUp, Upload } from 'lucide-react';
+import { Edit, Save } from 'lucide-react';
 import { useState } from 'react';
 import { useToast } from '@/hooks/use-toast';
-import { Input } from './ui/input';
 import { Label } from './ui/label';
-import { getStorage, ref, uploadBytes } from "firebase/storage";
-import { initializeFirebase } from '@/firebase';
-
+import { fcfmData as initialData } from '@/lib/fcfm-data';
+import { updateData } from '@/app/actions';
 
 export function DataEditor() {
-  const [instructions, setInstructions] = useState('');
-  const [file, setFile] = useState<File | null>(null);
+  const [data, setData] = useState(initialData);
+  const [isSaving, setIsSaving] = useState(false);
   const { toast } = useToast();
-  const [isUploading, setIsUploading] = useState(false);
 
   const handleSave = async () => {
-    if (!file) {
-      toast({
-        variant: 'destructive',
-        title: 'Error',
-        description: 'Por favor, selecciona un archivo para subir.',
-      });
-      return;
-    }
-
-    setIsUploading(true);
+    setIsSaving(true);
     toast({
-      title: 'Subiendo archivo...',
-      description: `Por favor, espera mientras se sube ${file.name}.`,
+      title: 'Guardando datos...',
+      description: 'Por favor, espera mientras se actualizan los datos.',
     });
 
     try {
-      const { storage } = initializeFirebase();
-      // Ensure uploads go to a specific path that rules can target
-      const storageRef = ref(storage, `uploads/${file.name}`);
+      // This is a client-side simulation.
+      // For a real backend, you would make an API call here.
+      await updateData(data);
       
-      await uploadBytes(storageRef, file, {
-        customMetadata: {
-          instructions: instructions,
-        }
-      });
-
       toast({
-        title: '¡Archivo subido con éxito!',
-        description: `El archivo ${file.name} ha sido guardado.`,
+        title: '¡Datos guardados con éxito!',
+        description: 'El chatbot ahora usará la nueva información.',
       });
-      setFile(null);
-      setInstructions('');
-      // Consider closing the sheet upon success
     } catch (error) {
-      console.error("File upload error:", error);
+      console.error("Data saving error:", error);
       toast({
         variant: 'destructive',
-        title: 'Error al subir el archivo',
-        description: 'Hubo un problema al subir el archivo. Revisa la consola para más detalles.',
+        title: 'Error al guardar los datos',
+        description:
+          'Hubo un problema al guardar. Revisa la consola para más detalles.',
       });
     } finally {
-      setIsUploading(false);
+      setIsSaving(false);
     }
   };
 
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button
-          variant="outline"
-          size="sm"
-        >
-          <Upload className="w-4 h-4 mr-2" />
-          Cargar Datos
+        <Button variant="outline" size="sm">
+          <Edit className="w-4 h-4 mr-2" />
+          Editar Datos
         </Button>
       </SheetTrigger>
-      <SheetContent className="w-full md:w-1/2 lg:w-1/3 flex flex-col">
+      <SheetContent className="w-full md:w-2/3 lg:w-1/2 flex flex-col">
         <SheetHeader>
-          <SheetTitle>Subir y Describir Datos</SheetTitle>
+          <SheetTitle>Editar Datos del Chatbot</SheetTitle>
           <SheetDescription>
-            Sube un archivo (ej. Excel, CSV, TXT) y proporciona instrucciones sobre cómo el chatbot debe utilizar su contenido.
+            Modifica directamente los datos que utiliza el chatbot para responder. Los cambios se aplicarán inmediatamente pero se perderán al recargar la página.
           </SheetDescription>
         </SheetHeader>
         <div className="py-4 flex-1 flex flex-col gap-4">
-            <div className="grid w-full max-w-sm items-center gap-1.5">
-                <Label htmlFor="file">Archivo</Label>
-                <Input id="file" type="file" onChange={(e) => setFile(e.target.files?.[0] || null)} disabled={isUploading} />
-            </div>
-            <div className="grid w-full gap-1.5 h-full">
-                <Label htmlFor="instructions">Instrucciones de uso</Label>
-                <Textarea 
-                    id="instructions"
-                    placeholder="Ej: 'Usa la columna 'Nombre' para identificar al estudiante y la columna 'Sección' para saber su curso.'"
-                    className="h-full resize-none"
-                    value={instructions}
-                    onChange={(e) => setInstructions(e.target.value)}
-                    disabled={isUploading}
-                />
-            </div>
+          <div className="grid w-full gap-1.5 h-full">
+            <Label htmlFor="data">Contenido de Datos</Label>
+            <Textarea
+              id="data"
+              placeholder="Pega aquí los datos del horario o eventos..."
+              className="h-full resize-none font-mono text-xs"
+              value={data}
+              onChange={(e) => setData(e.target.value)}
+              disabled={isSaving}
+            />
+          </div>
         </div>
         <SheetFooter>
-            <SheetClose asChild>
-                <Button variant="outline" disabled={isUploading}>Cancelar</Button>
-            </SheetClose>
-            <Button type="submit" onClick={handleSave} disabled={isUploading}>
-                <FileUp className="w-4 h-4 mr-2" />
-                {isUploading ? 'Subiendo...' : 'Guardar y Subir'}
+          <SheetClose asChild>
+            <Button variant="outline" disabled={isSaving}>
+              Cancelar
             </Button>
+          </SheetClose>
+          <Button type="submit" onClick={handleSave} disabled={isSaving}>
+            <Save className="w-4 h-4 mr-2" />
+            {isSaving ? 'Guardando...' : 'Guardar Cambios'}
+          </Button>
         </SheetFooter>
       </SheetContent>
     </Sheet>
