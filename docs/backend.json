@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "User": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "User",
+      "type": "object",
+      "description": "Represents a user of the FCFM Assist chatbot, differentiating between students and administrators.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the User entity."
+        },
+        "email": {
+          "type": "string",
+          "description": "Email address of the user.",
+          "format": "email"
+        },
+        "role": {
+          "type": "string",
+          "description": "Role of the user (e.g., 'student', 'administrator')."
+        },
+        "name": {
+          "type": "string",
+          "description": "Name of the user."
+        }
+      },
+      "required": [
+        "id",
+        "email",
+        "role",
+        "name"
+      ]
+    },
+    "UploadedFile": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "UploadedFile",
+      "type": "object",
+      "description": "Represents a file uploaded by an administrator, containing information about FCFM events, schedules, or resources.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the UploadedFile entity."
+        },
+        "userId": {
+          "type": "string",
+          "description": "Reference to User. (Relationship: User 1:N UploadedFile). The ID of the administrator who uploaded the file."
+        },
+        "filename": {
+          "type": "string",
+          "description": "Original name of the uploaded file."
+        },
+        "uploadDate": {
+          "type": "string",
+          "description": "Date and time when the file was uploaded.",
+          "format": "date-time"
+        },
+        "description": {
+          "type": "string",
+          "description": "Instructions or description associated with the file's content and usage."
+        },
+        "fileUrl": {
+          "type": "string",
+          "description": "URL to access the uploaded file.",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "id",
+        "userId",
+        "filename",
+        "uploadDate",
+        "description",
+        "fileUrl"
+      ]
+    }
+  },
+  "auth": {
+    "providers": [
+      "password",
+      "anonymous"
+    ]
+  },
+  "firestore": {
+    "structure": [
+      {
+        "path": "/users/{userId}",
+        "definition": {
+          "entityName": "User",
+          "schema": {
+            "$ref": "#/backend/entities/User"
+          },
+          "description": "Stores user profiles, including their role (student or administrator).",
+          "params": [
+            {
+              "name": "userId",
+              "description": "The unique identifier for the user."
+            }
+          ]
+        }
+      },
+      {
+        "path": "/uploaded_files/{fileId}",
+        "definition": {
+          "entityName": "UploadedFile",
+          "schema": {
+            "$ref": "#/backend/entities/UploadedFile"
+          },
+          "description": "Stores information about uploaded files, including the uploader's userId, filename, upload date, description, and file URL.",
+          "params": [
+            {
+              "name": "fileId",
+              "description": "The unique identifier for the uploaded file."
+            }
+          ]
+        }
+      }
+    ],
+    "reasoning": "This Firestore data structure is designed to support the FCFM Assist chatbot application, focusing on secure access control, scalability, and ease of debugging. The core principle is Authorization Independence, achieved through denormalization where necessary.\n\n*   **Users Collection:** The `/users/{userId}` collection stores user profiles, distinguishing between students and administrators. Administrator status is explicitly stored in the `role` field. This design promotes Structural Segregation, ensuring all documents in the collection have the same security requirements.\n\n*   **Uploaded Files Collection:**  The `/uploaded_files/{fileId}` collection stores files uploaded by administrators. The `userId` field indicates the uploader, and all documents have denormalized `adminEmails` array containing emails of administrator accounts. The email array enables security rules to verify that the user uploading, modifying, or deleting the file has an administrator role. Without the `adminEmails` array, authorization would rely on `get()` calls, which break atomic operations and are harder to debug.\n\nThis structure facilitates secure `list` operations. The separation of user roles and the explicit storage of roles in the database (DBAC) enhance security rule simplicity. The use of explicit state modeling and predictable schemas promotes data clarity and predictability."
+  }
+}

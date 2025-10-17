@@ -1,0 +1,100 @@
+/**
+ * @file Firestore Security Rules for FCFM Assist Chatbot
+ *
+ * Core Philosophy:
+ * This ruleset enforces a role-based access control model, differentiating between regular users (students) and administrators.
+ * Users can only manage their own profiles, while administrators have special privileges to upload, modify, and delete files.
+ *
+ * Data Structure:
+ * - /users/{userId}: Stores user profiles, including their role (student or administrator).
+ * - /uploaded_files/{fileId}: Stores metadata about files uploaded by administrators, including a link to the file itself.
+ *
+ * Key Security Decisions:
+ * - Administrators are identified by their email addresses (alexia.roa@ug.uchile.cl, ignacio.arena@ug.uchile.cl)
+ * - Only administrators can create, update, or delete uploaded files.
+ * - Users can only read uploaded file metadata.
+ * - Users can only manage their own user profile.
+ * - Listing of all users is not permitted.
+ *
+ * Denormalization for Authorization:
+ * The `UploadedFile` entity contains the `userId` of the uploader, allowing for easy verification of ownership.
+ */
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    /**
+     * @description Controls access to user profile documents.
+     * @path /users/{userId}
+     * @allow (create) User with ID 'user123' can create their own profile.
+     * @allow (get) User with ID 'user123' can read their own profile.
+     * @allow (update) User with ID 'user123' can update their own profile.
+     * @allow (delete) User with ID 'user123' can delete their own profile.
+     * @deny (create) User with ID 'user456' cannot create a profile for user 'user123'.
+     * @deny (update) User with ID 'user456' cannot update the profile of user 'user123'.
+     * @principle Enforces document ownership for user profiles.
+     */
+    match /users/{userId} {
+      // Users can read their own profile
+      allow get: if isSignedIn() && isOwner(userId);
+      // No listing of users
+      allow list: if false;
+
+      // Users can create their own profile
+      allow create: if isSignedIn() && isOwner(userId) && request.resource.data.id == request.auth.uid;
+
+      // Users can update their own profile
+      allow update: if isSignedIn() && isOwner(userId) && resource.data.id == request.resource.data.id;
+
+      // Users can delete their own profile
+      allow delete: if isSignedIn() && isExistingOwner(userId);
+    }
+
+    /**
+     * @description Controls access to uploaded file metadata.
+     * @path /uploaded_files/{fileId}
+     * @allow (get) Any signed-in user can read uploaded file metadata.
+     * @allow (list) Any signed-in user can list uploaded files.
+     * @allow (create) User with email 'alexia.roa@ug.uchile.cl' can create uploaded file metadata.
+     * @allow (update) User with email 'alexia.roa@ug.uchile.cl' can update uploaded file metadata they own.
+     * @allow (delete) User with email 'alexia.roa@ug.uchile.cl' can delete uploaded file metadata they own.
+     * @deny (create) User with email 'student@example.com' cannot create uploaded file metadata.
+     * @deny (update) User with email 'student@example.com' cannot update uploaded file metadata.
+     * @deny (delete) User with email 'student@example.com' cannot delete uploaded file metadata.
+     * @principle Restricts write access to administrators only.
+     */
+    match /uploaded_files/{fileId} {
+      // Anyone can read uploaded file metadata
+      allow get, list: if isSignedIn();
+
+      // Only administrators can create, update, or delete uploaded files
+      allow create: if isSignedIn() && isAdmin();
+
+      allow update: if isSignedIn() && isAdmin() && resource.data.userId == request.auth.uid;
+
+      allow delete: if isSignedIn() && isAdmin() && resource.data.userId == request.auth.uid && resource != null;
+    }
+
+    // ---- Helper Functions ----
+
+    // Checks if the user is signed in
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // Checks if the user is the owner of the document
+    function isOwner(userId) {
+      return request.auth.uid == userId;
+    }
+
+    // Checks if the user is the owner of the document and the document exists.
+    function isExistingOwner(userId) {
+        return isOwner(userId) && resource != null;
+    }
+
+    // Checks if the user is an administrator based on their email
+    function isAdmin() {
+      return isSignedIn() && (request.auth.token.email == 'alexia.roa@ug.uchile.cl' || request.auth.token.email == 'ignacio.arena@ug.uchile.cl');
+    }
+  }
+}
