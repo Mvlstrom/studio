@@ -22,4 +22,5 @@ Horario de Eventos FCFM - Martes:
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120A-1 Running I, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120B-1 Running II, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR160A-1 Métodos de Entrenamiento en Gimnasio I, Ubicación: Curso Gimnasio Pesas-Beau
+- Día: Martes, Evento: Cátedra, Hora Inicio: 10:15, Hora Fin: 11:45, Curso: IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT), Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F.
 `;
