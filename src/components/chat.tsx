@@ -8,7 +8,7 @@ import { ScrollArea } from '@/components/ui/scroll-area';
 import { Textarea } from '@/components/ui/textarea';
 import { cn } from '@/lib/utils';
 import { zodResolver } from '@hookform/resolvers/zod';
-import { BotIcon, FcfmIcon } from '@/components/icons';
+import { UbicatitoIcon } from '@/components/icons';
 import { SendHorizonal, User as UserIcon } from 'lucide-react';
 import { useEffect, useRef, useState, useTransition } from 'react';
 import { useForm } from 'react-hook-form';
@@ -28,7 +28,7 @@ export function Chat() {
   const [messages, setMessages] = useState<Message[]>([
     {
       role: 'assistant',
-      content: 'Hola, soy FCFM Assist. ¿Cómo puedo ayudarte hoy con tus consultas sobre la facultad?',
+      content: 'Hola, soy Ubicatito. ¿Cómo puedo ayudarte hoy con tus consultas sobre la facultad?',
     },
   ]);
   const [isPending, startTransition] = useTransition();
@@ -85,7 +85,7 @@ export function Chat() {
                 {message.role === 'assistant' ? (
                   <>
                     <AvatarImage src="/placeholder-user.jpg" asChild>
-                      <FcfmIcon className="bg-primary text-primary-foreground p-1.5" />
+                      <UbicatitoIcon className="p-1" />
                     </AvatarImage>
                     <AvatarFallback>BOT</AvatarFallback>
                   </>
@@ -114,7 +114,7 @@ export function Chat() {
             <div className="flex items-start gap-4">
               <Avatar className="w-8 h-8 border">
                 <AvatarImage src="/placeholder-user.jpg" asChild>
-                  <FcfmIcon className="bg-primary text-primary-foreground p-1.5" />
+                  <UbicatitoIcon className="p-1" />
                 </AvatarImage>
                 <AvatarFallback>BOT</AvatarFallback>
               </Avatar>

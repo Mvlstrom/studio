@@ -5,7 +5,7 @@ import { cn } from '@/lib/utils';
 import { UserProvider } from '@/hooks/use-user.tsx';
 
 export const metadata: Metadata = {
-  title: 'FCFM Assist',
+  title: 'Ubicatito',
   description: 'Asistente de chatbot para la FCFM',
 };
 

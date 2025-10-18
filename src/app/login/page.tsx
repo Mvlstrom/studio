@@ -1,6 +1,6 @@
 'use client';
 import { Button } from '@/components/ui/button';
-import { FcfmIcon } from '@/components/icons';
+import { UbicatitoIcon } from '@/components/icons';
 import { useRouter } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import { Input } from '@/components/ui/input';
@@ -35,8 +35,8 @@ export default function LoginPage() {
     <main className="flex items-center justify-center h-screen bg-background">
       <div className="flex flex-col items-center justify-center space-y-6 text-center">
         <div className="flex items-center gap-4">
-          <FcfmIcon className="w-12 h-12 text-primary" />
-          <h1 className="text-3xl font-bold font-headline text-primary">FCFM Assist</h1>
+          <UbicatitoIcon className="w-16 h-16" />
+          <h1 className="text-3xl font-bold font-headline text-primary">Ubicatito</h1>
         </div>
         <p className="text-muted-foreground max-w-sm">
           Ingresa con tu correo electrónico para continuar. Si eres administrador, tendrás acceso a funciones especiales.

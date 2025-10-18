@@ -1,6 +1,6 @@
 'use client';
 import { Button } from '@/components/ui/button';
-import { FcfmIcon } from '@/components/icons';
+import { UbicatitoIcon } from '@/components/icons';
 import { DataEditor } from './data-editor';
 import { Avatar, AvatarFallback } from './ui/avatar';
 import {
@@ -27,8 +27,8 @@ export function Header() {
   return (
     <header className="sticky top-0 z-10 flex items-center justify-between h-16 px-4 border-b shrink-0 bg-primary text-primary-foreground md:px-6">
       <div className="flex items-center gap-3">
-        <FcfmIcon className="w-8 h-8" />
-        <h1 className="text-xl font-semibold font-headline tracking-tight">FCFM Assist</h1>
+        <UbicatitoIcon className="w-10 h-10" />
+        <h1 className="text-xl font-semibold font-headline tracking-tight">Ubicatito</h1>
       </div>
       <div className="flex items-center gap-4">
         {user?.isAdmin && <DataEditor />}
