@@ -22,5 +22,19 @@ Horario de Eventos FCFM - Martes:
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120A-1 Running I, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120B-1 Running II, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR160A-1 Métodos de Entrenamiento en Gimnasio I, Ubicación: Curso Gimnasio Pesas-Beau
-- Día: Martes, Evento: Cátedra, Hora Inicio: 10:15, Hora Fin: 11:45, Curso: IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT), Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F.
+- Día: Martes, Evento: Cátedra, Hora Inicio: 12:00, Hora Fin: 13:30, Curso: IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT), Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F.
+
+Información de Profesores:
+
+- Nombre: Sergio Celis G.
+  Rol: Encargado de Investigación de la Escuela de Ingeniería y Ciencias
+  Correo: scelis@uchile.cl
+  Contacto: +56 2 29771024
+  Oficina: Beauchef 850
+
+- Nombre: Richard Weber H.
+  Rol: Miembro del Consejo del Departamento de Ingeniería Industrial
+  Correo: richard.weber@uchile.cl
+  Contacto: +56 2 29784056, +56 2 29784072, +56 2 29784242, +56 2 29771033, +56 2 29784827
+  Oficina: Avenida Beauchef 851
 `;
