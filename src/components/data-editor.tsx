@@ -11,7 +11,7 @@ import {
 } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Textarea } from '@/components/ui/textarea';
-import { Edit, Save, Upload } from 'lucide-react';
+import { Upload, Save } from 'lucide-react';
 import { useState, useRef } from 'react';
 import { useToast } from '@/hooks/use-toast';
 import { Label } from './ui/label';
@@ -52,25 +52,28 @@ export function DataEditor() {
     reader.onload = async (e) => {
       const fileContent = e.target?.result as string;
       
-      // We can combine instructions and file content if needed
-      const fullData = `Instrucciones: ${instructions}\n\n--- Contenido del archivo ---\n${fileContent}`;
+      const fullData = `Instrucciones para este archivo: ${instructions}\n\n--- Contenido del archivo: ${file.name} ---\n${fileContent}`;
 
       try {
-        await updateData(fullData);
-        toast({
-          title: '¡Datos actualizados con éxito!',
-          description: 'El chatbot ahora usará la nueva información.',
-        });
+        const result = await updateData(fullData);
+        if (result.success) {
+          toast({
+            title: '¡Datos actualizados con éxito!',
+            description: 'El chatbot ahora usará la nueva información acumulada.',
+          });
+        } else {
+          throw new Error(result.message);
+        }
       } catch (error) {
         console.error('Data saving error:', error);
         toast({
           variant: 'destructive',
           title: 'Error al guardar los datos',
-          description: 'Hubo un problema al actualizar los datos.',
+          description: (error as Error).message || 'Hubo un problema al actualizar los datos.',
         });
       } finally {
         setIsSaving(false);
-        // Reset state after saving
+        // Reset form fields after saving
         setFile(null);
         setInstructions('');
         if(fileInputRef.current) {
@@ -88,7 +91,7 @@ export function DataEditor() {
       setIsSaving(false);
     };
 
-    reader.readAsText(file); // Reads the file as plain text
+    reader.readAsText(file);
   };
 
   return (
@@ -103,7 +106,7 @@ export function DataEditor() {
         <SheetHeader>
           <SheetTitle>Cargar Nuevos Datos para el Chatbot</SheetTitle>
           <SheetDescription>
-            Sube un archivo con la información y proporciona instrucciones. Los datos se cargarán en la memoria de la aplicación.
+            Sube un archivo con la información y proporciona instrucciones. Los datos se añadirán a la memoria existente del chatbot para esta sesión.
           </SheetDescription>
         </SheetHeader>
         <div className="py-4 flex-1 flex flex-col gap-6">
@@ -113,10 +116,10 @@ export function DataEditor() {
             {file && <p className="text-sm text-muted-foreground mt-2">Archivo seleccionado: {file.name}</p>}
           </div>
           <div className="grid w-full gap-1.5 h-full">
-            <Label htmlFor="instructions">2. Instrucciones de uso</Label>
+            <Label htmlFor="instructions">2. Instrucciones para este archivo</Label>
             <Textarea
               id="instructions"
-              placeholder="Ej: Este archivo contiene los horarios del día Martes 15 de Agosto. Responde únicamente con esta información."
+              placeholder="Ej: Este archivo contiene los horarios del día Martes. Responde únicamente con esta información para preguntas sobre ese día."
               className="h-full resize-none"
               value={instructions}
               onChange={(e) => setInstructions(e.target.value)}

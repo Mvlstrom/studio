@@ -10,7 +10,7 @@ const schema = z.object({
 
 // This is a mutable variable to hold the data.
 // In a real application, this would be a database.
-let currentData = defaultData;
+let accumulatedData = [defaultData];
 
 export async function getAiResponse(prevState: any, formData: FormData) {
   const validatedFields = schema.safeParse({
@@ -25,7 +25,7 @@ export async function getAiResponse(prevState: any, formData: FormData) {
 
   try {
     // The AI response now uses the potentially updated 'currentData'.
-    const response = await generateFCFMResponse({ query, data: currentData });
+    const response = await generateFCFMResponse({ query, data: accumulatedData.join('\n\n') });
     return { success: true, message: response.response };
   } catch (error) {
     console.error(error);
@@ -40,7 +40,7 @@ export async function getAiResponse(prevState: any, formData: FormData) {
  */
 export async function updateData(newData: string) {
   if (typeof newData === 'string') {
-    currentData = newData;
+    accumulatedData.push(newData);
     return { success: true, message: 'Datos actualizados correctamente.' };
   }
   return { success: false, message: 'Formato de datos inválido.' };
