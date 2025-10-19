@@ -105,7 +105,15 @@ export function Chat() {
                     : 'bg-card text-card-foreground shadow-sm'
                 )}
               >
-                <p className="whitespace-pre-wrap">{message.content}</p>
+                {message.role === 'assistant' ? (
+                  <div className="flex flex-col gap-2">
+                    {message.content.split('<br>').map((line, i) => (
+                      <p key={i} className="whitespace-pre-wrap">{line}</p>
+                    ))}
+                  </div>
+                ) : (
+                  <p className="whitespace-pre-wrap">{message.content}</p>
+                )}
               </div>
             </div>
           ))}
