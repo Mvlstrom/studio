@@ -1,49 +1,38 @@
 
 export const fcfmData = `
-Horario de Eventos FCFM - Martes:
+Informaciones varias
 
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL3101-1 Análisis y Diseño de Circuitos Eléctricos, Ubicación: Curso B06-Beauchef 851 Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL5203-2 Laboratorio de Energía, Ubicación: Curso E215-Edificio Eléctrica Sala
-- Día: Martes, Evento: Laboratorio, Hora Inicio: 08:00, Hora Fin: 10:00, Curso: EL5207-1 Laboratorio de Tecnologías de Información y Comunicaciones, Ubicación: Curso Salón Gorbea-Edificio Escuela Sala
-- Día: Martes, Evento: MONTAJE Lanzamiento Plataforma Espacio Ciencia - ANID Ciencia Abierta, Hora Inicio: 08:00, Hora Fin: 11:00, Ubicación: Salón Gorbea-Edificio Escuela Sala
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IQ3400-3 Introducción a la Sustentabilidad en la Ingeniería y Ciencias, Ubicación: Curso S28
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-1 Evaluación de Proyectos, Ubicación: Curso F21-Edificio Física Sala
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-2 Evaluación de Proyectos, Ubicación: Curso E216-Edificio Eléctrica Sala
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: IN3301-3 Evaluación de Proyectos, Ubicación: Curso B204-Edificio Computación Sala
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: GL4202-1 Petrología Ignea, Ubicación: Curso Laboratorio de Rocas-Edificio Geología Sala
-- Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: FI2001-2 Mecánica, Ubicación: Curso Q10-Edificio Química Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-2 Inglés 1, Ubicación: Curso B114-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-4 Inglés 1, Ubicación: Curso B205-Edificio Computación Sala
-- Día: Martes, Evento: C.átedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2022-2 Inglés 2, Ubicación: Curso B115-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI3023-1 Inglés 3, Ubicación: Curso B101-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4204-10 Inglés 4, Ubicación: Curso B103-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4205-9 Inglés 5, Ubicación: Curso B113-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2301-1 Francés Elemental, Ubicación: Curso B105-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120A-1 Running I, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR120B-1 Running II, Ubicación: Curso Gimnasio Domeyko-FCFM Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: DR160A-1 Métodos de Entrenamiento en Gimnasio I, Ubicación: Curso Gimnasio Pesas-Beau
-- Día: Martes, Evento: Cátedra, Hora Inicio: 12:00, Hora Fin: 13:30, Curso: IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT), Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F.
+Espacios para almorzar: Cafetería de beauchef 850, Cafetería DeltaTe, Casino de la facultad en Domeyko, Patio de 850, Patio de 851, Piso -1 y -2 de 851 tienen mesas en los pasillos, Terraza “Ebria”.
 
-Información de Profesores:
+Espacios para estudiar: Sala de estudio “pajarera” en el segundo piso del hall sur de 850. Biblioteca de 850. Si necesitas imprimir o estudiar con computador puedes ir al CEC en el -1 del edificio norte de 851. Cada departamento tiene sus propios espacios, por ejemplo insutrias tiene salas en el 2do y 3er piso de la torre este de 851, computación tiene los pisos 2 y 3 del edificio oeste de 851, etc. Si estás en plan común y quieres estudiar con tutores puedes ir al Taller de los Dos Relojes. Hay mesas en el hall sur del edificio escuela, y en los patios de 850 y 851.
 
-- Nombre: Sergio Celis G.
-  Rol: Encargado de Investigación de la Escuela de Ingeniería y Ciencias
-  Correo: scelis@uchile.cl
-  Contacto: +56 2 29771024
-  Oficina: Beauchef 850
+Espacios para dormir: Se puede dormir en la sala “pajarera” donde hay sillones acolchados. Se puede dormir en las escaleras que están fuera del CEC que están acolchadas. Se puede dormir en los sillones que están afuera de la sala B010 en el piso -2 de la torre norte de 851.
 
-- Nombre: Richard Weber H.
-  Rol: Miembro del Consejo del Departamento de Ingeniería Industrial
-  Correo: richard.weber@uchile.cl
-  Contacto: +56 2 29784056, +56 2 29784072, +56 2 29784242, +56 2 29771033, +56 2 29784827
-  Oficina: Avenida Beauchef 851
+Espacios para calentar almuerzo: Hay microondas en el casino Domeyko, en la cafetería de 850, en la cafetería “DeltaTe” de 851, en el segundo piso de industrias (torre oriente de 851) y cada departamento tiene sus propios espacios para poder calentar almuerzo.
 
-Información de Servicios:
+Información sobre cursos: el curso IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) lo dictan los Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F. El horario de la clase IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) es de 12:00 a 13:30.
 
-- Nombre: Área de Bienestar Estudiantil
-  Secretaria: Paola Rozas
-  Contacto: +562 29784262, +562 29784273
-  Ubicación: Beauchef 850, Santiago. Zócalo edificio Justicia Espada
-  Correo: bienestarestudiantil@ing.uchile.cl
-  Horario de atención: Lunes a jueves: 9.00 a 13.00 / 15.00 a 17.00 h. Viernes: 09.00 a 13.00 h.
+Información sobre dónde encontrar profesores en cierto día: Si alguien quiere saber dónde encontrar a un profesor en determinado día (por ejemplo, martes 21 de octubre), hay que enviarle los datos de contacto disponibles y también revisar si dicho profesor está impartiendo alguna clase ese día (por ejemplo, Sergio Celis imparte el ramo IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación los martes de 12:00 pm a 13:30 pm), por lo que se le puede indicar al estudiante que ese profesor estará en la sala en la que dicta el ramo, durante el bloque horario en el que se dicta la clase.
+
+Información sobre profesores:
+Sergio Celis G.: es el Encargado de Investigación de la Escuela de Ingeniería y Ciencias, su correo es scelis@uchile.cl, su número de contacto es +56 2 29771024 y su oficina está en Beauchef 850.
+Richard Weber H.: es parte del Consejo Consejo del Departamento de Ingeniería Industrial, su correo es richard.weber@uchile.cl y se le puede contactar mediante los siguientes números telefónicos: +56 2 29784056, +56 2 29784072, +56 2 29784242, +56 2 29771033, +56 2 29784827. Su oficina está en Avenida Beauchef 851.
+
+Bibliotecas: La biblioteca de la universidad está en el hall norte del edificio escuela en beauchef 850.
+
+Lugares de deporte: En el piso -3 de 851 están las áreas de deporte, donde hay cancha de basket/volley, una sala de danza, cancha de futsal, dojo, gimnasio de máquinas y pesas, sala de spinning y cancha de squash, además de camarines. También en el piso -1 de 851 está la piscina temperada de la facultad. También en 850, al costado del edificio de ingeniería química se encuentra un parque de barras. Además al costado del casino de Domeyko hay una cancha techada de la facultad, donde se realizan actividades de algunos electivos deportivos. Por último, al lado de la facultad se encuentra el Parque O´Higgins, el cual también tiene una explanada donde se puede trotar y harto espacio para realizar actividad física, además también tiene su propio parque de barras.
+
+Lugares para comprar comida: Dentro de la facultad está la cafetería DeltaTe en 851, también está la cafetería de 850 pero no tienen almuerzos. En el edificio de eléctrica está el negocio de la “Sonia”, donde hay variedad de productos. También está el casino en Domeyko, donde puedes comprar almuerzos a un muy buen precio. Dentro de 850 también hay un carrito de comida, donde venden completos, churrascos, helados, entre otros. Por último, fuera de la facultad a pocos pasos se encuentra un SubWay, y cruzando la calle Blanco Encalada hay distintos negocios como el de “Los Egipcios” donde venden comida rápida. También puedes comprar snacks y café en el CEIN.
+
+Lugares para conseguir toallitas higiénicas y pastillas para el dolor de cabeza: CEIN, ubicado en el primer de industrias o en una farmacia que está por la calle Almirante Latorre.
+
+Lugares con máquinas expendedoras: hay máquinas expendedoras afuera del edificio oriente de 851, donde hay una de bebidas energéticas RedBull, una máquina de Fork y una máquina de snacks en general. También hay una máquina con snacks entre la entrada de 850 y el hall sur del edificio escuela. También hay máquinas expendedoras de café a 700 pesos en el tercer piso del edificio de Geología y en el segundo piso de industrias (edificio oriente de 851).
+
+Dónde hay mesas de ping pong: Hay mesas de ping pong en el piso -3 de 851 y en el casino Domeyko.
+
+Dónde puedo conseguir paletas de ping pong?: Puedes pedir gratuitamente en la oficina del CEIN (Centro de Estudiantes de Ingeniería Industrial), donde dejas tu TUI como garantía, allí puedes pedir paletas y pelotas de ping pong, pelotas de basket, de volley, entre otras cosas.
+
+Se me perdió la TUI, cómo entro a la U?: Para entrar sin la TUI (Tarjeta Universitaria Inteligente) solo se debe mostrar el perfil de Ucampus desde algún dispositivo móvil. Si no eres de la universidad de chile tienes que rellenar el formulario de visitas que se encuentra disponible en el QR que está en la entrada.
+
+Si quieres obtener el certificado de la licenciatura, debes ir a Ucampus, luego a Títulos y Grados, luego seleccionar el programa de Licenciatura en Ciencias de la Ingeniería, Mención XX y ahí dar inicio al proceso.
 `;
