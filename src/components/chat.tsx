@@ -84,10 +84,9 @@ export function Chat() {
               <Avatar className="w-8 h-8 border">
                 {message.role === 'assistant' ? (
                   <>
-                    <AvatarImage src="/placeholder-user.jpg" asChild>
-                      <UbicatitoIcon className="p-1" />
-                    </AvatarImage>
-                    <AvatarFallback>BOT</AvatarFallback>
+                    <AvatarFallback className="bg-primary text-primary-foreground">
+                      <UbicatitoIcon className="w-6 h-6" />
+                    </AvatarFallback>
                   </>
                 ) : (
                   <>
@@ -113,10 +112,9 @@ export function Chat() {
           {isPending && (
             <div className="flex items-start gap-4">
               <Avatar className="w-8 h-8 border">
-                <AvatarImage src="/placeholder-user.jpg" asChild>
-                  <UbicatitoIcon className="p-1" />
-                </AvatarImage>
-                <AvatarFallback>BOT</AvatarFallback>
+                <AvatarFallback className="bg-primary text-primary-foreground">
+                  <UbicatitoIcon className="w-6 h-6" />
+                </AvatarFallback>
               </Avatar>
               <div className="rounded-lg p-3 bg-card text-card-foreground shadow-sm w-full max-w-[80%] space-y-2">
                 <Skeleton className="h-4 w-full" />
