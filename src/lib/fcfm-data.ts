@@ -14,7 +14,7 @@ Horario de Eventos FCFM - Martes:
 - Día: Martes, Evento: Auxiliar, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: FI2001-2 Mecánica, Ubicación: Curso Q10-Edificio Química Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-2 Inglés 1, Ubicación: Curso B114-Edificio Computación Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2021-4 Inglés 1, Ubicación: Curso B205-Edificio Computación Sala
-- Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2022-2 Inglés 2, Ubicación: Curso B115-Edificio Computación Sala
+- Día: Martes, Evento: C.átedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI2022-2 Inglés 2, Ubicación: Curso B115-Edificio Computación Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI3023-1 Inglés 3, Ubicación: Curso B101-Edificio Computación Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4204-10 Inglés 4, Ubicación: Curso B103-Edificio Computación Sala
 - Día: Martes, Evento: Cátedra, Hora Inicio: 08:30, Hora Fin: 10:00, Curso: EI4205-9 Inglés 5, Ubicación: Curso B113-Edificio Computación Sala
@@ -37,4 +37,13 @@ Información de Profesores:
   Correo: richard.weber@uchile.cl
   Contacto: +56 2 29784056, +56 2 29784072, +56 2 29784242, +56 2 29771033, +56 2 29784827
   Oficina: Avenida Beauchef 851
+
+Información de Servicios:
+
+- Nombre: Área de Bienestar Estudiantil
+  Secretaria: Paola Rozas
+  Contacto: +562 29784262, +562 29784273
+  Ubicación: Beauchef 850, Santiago. Zócalo edificio Justicia Espada
+  Correo: bienestarestudiantil@ing.uchile.cl
+  Horario de atención: Lunes a jueves: 9.00 a 13.00 / 15.00 a 17.00 h. Viernes: 09.00 a 13.00 h.
 `;
