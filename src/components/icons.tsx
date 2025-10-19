@@ -1,11 +1,12 @@
 import type { HTMLAttributes } from "react";
 import Image from 'next/image';
+import ubicatitoLogo from '@/components/ui/iconos/ubicatito-logo.png';
 
 export function UbicatitoIcon(props: HTMLAttributes<HTMLDivElement>) {
   return (
     <div {...props}>
       <Image
-        src="/ubicatito-logo.png"
+        src={ubicatitoLogo}
         alt="Logo de Ubicatito"
         width={512}
         height={512}
