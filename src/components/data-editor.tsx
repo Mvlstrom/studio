@@ -52,10 +52,14 @@ export function DataEditor() {
     reader.onload = async (e) => {
       const fileContent = e.target?.result as string;
       
-      const fullData = `Instrucciones para este archivo: ${instructions}\n\n--- Contenido del archivo: ${file.name} ---\n${fileContent}`;
+      const fileData = {
+        content: fileContent,
+        name: file.name,
+        instructions: instructions,
+      };
 
       try {
-        const result = await updateData(fullData);
+        const result = await updateData(fileData);
         if (result.success) {
           toast({
             title: '¡Datos actualizados con éxito!',
