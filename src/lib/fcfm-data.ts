@@ -4,15 +4,21 @@ Informaciones varias
 
 Espacios para almorzar: Cafetería de beauchef 850, Cafetería DeltaTe, Casino de la facultad en Domeyko, Patio de 850, Patio de 851, Piso -1 y -2 de 851 tienen mesas en los pasillos, Terraza “Ebria”.
 
-Espacios para estudiar: Sala de estudio “pajarera” en el segundo piso del hall sur de 850. Biblioteca de 850. Si necesitas imprimir o estudiar con computador puedes ir al CEC en el -1 del edificio norte de 851. Cada departamento tiene sus propios espacios, por ejemplo insutrias tiene salas en el 2do y 3er piso de la torre este de 851, computación tiene los pisos 2 y 3 del edificio oeste de 851, etc. Si estás en plan común y quieres estudiar con tutores puedes ir al Taller de los Dos Relojes. Hay mesas en el hall sur del edificio escuela, y en los patios de 850 y 851.
+Espacios para estudiar: Sala de estudio “pajarera” en el segundo piso del hall sur de 850. Biblioteca de 850. Si necesitas imprimir o estudiar con computador puedes ir al CEC en el -1 del edificio norte de 851. Cada departamento tiene sus propios espacios, por ejemplo industrias tiene salas en el 2do y 3er piso de la torre este de 851 (las salas se pueden reservar en https://sgr.dii.uchile.cl/), computación tiene los pisos 2 y 3 del edificio oeste de 851, etc. Si estás en plan común y quieres estudiar con tutores puedes ir al Taller de los Dos Relojes. Hay mesas en el hall sur del edificio escuela, y en los patios de 850 y 851.
 
 Espacios para dormir: Se puede dormir en la sala “pajarera” donde hay sillones acolchados. Se puede dormir en las escaleras que están fuera del CEC que están acolchadas. Se puede dormir en los sillones que están afuera de la sala B010 en el piso -2 de la torre norte de 851.
 
 Espacios para calentar almuerzo: Hay microondas en el casino Domeyko, en la cafetería de 850, en la cafetería “DeltaTe” de 851, en el segundo piso de industrias (torre oriente de 851) y cada departamento tiene sus propios espacios para poder calentar almuerzo.
 
-Información sobre cursos: el curso IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) lo dictan los Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F. El horario de la clase IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) es de 12:00 a 13:30.
+Información sobre cursos: 
+el curso IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) lo dictan los Profesores: Sergio Celis G., Richard Weber H., Francisco Vilches F. El horario de la clase IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación (powered by GPT) es de 12:00 a 13:30 y la sala es la B06. Este curso ofrece a las/os estudiantes la oportunidad de explorar cómo la inteligencia artificial puede impactar en la enseñanza, el aprendizaje, y la gestión en entornos educativos. El curso abarca los fundamentos teóricos de la IA, las diversas aplicaciones en educación, el diseño de soluciones de IA, y los aspectos éticos involucrados.  Mediante un proyecto semestral, implementado con Chat GPT, los estudiantes desarrollan una comprensión de cómo la IA puede ser aplicada de manera ética y efectiva para mejorar los procesos educativos y promover un aprendizaje más personalizado y eficiente. El curso incluye las siguientes competencias específicas (CE) y genéricas (CG):  CE1: Identificar, analizar y diagnosticar los diferentes elementos de los problemas complejos que surgen en las organizaciones, y que son claves para resolverlos. CE2: Concebir y diseñar soluciones que crean valor para resolver problemas de las organizaciones, utilizando los conocimientos provenientes de la gestión de operaciones, tecnologías de información y comunicaciones, finanzas, economía y marketing. CE6: Crear oportunidades de negocio a través de un emprendimiento. CG3: Actuar de manera responsable y honesta, dando cuenta en forma crítica de sus propias acciones y sus consecuencias, en el marco del respeto hacia la dignidad de las personas y el cuidado del medio social, cultural y natural.
+El curso IN5244-1 Ciencia de los Datos lo dictan los profesores: Richard Weber H., Camila Contreras M. El horario de la clase IN5244-1 Ciencia de los Datos es Cátedra: Martes 10:15 - 11:45, Jueves 10:15 - 11:45 y Auxiliar: Viernes 14:30 - 16:00, todo en la sala G301. Este curso tiene como propósito que el/la estudiante identifique métodos de análisis centrales de la ciencia de datos incluida la regresión, la inferencia causal, aprendizaje estadístico y aprendizaje de máquina.  Para ello, comprenden cómo acceder, tratar, y analizar bases de datos utilizando software estadístico. El curso tributa a las siguientes competencias específicas (CE) y genéricas (CG): CE1: Identificar, analizar y diagnosticar los diferentes elementos de los problemas complejos que surgen en las organizaciones, y que son claves para resolverlos. CE2: Concebir y diseñar soluciones que crean valor para resolver problemas de las organizaciones, utilizando los conocimientos provenientes de la gestión de operaciones, tecnologías de información y comunicaciones, finanzas, economía y marketing.  CE3: Modelar, simular y evaluar problemas de gestión, para encontrar soluciones óptimas, a necesidades de la ingeniería industrial. CE4: Emplear y aplicar los conocimientos de las distintas disciplinas constitutivas de la ingeniería industrial: gestión de operaciones, tecnologías de información y comunicaciones, finanzas, economía y marketing, en las respectivas áreas funcionales de las organizaciones. CE5: Desarrollar habilidades para liderar equipos de trabajo, manejando las relaciones interpersonales. CG1: Comunicación académica y profesional: Comunicar en español de forma estratégica, clara y eficaz, tanto en modalidad oral como escrita, puntos de vista, propuestas de proyectos y resultados de investigación  fundamentados, en situaciones de comunicación compleja, en ambientes sociales, académicos y profesionales. CG3: Compromiso ético: Actuar de manera responsable y honesta, dando cuenta en forma crítica de sus propias acciones y sus consecuencias, en el marco del respeto hacia la dignidad de las personas y el cuidado del medio social, cultural y natural. CG4: Trabajo en equipo: Trabajar en equipo, de forma estratégica y colaborativa, en diversas actividades formativas, a partir de la autogestión de sí mismo y de la relación con el otro, interactuando con los demás en diversos roles: de líder, colaborador u otros, según requerimientos u objetivos del trabajo, sin discriminar por género u otra razón. 
+el curso IN6531-1 Introducción a la Minería de Datos lo dicta Richard Weber H. Su horario es: Cátedra: Martes 16:15 - 17:45 en la sala QP, Jueves 16:15 - 17:45 en la sala B103. Auxiliar: Viernes 12:00 - 13:30 en la sala B213. Al finalizar el curso, los estudiantes: 1. Conocen modelos de Bases de Datos, Bodegas de Datos, OLAP, entendiendo sus usos en aplicaciones en las organizaciones.  2. Entienden los principales objetivos y métodos de Data Mining.  3. Conocen aplicaciones típicas de Data Mining y tiene nociones sobre el uso de herramientas computacionales para la solución y aplicación de distintos métodos de Minería de Datos. 4. Tienen el conocimiento y la capacidad para elegir el método adecuado en una aplicación real y presentar una solución a dicha problemática. 
+el curso IN7127-1 Inteligencia Artificial para los Negocios lo dictan los profesores: Richard Weber H. y Sebastián Santana R. 
+el curso IN7613-1 Seminario de Investigación II lo dictan los profesores: Marcel Goic F., Daniel Schwartz P. y Richard Weber H. El horario es Cátedra: Miércoles 14:30 - 17:45.
+el curso IN3101-1 Taller de Liderazgo e Innovación Social lo dictan los profesores: Sergio Celis Guzmán y Carlos Vignolo F. El horario de Cátedra: Miércoles 08:30 - 11:45 en la sala Multiuso. Auxiliar: Lunes 16:15 - 17:45 en la salas DII 33, DII 31. El curso IN3101, Taller de Liderazgo e Innovación Social, tiene como objetivo principal que los estudiantes incrementen la conciencia de sí y de mundo, reflexionando e incrementando habilidades socio-emocionales, directivas, y políticas que promuevan un desempeño eficaz y ético en sus vidas laborales, personales y en cuanto ciudadanos democráticos. Para facilitar y potenciar estos aprendizajes, los estudiantes trabajan en proyectos de innovación social en comunidades de entre 15 a 20 personas. En el proceso, los estudiantes aprenden a construir confianza, coordinarse a través de la gestión de compromisos, trabajar en equipo y en alianza con actores y organizaciones del medio externo a la Universidad. Se evaluará el cumplimiento de las prácticas de gestión a nivel personal y dentro de cada comunidad. Al participar de talleres semanales, los estudiantes trabajarán estrategias para desarrollar habilidades y aumentar su repertorio de acciones en contextos de difícil coordinación y de incertidumbre. Por ello, las clases tendrán una estructura teórico-práctica, en las cuales se realizarán trabajos individuales y por equipo, y se revisará el avance del diseño y la implementación de las innovaciones sociales del semestre. Este curso pertenece a la Licenciatura en Ciencias de la Ingeniería, mención Industrial, y tributa a las siguientes competencias de egreso: CE1: Identificar, analizar y diagnosticar los diferentes elementos de los problemas complejos que surgen en las organizaciones, y que son claves para resolverlos. CE4: Emplear y aplicar los conocimientos de las distintas disciplinas constitutivas de la ingeniería industrial: gestión de operaciones, tecnologías de información y comunicaciones, finanzas, economía y marketing, en las respectivas áreas funcionales de las organizaciones. CE5: Desarrollar habilidades para liderar equipos de trabajo, manejando las relaciones interpersonales.
 
-Información sobre dónde encontrar profesores en cierto día: Si alguien quiere saber dónde encontrar a un profesor en determinado día (por ejemplo, martes 21 de octubre), hay que enviarle los datos de contacto disponibles y también revisar si dicho profesor está impartiendo alguna clase ese día (por ejemplo, Sergio Celis imparte el ramo IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación los martes de 12:00 pm a 13:30 pm), por lo que se le puede indicar al estudiante que ese profesor estará en la sala en la que dicta el ramo, durante el bloque horario en el que se dicta la clase.
+Información sobre dónde encontrar profesores en cierto día: Si alguien quiere saber dónde encontrar a un profesor en determinado día (por ejemplo, martes 21 de octubre), hay que enviarle los datos de contacto disponibles y también revisar si dicho profesor está impartiendo alguna clase ese día (por ejemplo, Sergio Celis imparte el ramo IN5524-1 Aplicaciones de la Inteligencia Artificial en la Educación los martes de 12:00 pm a 13:30 pm), por lo que se le puede indicar al estudiante que ese profesor estará en la sala en la que dicta el ramo durante el bloque horario en el que se dicta dicha clase, es decir, en la B06.
 
 Información sobre profesores:
 Sergio Celis G.: es el Encargado de Investigación de la Escuela de Ingeniería y Ciencias, su correo es scelis@uchile.cl, su número de contacto es +56 2 29771024 y su oficina está en Beauchef 850.
@@ -20,7 +26,7 @@ Richard Weber H.: es parte del Consejo Consejo del Departamento de Ingeniería I
 
 Bibliotecas: La biblioteca de la universidad está en el hall norte del edificio escuela en beauchef 850.
 
-Lugares de deporte: En el piso -3 de 851 están las áreas de deporte, donde hay cancha de basket/volley, una sala de danza, cancha de futsal, dojo, gimnasio de máquinas y pesas, sala de spinning y cancha de squash, además de camarines. También en el piso -1 de 851 está la piscina temperada de la facultad. También en 850, al costado del edificio de ingeniería química se encuentra un parque de barras. Además al costado del casino de Domeyko hay una cancha techada de la facultad, donde se realizan actividades de algunos electivos deportivos. Por último, al lado de la facultad se encuentra el Parque O´Higgins, el cual también tiene una explanada donde se puede trotar y harto espacio para realizar actividad física, además también tiene su propio parque de barras.
+Lugares de deporte: En el piso -3 de 851 están las áreas de deporte, donde hay cancha de basket/volley, una sala de danza, cancha de futsal, dojo, gimnasio de máquinas y pesas, sala de spinning y cancha de squash, además de camarines. También en el piso -1 de 851 está la piscina temperada de la facultad, para poder ingresar a cualquiera de estas áreas de deporte, debes inscribirte en un horario a través de Ucampus-> Reserva de Espacios-> Área de deporte a la que desees asistir (por ejemplo, Cancha Squash)-> Escoger el horario en el que desees asistir, pulsando Reservar. También en 850, al costado del edificio de ingeniería química se encuentra un parque de barras. Además al costado del casino de Domeyko hay una cancha techada de la facultad, donde se realizan actividades de algunos electivos deportivos. Por último, al lado de la facultad se encuentra el Parque O´Higgins, el cual también tiene una explanada donde se puede trotar y hay harto espacio para realizar actividad física, además también tiene su propio parque de barras.
 
 Lugares para comprar comida: Dentro de la facultad está la cafetería DeltaTe en 851, también está la cafetería de 850 pero no tienen almuerzos. En el edificio de eléctrica está el negocio de la “Sonia”, donde hay variedad de productos. También está el casino en Domeyko, donde puedes comprar almuerzos a un muy buen precio. Dentro de 850 también hay un carrito de comida, donde venden completos, churrascos, helados, entre otros. Por último, fuera de la facultad a pocos pasos se encuentra un SubWay, y cruzando la calle Blanco Encalada hay distintos negocios como el de “Los Egipcios” donde venden comida rápida. También puedes comprar snacks y café en el CEIN.
 
@@ -240,4 +246,97 @@ Contacto:
 +56 2 2978 4432
 Beauchef 850, Santiago. Edificio Justicia Espada, 7mo piso
 juridicafcfm@uchile.cl
+
+15. Unidad de Informática:
+La Unidad de Informática es parte de la Dirección Económica y Administrativa de la Facultad de Ciencias Físicas y Matemáticas. Su misión fundamental es planificar, innovar, coordinar administrar y evaluar las tecnologías de nuestro Servicio Facultad, entregando soporte, mantención y actualización permanente de los recursos de hardware y software que utilizan las y los usuarios de las unidades que pertenecen al Decanato y Vicedecanato. Además, está a cargo de generar y registrar las TUI de funcionarios/as y académicos/as en los sistemas para su funcionamiento. Así también, la unidad coordina los requerimientos y administra a nivel central las licencias y cuentas de usuarios que manejan los sistemas corporativos de la Universidad de Chile.
+Integrantes:
+Jefe de Unidad: Jorge Ortiz Sarovic
+Técnico: Alejandro Rodríguez Leiva
+Técnico: Miguel Domínguez Muñoz
+Contacto	
++562 29784409, +562 29784416, +562 29784916
+Av. Beauchef 850, Santiago. Edificio Justicia Espada, 6to piso	
+jorortiz@ing.uchile.cl, ardriguezleva@ing.uchile.cl, mdominguez@ing.uchile.cl, direinfo@ing.uchile.cl 
+
+16. Unidad de Tesorería:
+La Unidad de Tesorería, dependiente de la Dirección Económica y Administrativa, tiene la responsabilidad de velar por la correcta ejecución de los controles necesarios que dispone la legalidad vigente al objeto de efectuar una labor de fiscalización adecuada sobre los documentos contables que cursan las distintas unidades internas de la Facultad.
+Integrantes:
+Tesorero: Rolando Núñez P.
+Sub jefa Tesorería: Carolina Becerra M.
+Analista: Karina Muñoz M.
+Analista: Victor Vera M.
+Analista: Rosa Araya A.
+Analista: Rodrigo Gajardo P.
+Analista: Scarlette Espinoza A.
+Analista: Elizabeth Rebolledo Q.
+Analista: Romina Caragol R.
+Auxiliar: Alberto Pons V.
+Contacto:
++562 29784423, +562 29780723, +562 29784408, +562 29777488, +562 29784410, +562 29777489, +562 29784892, +562 29784490, +562 29777505
+Beauchef 850, Santiago. Edificio Justicia Espada, 6to piso
+
+17. Dirección Académica, de Investigación e Innovación:
+La Dirección Académica, de Investigación e Innovación tiene como misión contribuir, incentivar y apoyar el desarrollo académico y la labor de investigación científica, tecnológica y de I&D en y entre las unidades académicas. Su propósito es, además, fomentar las actividades multidisciplinarias.
+Integrantes:
+Directora Académica y de Investigación: Viviana Meruane
+Secretaria de Dirección : Roxana Allende
+Coordinadora Ejecutiva: Valeria Villagrán
+Recepcionista/Auxiliar: Gabriela Rozas
+Contacto:
++562 29784426, +562 26718219	
+Av. Beauchef 850, Santiago. Edificio Justicia Espada, 7mo piso.
+sediraca@ing.uchile.cl 
+
+18. Dirección Económica y Administrativa:
+La Dirección Económica y Administrativa (DEA) es un área de soporte del quehacer de la Facultad de Ciencias Físicas y Matemáticas encargada de apoyar a las distintas direcciones y departamentos en materias financiero/contables, tecnológicas, administrativas, y en el ámbito de Recursos Humanos. Igualmente, le corresponde la administración del campus con el propósito de resguardar su adecuado funcionamiento, efectuar un control y seguimientos de la ejecución de los proyectos de investigación, y controlar el cumplimiento normativo –tanto de naturaleza legal como contable– que regula a la Universidad. 
+Integrantes:
+Director Económico y Administrativo: Danilo Kuzmanic Vidal
+Subdirectora Económica y Administrativa: Francisca Castro González
+Secretaria: Marlene López Aguilar
+Contacto
++56 2 2978 4412
+Av. Beauchef 850, torre central, piso 7, Santiago
+direco@ing.uchile.cl 
+
+19. Subdirección de Vinculación Escolar y Formación Temprana:
+La Subdirección de Vinculación Escolar y Formación Temprana es parte de la Dirección de Vinculación Externa. Es la unidad encargada de implementar el Programa EdV (Escuela de Verano), programa educativo para estudiantes de educación básica y media, basado en cursos impartidos por académicos/as, profesores/as y estudiantes de la Universidad de Chile. Su principal objetivo se orienta, promover y favorecer el interés por el conocimiento científico, las tecnologías, las humanidades y las artes, en estudiantes de enseñanza básica y media, entregando acceso a la experiencia universitaria en un ambiente de inclusión y diversidad, a través de una oferta de talleres y cursos, distribuidos a lo largo de todo el año, por medio de los cuales también se busca generar instancias de orientación vocacional.
+Integrantes permanentes:
+Subdirectora (s): Camila Aravena Ruiz
+Coordinador Docente: Osvaldo López Fuentes
+Secretaria Ejecutiva: Daniela Orellana Clavero
+Contacto:
++562 29784550
+Beauchef 850, Santiago. Edificio Escuela, Hall Sur, 2° Piso
+edv@uchile.cl 
+
+20. Área de Bienestar Estudiantil:
+La Unidad de Bienestar Estudiantil es un servicio dependiente de la Subdirección de Asuntos Estudiantiles que tiene como misión intervenir profesionalmente sobre variables socioeconómicas y personales que pueden obstaculizar un buen rendimiento académico de los estudiantes, ofreciendo una atención social permanente. Administra, además, los beneficios de arancel y mantención otorgados por el Estado y la Universidad.
+Integrantes: 
+Jefe unidad: Julia Cornú 
+Secretaria: Paola Rozas 
+Secretaria: Orieta Hidalgo 
+Asistente social: Loreto Quezada 
+Asistente social: Mayra Muñoz 
+Asistente social: Marcela Piñeira 
+Asistente social: Karin Pérez
+Contacto:
+Secretaria: Paola Rozas
++562 29784262, +562 29784273
+Beauchef 850, Santiago. Zócalo edificio Justicia Espada
+bienestarestudiantil@ing.uchile.cl 
+Horario de atención: Lunes a jueves: 9.00 a 13.00 / 15.00 a 17.00 h.  Viernes: 09.00 a 13.00 h
+
+21. Área de Calidad de Vida Estudiantil:
+Desde el año 2008 funciona en la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile el Área de Calidad de Vida Estudiantil, instancia dependiente de la Subdirección de Asuntos Estudiantiles de la Escuela de Ingeniería y Ciencias, con el fin de prestar apoyo a los alumnos y alumnas que se encuentran viviendo alguna situación que afecta su estabilidad emocional y/o psicológica (sean estas originadas por su rendimiento académico o por otras circunstancias de carácter personal), y facilitar el recorrido del estudiantado por la universidad, contribuyendo así a su desarrollo general como estudiante y futuro profesional. Los problemas de salud mental que presenta el estamento estudiantil son entendidos y abordados de manera sistémica y bajo una modalidad de consejería (counselling), centrada en la prevención de la salud mental y promoción de conductas saludables. ¿Qué hacemos?: Prevención, Detección y derivaciones tempranas, Seguimiento
+Orientación y acompañamiento en la desvinculación.
+Integrantes:
+Coordinadora: Katerine Lizama
+Psicóloga: Ana Viñales
+Psicóloga: Diana Cid
+Secretaria: Gladys Benítez
+Contacto:
++562 2978 0730
+Av. Blanco Encalada 2085, 2do piso
+sae@ing.uchile.cl 
+Horario de atención: Lunes a viernes entre 9.00 y 18.00 h
 `;
