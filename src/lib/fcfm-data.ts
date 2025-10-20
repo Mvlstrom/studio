@@ -24,13 +24,13 @@ Información sobre profesores:
 Sergio Celis G.: es el Encargado de Investigación de la Escuela de Ingeniería y Ciencias, su correo es scelis@uchile.cl, su número de contacto es +56 2 29771024 y su oficina está en Beauchef 850.
 Richard Weber H.: es parte del Consejo Consejo del Departamento de Ingeniería Industrial, su correo es richard.weber@uchile.cl y se le puede contactar mediante los siguientes números telefónicos: +56 2 29784056, +56 2 29784072, +56 2 29784242, +56 2 29771033, +56 2 29784827. Su oficina está en Avenida Beauchef 851.
 
-Bibliotecas: La biblioteca de la universidad está en el hall norte del edificio escuela en beauchef 850.
+Bibliotecas: La biblioteca de la universidad está en el hall norte del edificio escuela en beauchef 850. 
 
 Lugares de deporte: En el piso -3 de 851 están las áreas de deporte, donde hay cancha de basket/volley, una sala de danza, cancha de futsal, dojo, gimnasio de máquinas y pesas, sala de spinning y cancha de squash, además de camarines. También en el piso -1 de 851 está la piscina temperada de la facultad, para poder ingresar a cualquiera de estas áreas de deporte, debes inscribirte en un horario a través de Ucampus-> Reserva de Espacios-> Área de deporte a la que desees asistir (por ejemplo, Cancha Squash)-> Escoger el horario en el que desees asistir, pulsando Reservar. También en 850, al costado del edificio de ingeniería química se encuentra un parque de barras. Además al costado del casino de Domeyko hay una cancha techada de la facultad, donde se realizan actividades de algunos electivos deportivos. Por último, al lado de la facultad se encuentra el Parque O´Higgins, el cual también tiene una explanada donde se puede trotar y hay harto espacio para realizar actividad física, además también tiene su propio parque de barras.
 
 Lugares para comprar comida: Dentro de la facultad está la cafetería DeltaTe en 851, también está la cafetería de 850 pero no tienen almuerzos. En el edificio de eléctrica está el negocio de la “Sonia”, donde hay variedad de productos. También está el casino en Domeyko, donde puedes comprar almuerzos a un muy buen precio. Dentro de 850 también hay un carrito de comida, donde venden completos, churrascos, helados, entre otros. Por último, fuera de la facultad a pocos pasos se encuentra un SubWay, y cruzando la calle Blanco Encalada hay distintos negocios como el de “Los Egipcios” donde venden comida rápida. También puedes comprar snacks y café en el CEIN.
 
-Lugares para conseguir toallitas higiénicas y pastillas para el dolor de cabeza: CEIN, ubicado en el primer de industrias o en una farmacia que está por la calle Almirante Latorre.
+Lugares para conseguir toallitas higiénicas y pastillas para el dolor de cabeza: CEIN, ubicado en el primer de industrias o en una farmacia que está por la calle Almirante Latorre. 
 
 Lugares con máquinas expendedoras: hay máquinas expendedoras afuera del edificio oriente de 851, donde hay una de bebidas energéticas RedBull, una máquina de Fork y una máquina de snacks en general. También hay una máquina con snacks entre la entrada de 850 y el hall sur del edificio escuela. También hay máquinas expendedoras de café a 700 pesos en el tercer piso del edificio de Geología y en el segundo piso de industrias (edificio oriente de 851).
 
@@ -93,7 +93,7 @@ Contacto:
 dpenailillo@ing.uchile.cl, javiera.miranda.a@uchile.cl, nathalieviedma@uchile.cl 
 
 4. Oficina de Ingeniería para la Sustentabilidad:
-Creada el año 2013, la Oficina de Ingeniería para la Sustentabilidad (OIS) —dependiente del Vicedecanato— es un espacio de planificación, gestión y discusión de temáticas ligadas a la sustentabilidad en el marco de la Educación Superior. En ese contexto, nos caracterizamos por trabajar en conjunto con un equipo multidisciplinario compuesto por autoridades, estudiantes, académicos/as, funcionarios/as y otras organizaciones ligadas.
+Creada el año 2013, la Oficina de Ingeniería para la Sustentabilidad (OIS) —dependiente del Vicedecanato— es un espacio de planificación, gestión y discusión de temáticas ligadas a la sustentabilidad en el marco de la Educación Superior. En ese contexto, nos caracterizamos por trabajar en conjunto con un equipo multidisciplinario compuesto por autoridades, estudiantes, académicos/as, funcionarios/as и otras organizaciones ligadas.
 Integrantes:
 Jefe de la Oficina: Pablo Garrido S.
 Asistente Administrativa: Nathalie Viedma G.
@@ -245,7 +245,7 @@ Secretaria: Paola Silva Tomea
 Contacto:
 +56 2 2978 4432
 Beauchef 850, Santiago. Edificio Justicia Espada, 7mo piso
-juridicafcfm@uchile.cl
+juridicafcfm@ing.uchile.cl
 
 15. Unidad de Informática:
 La Unidad de Informática es parte de la Dirección Económica y Administrativa de la Facultad de Ciencias Físicas y Matemáticas. Su misión fundamental es planificar, innovar, coordinar administrar y evaluar las tecnologías de nuestro Servicio Facultad, entregando soporte, mantención y actualización permanente de los recursos de hardware y software que utilizan las y los usuarios de las unidades que pertenecen al Decanato y Vicedecanato. Además, está a cargo de generar y registrar las TUI de funcionarios/as y académicos/as en los sistemas para su funcionamiento. Así también, la unidad coordina los requerimientos y administra a nivel central las licencias y cuentas de usuarios que manejan los sistemas corporativos de la Universidad de Chile.
@@ -339,4 +339,233 @@ Contacto:
 Av. Blanco Encalada 2085, 2do piso
 sae@ing.uchile.cl 
 Horario de atención: Lunes a viernes entre 9.00 y 18.00 h
+
+22. Área de Idiomas:
+El Área de Idiomas de la Escuela de Ingeniería y Ciencias contempla los siguientes programas: programa de inglés de pregrado, con cinco niveles y un curso de inglés adicional con metodología basada en proyectos (English Pioneers); programa de francés, con 3 niveles; y programa de español lengua extranjera, con tres niveles. El objetivo de los cursos de lengua extranjera es que, al finalizar los programas, los y las estudiantes logren desenvolverse comunicacionalmente de manera efectiva en forma oral y escrita en estas lenguas, abordando temáticas generales de la vida diaria, académica y profesional. Además, todos estos cursos tributan al Marco Común Europeo de Referencia para las Lenguas (MCER). Por otro lado, el Área de Idiomas ofrece un Programa de Alfabetización Académica y Profesional con cursos basales de Comunicación Académica en Ingeniería y Ciencias y tutorías a cargo de especialistas del laboratorio de escritura Armadillo Lab, cuyo propósito es entregar herramientas para que los y las estudiantes desarrollen las habilidades de comprensión y producción de textos académicos y profesionales, de acuerdo con el mapa de progreso de la competencia en la FCFM. Esta unidad depende de la Subdirección de Gestión Docente de la Escuela de Ingeniería y Ciencias.
+Integrantes:
+Jefa de Área: María Pilar Mai
+Asistente Académica: Elba Navarro
+Coordinadora Programa de Alfabetización Académica y Profesional: Paula Morgado
+Asesor Pedagógico Programa de Alfabetización Académica y Profesional: Diego Riveros
+Secretaria docente: Ingrid Cartes
+Profesora: Mariela Badilla 
+ Profesora: Ana María Carvallo 
+Profesora: Mónica Lipari 
+ Profesor: Álvaro Meza
+ Profesora: Jenniffer Muñoz 
+ Profesor: Jaime Rojas
+Profesora: Ámbar Romero 
+Profesora: Carolina Santander
+Profesora: Margarita Santibáñez
+Profesora: Carla Aro
+Contacto:
+Secretaria docente: Ingrid Cartes
++562 29784840
+Av. Beauchef 850, Santiago. Edificio Escuela, 3er piso, Hall Sur
+idiomas@ing.uchile.cl 
+
+23. Área de Orientación Vocacional:
+El o la orientadora vocacional es la figura que orienta a las y los estudiantes de pregrado de la Facultad de Ciencias Físicas y Matemáticas de la U. de Chile, en problemáticas académicas, vocacionales y en situaciones complejas de su vida universitaria. Es un espacio de conversación que permite orientar a quienes lo requieran, en un ámbito de confidencialidad y con contacto directo con el resto de las áreas de soporte como las unidades de Calidad de Vida y Bienestar Estudiantil, así como con la Subdirección de Gestión Docente y la Dirección de la Escuela de Ingeniería y Ciencias.
+Integrantes:
+Orientadora vocacional: María Fernanda Escobar
+Contacto:
+orientacion_vocacional@ing.uchile.cl 
+
+24. Escuela de Postgrado y Educación Continua:
+La Escuela de Postgrado y Educación Continua es la unidad que centraliza los programa de especialización impartidos en la FCFM. Su misión es impulsar el desarrollo académico y profesional de personas a lo largo de la vida, a través de programas de postgrado y educación continua, en base a la investigación, el conocimiento científico-tecnológico y la innovación, con pertinencia y vocación pública.
+Integrantes
+Director: Gabriel  Easton V.
+Subdirectora Académica: María Pía Martin M.
+Subdirector Ejecutivo de Postgrado: Jorge Díaz M.
+Asistente de Dirección y Docencia: Lorena Fuentes C.
+Asistente Docencia: Erika Latorre V.
+Coordinadora Aseguramiento de la Calidad: Marcela Muñoz G.
+Jefe de Estudios Programas Transversales: Mauricio Bernier M.
+Encargada Comunicaciones y Vinculación con el Medio: Alejandra Avila M.
+Contacto
+Teléfono: +562 2978 4243
+Dirección: Av- Beauchef 850, Santiago. Edificio Justicia Espada, 4to piso.
+Correo electrónico: postgrado@ing.uchile.cl 
+
+25. Subdirección de Educación Continua:
+La Subdirección de Educación Continua tiene como misión principal contribuir a la formación de profesionales, a través de la ejecución de programas permanentes de especialización tales como diplomados y cursos, ambos orientados a fortalecer las competencias profesionales, acorde al conjunto de disciplinas y programas impartidos por la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+Integrantes
+Subdirector: Jorge Cancino B.
+Asistente: Sandra Osorio O.
+Jefe de Operaciones: Felipe Orellana Z.
+Asistente de Proyectos: Claudia Carvallo
+Coordinadora de Programas: Paola Herrera D.
+Coordinadora de Programas: Paola Novoa A.
+Coordinadora de Programas: Carla de la Cruz M.
+Coordinador de Programas Online: Juan Francisco Opazo C.
+Coordinador de Programas Corporativos: Helmut Soto V.
+Coordinador Multimedia y Marketing Digital: Juan Pablo Larson M.
+Coordinadora de Comunicaciones y Redes Sociales: Rocío Hermosilla Z.
+Contacto
+Teléfono: +562 2978 4243
+Dirección: Av. Beauchef 850, Santiago. Edificio Justicia Espada, 4to piso.
+Correo electrónico: econtinuafcfm@uchile.cl
+
+26. Unidad de Infraestructura Docente:
+La unidad de Infraestructura Docente tiene como propósito coordinar el uso de las salas de clases para la docencia, espacios comunes para la extensión y los recursos tecnológicos de apoyo a los procesos de enseñanza aprendizaje. Su labor principal consiste en resolver los requerimientos de uso de salas de clases para el pregrado, postgrado y otras actividades de extensión como seminarios, conferencias y eventos propios de la Facultad.
+Integrantes: 
+Coordinadora Unidad Infraestructura Docente: Yunny Peña
+ Asistente Unidad Infraestructura Docente: Angélica Michea
+Contacto:
+Teléfono	: +569 29784257, +569 29784246
+Dirección: Av. Beauchef 850, Santiago. Edificio justicia Espada, 1er piso
+Correo electrónico: adminsalas@ing.uchile.cl
+
+27. Subdirección de Gestión Docente:
+La Subdirección de Gestión Docente (SGD) sirve a la comunidad de la FCFM apoyando los objetivos e iniciativas académicas de la Escuela de Ingeniería y Ciencias. Las responsabilidades principales de la SGD incluyen supervisar el cumplimiento y correcto desarrollo de los procesos docentes, apoyar el diseño curricular, lograr mejores aprendizajes de los y las estudiantes y contribuir a la acreditación de las carreras y programas.  La SGD está a cargo de las áreas de Gestión Curricular (AGC),  área de Idiomas de la Escuela, área para el Aprendizaje de Ingeniería y Ciencias (A2IC) y Hélice de Ingeniería y Ciencias.
+Integrantes:
+Subdirectora de Gestión Docente: Macarena Zapata
+Jefa de Administración Docente : Paola Rodríguez
+Asistente de Revalidación de Título: Priscilla Cortéz
+Asistente de Procesamiento de Información: Felipe Sepúlveda
+Asistente Administrativa: Carla Basualto
+Analista de Datos: Juan Ross
+Secretaria: Myriam Silva 
+Contacto:
+Dirección: Av. Beauchef 850, Santiago. Edificio Justicia Espada, 2do piso
+Correo electrónico: gestiondocente@ing.uchile.cl 
+Horario de atención:  Lunes a viernes de 9.00 a 13.00 h
+
+28. Subdirección de Asuntos Estudiantiles:
+En universidades exigentes y con un estudiantado heterogéneo se presentan alumnos y/o alumnas que perciben de distinta forma los cambios y condiciones propias de los procesos de educación superior. Por otro lado, la presión social, la continua evaluación de sus propios pares, las exigencias familiares y de sus amigos/as o de los grupos a los que pertenecen, generan elementos estresores que pueden afectar en diverso grado su estabilidad emocional. La Subdirección de Asuntos Estudiantiles (SAE) -a través de sus distintas unidades como Bienestar Estudiantil y Calidad de Vida- ha impulsando el desarrollo del sentido de responsabilidad individual, social y de cooperación de los y las estudiantes, promoviendo las acciones que en su conjunto aporten a su formación integral y protegiendo el bienestar estudiantil, entregando apoyo y orientación para una mejor calidad de vida y crecimiento personal, todo lo cual contribuye al desarrollo social y cultural,y al sentido de pertenencia a la Universidad.
+Integrantes:
+Subdirectora de Asuntos Estudiantiles : Patricia Muñoz
+Secretaria: Myriam Valenzuela
+Diseñadora: Bárbara Silva
+Secretaría CEI: Johanna Morales
+Mayordomo CEI: Guillermo Mella
+Contacto:
+Teléfono: +562 2978 4275
+Dirección: Av. Beauchef 850, Santiago. Edificio justicia Espada, 2do piso
+Correo electrónico: sae@ing.uchile.cl 
+Horarios de atención: Lunes a jueves de 8.30 a 14.00 h y de 15.00 a 17.50 h. Viernes de 8.30 a 14.00 h
+
+29. Hélice:
+Hélice es una unidad organizacional perteneciente a la Escuela de Ingeniería y Ciencias de la FCFM, encargada de gestionar, diseñar e implementar los cursos de proyectos dentro del plan común. Asimismo, Hélice se encarga de fortalecer las competencias de formación para los programas y planes de estudio que están definidas en el perfil de egreso de las carreras de ingeniería y ciencias.
+Integrantes: 
+Coordinador: Ignacio González 
+Encargado de laboratorio: Daniel Gutiérrez
+Jefe de proyecto: Diego de la Fuente
+Secretaria: Tamara Zapata
+Contacto:
+Teléfono: +569297880910
+Dirección: Av. Beauchef 851, Santiago. Edificio Norte, Piso -1, Sala B09 (Laboratorio de Innovación).
+Correo electrónico: helice@ing.uchile.cl 
+
+
+30. Estudios Transversales en Humanidades para las Ingenierías y Ciencias (Ethics):
+En consonancia con el compromiso de la Universidad de Chile y sus principios y valores institucionales, ETHICS contribuye al desarrollo integral de los y las estudiantes a través de la formación y la extensión en el ámbito de las Humanidades, las Ciencias Sociales y las Artes en los planes de estudio que imparte la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile. De este modo busca aportar a la formación ética, al pensamiento crítico y sistémico, y al quehacer de su comunidad desde una perspectiva inter y transdisciplinaria, con sustento en la reflexión y en la investigación en torno a las relaciones entre ciencia, tecnología y sociedad.
+Integrantes:
+Profesores/as ETHICS vigentes a Primavera 2025:
+Ximena Azúa (literata, docente)
+Deborah Carrasco (actriz, docente, profesional metodologías activas)
+Josefa Cerda (ingeniera civil y profesora, profesional gestión docente, docente)
+César Cuadra (literato, docente)
+Carlos Contreras Painemal (antropólogo mapuche, docente)
+Alberto de la Fuente (ingeniero civil, docente)
+Rosario del Pilar Fernández (socióloga, docente)
+Verónica Figueroa (cientista política, docente)
+Fede Fuenzalida (psicólogo, docente)
+Claudio Gutiérrez (matemático, docente)
+Rodrigo Alejandro Jiliberto (economista ambiental, docente)
+Ricardo Loebell (filósofo e ingeniero, docente)
+Fresia Verónica Loncón (educadora tradicional mapuche, docente)
+Rubén Maquera (profesor, educador tradicional aymara, docente)
+Jorge Martínez (filósofo, profesional unidad de ética, docente)
+Gabriel Matthey (ingeniero civil y compositor, docente)
+Andrés Monares (antropólogo, encargado extensión y publicaciones, docente)
+Jannet Patzi (antropóloga aymara, docente)
+Darinka Radovic (psicóloga, docente)
+Michael Reynolds (historiador, docente, profesional extensión y publicaciones)
+Pablo Ramírez (filósofo, encargado unidad de ética, docente)
+Andrea Rodríguez (historiadora y psicóloga, docente, profesional metodologías activas)
+Claudia Rodríguez (geógrafa, jefa de área, coordinadora docente)
+Vanessa Rugiero (geógrafa, docente)
+María Torres (literata, editora publicaciones ETHICS, docente)
+Ximena Vergara (literata, docente)
+Contacto:
+Secretaria: Sara Yáñez
+Teléfono: +562 29784739
+Av. Beauchef 850, Santiago. Edificio Escuela, 3er piso, Hall Sur
+Correo electrónico: syanez@uchile.cl 
+
+31. Área de Deportes, Educación Física y Expresión Artística:
+El Área de Deportes, Educación Física y Expresiones Artísticas (ADEFA), dependiente de la Subdirección de Asuntos Estudiantiles, tiene como misión contribuir a la formación integral de los y las estudiantes, aportar al bienestar estudiantil y fomentar la práctica del ejercicio físico, el deporte y la expresión artística en la comunidad estudiantil de la Facultad de Ciencias Físicas y Matemáticas (FCFM). Para ello, ADEFA desarrolla su quehacer a través de tres programas:a) Ámbito curricular (DR): Cursos de formación integral (DR) de actividad física, deportiva, teatro y música. b) Representación institucional: Se vincula con las unidades académicas de nuestra universidad a través de las competencias deportivas internas de estudiantes llamadas TIF (Torneos inter facultades) y JOE (Juegos Olímpicos Estudiantiles) de la Universidad de Chile. c) Programa extracurricular: Actividades que realizan las y los estudiantes en su tiempo libre en el uso de la piscina y el gimnasio de máquinas de ejercicios, dirigidos y coordinados por profesores y profesoras de educación física.
+Integrantes:
+Profesor Educación Física: Sebastián Espoz José Tham
+Profesor Educación Física: Jorge de la Cerda Felipe Arriagada
+Profesora Educación Física: Hugo Díaz Pablo Jaramillo
+Profesor Educación Física: Andrés Aguayo
+Profesor Educación Física: Raúl Aburto
+Profesor Escalada: Quentin Zaparucha
+Auxiliar: Marco Vaccaris
+Contacto
+Teléfono	: +562 2978 4790, +562 2978 4075
+Dirección: Av. Beauchef 851, piso -3
+Correo electrónico: deportes@ing.uchile.cl 
+Horario de atención: Lunes a jueves de 9.00 a 13.00 h y de 14.00 a 17.00 h. Viernes de 9.00 a 13.00 h y de 14.00 a 15.00 h.
+
+32. Área de Soporte Técnico (AST):
+El Área de soporte técnico, dependiente de la Subdirección de Gestión Docente de la Escuela de Ingeniería y Ciencias, tiene como principal objetivo garantizar el adecuado funcionamiento de las tecnologías de información y comunicación (softwares y hardwares) en las salas de clases y auditorios de la Facultad, así́ como los procesos del sistema de gestión de calidad, mediante la realización del mantenimiento de hardware y software con asistencia técnica preventiva y correctiva. Tiene a su cargo 82 salas de clases y 2 auditorios.
+Sus funciones son: 
+Implementar infraestructura tecnológica en las salas de clases y salones que se encuentran a cargo de la Escuela de Ingeniería y Ciencias .
+Dar soporte técnico y operativo a las salas de clases, salones y espacios destinados a la docencia de toda la Facultad. 
+Dar soporte técnico a las y los usuarios internos (funcionarios/as) de la Escuela de Ingeniería y Ciencias. 
+Realizar revisión y reportes del estado de la infraestructura de las salas de clases y auditorios de la Facultad. 
+En la actualidad, el AST está compuesto por una jefa de área, un coordinador técnico, 14 técnicos especialistas y nueve auxiliares de salas.
+Los grupos de trabajo se distribuyen en cinco módulos que se identifican como: Beauchef Poniente (BP), Hall Sur (HS), Geología (GEO) y Física-Eléctrica-Química (FEQ) y Neo (Torre Norte) que se encuentran localizados en diferentes edificios de la Facultad. La ubicación de los módulos permite optimizar el tiempo de desplazamiento para llegar en forma oportuna a la apertura de las salas y brindar apoyo al profesor/a antes del inicio y/o durante el desarrollo de la clase. 
+Integrantes:
+Jefe de Área: Beatriz Orellana E.
+Coordinador Técnico: Hans Arenas B.
+Técnico:  Alexis Alarcón Saavedra
+Auxiliar de sala: Marcelo Araya Morales
+Técnico: Eduardo Cabrera Vilca
+Técnica: Solange Cáceres Acevedo
+Técnica: Melisa Calvo González
+Auxiliar de sala: Ana María Cea Gacitúa
+Técnico: Juan Celis Saavedra 
+Auxiliar de sala: Solange Contreras Garrido
+Técnica: Catalina Cruz Díaz
+Técnico: Luis Galaz Flores
+Técnico: Diego Ibarra Soto
+Técnico: Benjamín Ip Sarmiento
+Auxiliar de sala: Irene Jara Loyola
+Auxiliar de sala: Mario Leiva Hernández
+Técnica: Catalina Muñoz Vidal
+Auxiliar de sala: Hernan Neculman Medina
+Técnico: Felipe Norambuena González
+Auxiliar de sala: Juan Paillán Catalán
+Técnico: Omar Pizarro Ramírez
+Auxiliar de sala: Luis Tamayo Beltramin
+Técnico: Samuel Velásquez
+Técnico: Bastián Vilches
+Auxiliar de sala: Carlos Yefe Arias
+Contacto:
++56 2 29784316, +56 2 29784941
+Torre norte, piso 1: +56 2 29784668
+Torre norte, piso 2: +56 2 29771081
+Beauchef poniente, piso -1: +56 2 29771064
+Edificio Escuela, S18 (FEQ – Hall Sur): +56 2 29780620
+Edificio Geología: +56 2 29780990
+Correo electrónico: soporte.salas@ing.uchile.cl
+
+
+33. Área para el Aprendizaje de Ingeniería y Ciencias (A2IC):
+El Área de Aprendizaje de Ingeniería y Ciencias de la FCFM, se enfoca en el apoyo a docentes y estudiantes de la Facultad, para potenciar las estrategias de enseñanza y aprendizaje de sus programas de estudio. Dependiente de la subdirección de Gestión Docente, cuenta con un equipo de profesionales multidisciplinario, que aborda diversos temas relacionados con la labor docente
+Integrantes:
+Coordinador: Felipe Célèry
+Equipo docencia: Fernanda Guzmán
+Equipo docencia: Julio Contreras
+Equipo docencia: Ricardo Mancilla 
+Equipo investigación: Nicolás Bravo
+Centro de Producción Audiovisual: Alejandro Cortés
+Centro de Producción Audiovisual: Magdalena Vallejos
+Centro de Producción audiovisual: Christopher Garcés
+Contacto:
+Dirección: Av. Beauchef 850, Santiago. Edificio Escuela, 3er piso.
 `;
