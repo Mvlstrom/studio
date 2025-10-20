@@ -1176,4 +1176,1517 @@ Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
 553	Cátedra	19:30	21:00		MIE7104-1 Seminario de Innovación y Emprendimiento Científico-Tecnológico I Curso B211-Edificio Computación Sala	MIE7104-1	Seminario de Innovación y Emprendimiento Científico-Tecnológico I	B211-Edificio Computación
 554	Cátedra	19:30	21:00		MIE7201-1 Formulación y Gestión de Proyectos de Innovación y Emprendimiento Tecnológicos Curso B115-Edificio Computación Sala	MIE7201-1	Formulación y Gestión de Proyectos de Innovación y Emprendimiento Tecnológicos	B115-Edificio Computación
 
+
+Eventos del Miércoles 22 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+8:00								
+1	Auxiliar	8:00	10:00		CC1002-8 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-8	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+2	Auxiliar	8:00	10:00		MA5402-1 Cálculo Estocástico Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA5402-1	Cálculo Estocástico	Seminario DIM 5º PISO-Edificio Computación
+3	Cátedra	8:00	10:00		ME3220-4 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-4	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+4	Control	8:00	10:00		EL3101-2 Análisis y Diseño de Circuitos Eléctricos Curso E213-Edificio Eléctrica Sala	EL3101-2	Análisis y Diseño de Circuitos Eléctricos	E213-Edificio Eléctrica
+8:30								
+5	Auxiliar	8:30	10:00		MA2002-1 Cálculo Avanzado y Aplicaciones Curso B204-Edificio Computación Sala	MA2002-1	Cálculo Avanzado y Aplicaciones	B204-Edificio Computación
+6	Auxiliar	8:30	10:00		MA2002-5 Cálculo Avanzado y Aplicaciones Curso B104-Edificio Computación Sala	MA2002-5	Cálculo Avanzado y Aplicaciones	B104-Edificio Computación
+7	Auxiliar	8:30	10:00		MI5115-1 Diseño y Planificación de Minas a Cielo Abierto Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI5115-1	Diseño y Planificación de Minas a Cielo Abierto	Laboratorio Bunker - Depto. Minas-Edificio Química
+8	Auxiliar	8:30	10:00		GL5321-1 Geología Aplicada a la Ingeniería Curso G104-Edificio Geología Sala	GL5321-1	Geología Aplicada a la Ingeniería	G104-Edificio Geología
+9	Auxiliar	8:30	10:00		CI4165-1 Calidad de Agua Curso F9-Edificio Física Sala	CI4165-1	Calidad de Agua	F9-Edificio Física
+10	Auxiliar	8:30	10:00		FI1100-6 Introducción a la Física Moderna Curso B03-Beauchef 851 Sala	FI1100-6	Introducción a la Física Moderna	B03-Beauchef 851
+11	Auxiliar	8:30	10:00		FI1100-7 Introducción a la Física Moderna Curso F20-Edificio Física Sala	FI1100-7	Introducción a la Física Moderna	F20-Edificio Física
+12	Auxiliar	8:30	10:00		FI3001-1 Vibraciones y Ondas Curso F22-Edificio Física Sala	FI3001-1	Vibraciones y Ondas	F22-Edificio Física
+13	Auxiliar	8:30	10:00		FI3111-1 Mecánica Clásica Curso F11-Edificio Física Sala	FI3111-1	Mecánica Clásica	F11-Edificio Física
+14	Auxiliar	8:30	10:00		IN703-1 Macroeconomía I Curso B001-Edificio Computación Sala	IN703-1	Macroeconomía I	B001-Edificio Computación
+15	Beauchef International Day - DIRVEX	8:30	16:00		Patio Principal Beauchef 851-Beauchef 851 Sala			Patio Principal Beauchef 851-Beauchef 851
+16	Cátedra	8:30	10:00		EI4204-11 Inglés 4 Curso B115-Edificio Computación Sala	EI4204-11	Inglés 4	B115-Edificio Computación
+17	Cátedra	8:30	10:00		EI4205-1 Inglés 5 Curso B103-Edificio Computación Sala	EI4205-1	Inglés 5	B103-Edificio Computación
+18	Cátedra	8:30	10:00		EI4205-2 Inglés 5 Curso B205-Edificio Computación Sala	EI4205-2	Inglés 5	B205-Edificio Computación
+19	Cátedra	8:30	10:00		EI4205-5 Inglés 5 Curso B101-Edificio Computación Sala	EI4205-5	Inglés 5	B101-Edificio Computación
+20	Cátedra	8:30	10:00		EI4205-7 Inglés 5 Curso B113-Edificio Computación Sala	EI4205-7	Inglés 5	B113-Edificio Computación
+21	Cátedra	8:30	10:00		EI2303-1 Frances Intermedio Curso B105-Edificio Computación Sala	EI2303-1	Frances Intermedio	B105-Edificio Computación
+22	Cátedra	8:30	10:00		DR410A-1 Tenis I Curso Cancha Tenis B. Poniente-Beauchef 851 Sala	DR410A-1	Tenis I	Cancha Tenis B. Poniente-Beauchef 851
+23	Cátedra	8:30	10:00		ME4240-1 Máquinas Curso F21-Edificio Física Sala	ME4240-1	Máquinas	F21-Edificio Física
+24	Cátedra	8:30	10:00		CC4303-2 Redes Curso G306-Edificio Geología Sala	CC4303-2	Redes	G306-Edificio Geología
+25	Cátedra	8:30	10:00		MA3101-1 Elementos de Álgebra Curso B05-Beauchef 851 Sala	MA3101-1	Elementos de Álgebra	B05-Beauchef 851
+26	Cátedra	8:30	10:00		IQ3711-1 Sustentabilidad en Ingeniería Curso B211-Edificio Computación Sala	IQ3711-1	Sustentabilidad en Ingeniería	B211-Edificio Computación
+27	Cátedra	8:30	10:00		BT5422-1 Tecnologías Microbianas Curso B203-Edificio Computación Sala	BT5422-1	Tecnologías Microbianas	B203-Edificio Computación
+28	Cátedra	8:30	10:00		IN3101-1 Taller de Liderazgo e Innovación Social Curso DII 33-Domeyko 2338 (DII) Sala DII 31-Domeyko 2338 (DII) Sala	IN3101-1	Taller de Liderazgo e Innovación Social	DII 33-Domeyko 2338 (DII) | DII 31-Domeyko 2338 (DII)
+29	Cátedra	8:30	10:00		IN4102-1 Taller de Concepción y Diseño de Proyectos Curso Q21-Edificio Química Sala	IN4102-1	Taller de Concepción y Diseño de Proyectos	Q21-Edificio Química
+30	Cátedra	8:30	10:00		IN4102-2 Taller de Concepción y Diseño de Proyectos Curso Q23-Edificio Química Sala	IN4102-2	Taller de Concepción y Diseño de Proyectos	Q23-Edificio Química
+31	Cátedra	8:30	10:00		IN4232-2 Finanzas Curso S15-Edificio Escuela Sala	IN4232-2	Finanzas	S15-Edificio Escuela
+32	Cátedra	8:30	10:00		IN5103-1 Gestión Integral de Negocios Curso N11-Edificio Escuela Sala	IN5103-1	Gestión Integral de Negocios	N11-Edificio Escuela
+33	Cátedra	8:30	10:00		IN5111-1 Comportamiento Organizacional Curso Q22-Edificio Química Sala	IN5111-1	Comportamiento Organizacional	Q22-Edificio Química
+34	Cátedra	8:30	10:00		IN6004-1 Gestión Integral de Negocios Curso	IN6004-1	Gestión Integral de Negocios	
+35	Cátedra	8:30	10:00		EH2526-1 Género y STEM: aportes a la formación y práctica profesional Curso S25-Edificio Escuela Sala	EH2526-1	Género y STEM: aportes a la formación y práctica profesional	S25-Edificio Escuela
+36	Cátedra	8:30	10:00		GL4101-1 Geología Estructural Curso G111-Edificio Geología Sala	GL4101-1	Geología Estructural	G111-Edificio Geología
+37	Cátedra	8:30	10:00		GL6006-1 Teledetección: Fundamentos y Aplicaciones en Geología Curso G105 Laboratorio de Computación-Edificio Geología Sala	GL6006-1	Teledetección: Fundamentos y Aplicaciones en Geología	G105 Laboratorio de Computación-Edificio Geología
+38	Cátedra	8:30	10:00		CD1201-15 Proyecto de Innovación en Ingeniería y Ciencias Curso B06-Beauchef 851 Sala	CD1201-15	Proyecto de Innovación en Ingeniería y Ciencias	B06-Beauchef 851
+39	Cátedra	8:30	10:00		IN4102-3 Taller de Concepción y Diseño de Proyectos Curso B07-Beauchef 851 Sala	IN4102-3	Taller de Concepción y Diseño de Proyectos	B07-Beauchef 851
+40	Cátedra	8:30	10:00		CI4246-1 Ingeniería de Transito Curso B114-Edificio Computación Sala	CI4246-1	Ingeniería de Transito	B114-Edificio Computación
+41	Cátedra	8:30	10:00		CI5123-1 Proyecto de Hormigón Armado Curso B100-Edificio Computación Sala	CI5123-1	Proyecto de Hormigón Armado	B100-Edificio Computación
+42	Cátedra	8:30	10:00		CI5123-2 Proyecto de Hormigón Armado Curso B210-Edificio Computación Sala	CI5123-2	Proyecto de Hormigón Armado	B210-Edificio Computación
+43	Cátedra	8:30	10:00		FI2002-3 Electromagnetismo Curso F10-Edificio Física Sala	FI2002-3	Electromagnetismo	F10-Edificio Física
+44	Cátedra	8:30	10:00		FI2002-4 Electromagnetismo Curso B08-Beauchef 851 Sala	FI2002-4	Electromagnetismo	B08-Beauchef 851
+45	Cátedra	8:30	10:00		FI4112-1 Introducción a la Investigación II Curso B208-Edificio Computación Sala	FI4112-1	Introducción a la Investigación II	B208-Edificio Computación
+46	Cátedra	8:30	10:00		EL4203-2 Programación Avanzada Curso F12-Edificio Física Sala	EL4203-2	Programación Avanzada	F12-Edificio Física
+47	Cátedra	8:30	10:00		MDS7201-1 Proyecto de Ciencia de Datos Curso G303-Edificio Geología Sala	MDS7201-1	Proyecto de Ciencia de Datos	G303-Edificio Geología
+48	Cátedra	8:30	10:00		IN4102-4 Taller de Concepción y Diseño de Proyectos Curso S17-Edificio Escuela Sala	IN4102-4	Taller de Concepción y Diseño de Proyectos	S17-Edificio Escuela
+49	Cátedra	8:30	10:00		AA1101M-2 Tutoría Integral Par: Intro. al Álgebra Curso S14-Edificio Escuela Sala	AA1101M-2	Tutoría Integral Par: Intro. al Álgebra	S14-Edificio Escuela
+50	Laboratorio	8:30	10:00		ME3140-1 Mecánica de Fluidos Curso	ME3140-1	Mecánica de Fluidos	
+51	Laboratorio	8:30	10:00		FI1000-1 Introducción a la Física Clásica Curso	FI1000-1	Introducción a la Física Clásica	
+52	Laboratorio	8:30	10:00		FI1100-4 Introducción a la Física Moderna Curso	FI1100-4	Introducción a la Física Moderna	
+53	Laboratorio	8:30	10:00		FI2003-4 Métodos Experimentales Curso	FI2003-4	Métodos Experimentales	
+54	Laboratorio	8:30	10:00		CD1201-5 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-5	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+9:00								
+55	Taller de Feedback Voluntario	9:00	12:00		IN6190-1 Taller de Práctica Profesional Extendida Curso B206-Edificio Computación Sala	IN6190-1	Taller de Práctica Profesional Extendida	B206-Edificio Computación
+9:00								
+56	Exámen de Grado o Título	9:00	10:00		Examen de Grado de Sebastián Krusell H. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Sebastián Krusell H. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+57	Exámen de Grado o Título	9:00	11:00		Examen de Grado de Rodrigo Rapimán N. Examen de Grado Auditorio P303, Philippe Flajolet Sala			Examen de Grado de Rodrigo Rapimán N. Examen de Grado Auditorio P303, Philippe Flajolet
+10:00								
+58	Auxiliar	10:00	12:00		CC1002-6 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-6	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+59	Auxiliar	10:00	12:00		CI3111-1 Mecánica Estructural Curso E111-Edificio Eléctrica Sala	CI3111-1	Mecánica Estructural	E111-Edificio Eléctrica
+60	Beauchef International Day - DIRVEX	10:00	10:45		B03-Beauchef 851 Sala	B03-Beauchef		B03-Beauchef 851
+61	Cátedra	10:00	12:00		ME3220-4 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-4	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+62	Cátedra	10:00	12:00		CC5117-1 Algoritmos, Redes y Equidad: Análisis de Sistemas Sociotécnicos Curso F11-Edificio Física Sala	CC5117-1	Algoritmos, Redes y Equidad: Análisis de Sistemas Sociotécnicos	F11-Edificio Física
+63	Cátedra	10:00	12:00		EP6003-1 Creación de Negocios: Modelos de Negocio Innovadores Curso	EP6003-1	Creación de Negocios: Modelos de Negocio Innovadores	
+64	Control	10:00	12:00		EL3101-2 Análisis y Diseño de Circuitos Eléctricos Curso E213-Edificio Eléctrica Sala	EL3101-2	Análisis y Diseño de Circuitos Eléctricos	E213-Edificio Eléctrica
+10:00								
+65	Exámen de Grado o Título	10:00	12:00		Examen de Grado de Tomás Rodríguez D. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Tomás Rodríguez D. Examen de Grado Auditorio Picarte 3ER Piso DCC
+66	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Nicolás Montecinos Q. Examen de Grado DII 201 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Nicolás Montecinos Q. Examen de Grado DII 201 Domeyko 2338 2DO. Piso
+10:15								
+67	Auxiliar	10:15	11:45		CC4301-1 Arquitectura de Computadores Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	CC4301-1	Arquitectura de Computadores	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+68	Auxiliar	10:15	11:45		MA2002-2 Cálculo Avanzado y Aplicaciones Curso B01-Beauchef 851 Sala	MA2002-2	Cálculo Avanzado y Aplicaciones	B01-Beauchef 851
+69	Auxiliar	10:15	11:45		MA2002-4 Cálculo Avanzado y Aplicaciones Curso G304-Edificio Geología Sala	MA2002-4	Cálculo Avanzado y Aplicaciones	G304-Edificio Geología
+70	Auxiliar	10:15	11:45		IN3221-1 Teoría de Juegos y Estrategia Curso QP-Edificio Química Sala	IN3221-1	Teoría de Juegos y Estrategia	QP-Edificio Química
+71	Auxiliar	10:15	11:45		IN3221-2 Teoría de Juegos y Estrategia Curso QP-Edificio Química Sala	IN3221-2	Teoría de Juegos y Estrategia	QP-Edificio Química
+72	Auxiliar	10:15	11:45		GL5321-1 Geología Aplicada a la Ingeniería Curso G104-Edificio Geología Sala	GL5321-1	Geología Aplicada a la Ingeniería	G104-Edificio Geología
+73	Auxiliar	10:15	11:45		GL6006-1 Teledetección: Fundamentos y Aplicaciones en Geología Curso G105 Laboratorio de Computación-Edificio Geología Sala	GL6006-1	Teledetección: Fundamentos y Aplicaciones en Geología	G105 Laboratorio de Computación-Edificio Geología
+74	Auxiliar	10:15	11:45		CI4121-1 Ingeniería Geotécnica Curso F20-Edificio Física Sala	CI4121-1	Ingeniería Geotécnica	F20-Edificio Física
+75	Auxiliar	10:15	11:45		CI4211-1 Diseño Sísmico de Estructuras Curso F12-Edificio Física Sala	CI4211-1	Diseño Sísmico de Estructuras	F12-Edificio Física
+76	Auxiliar	10:15	11:45		FI1100-3 Introducción a la Física Moderna Curso B112-Edificio Computación Sala	FI1100-3	Introducción a la Física Moderna	B112-Edificio Computación
+77	Auxiliar	10:15	11:45		FI2001-1 Mecánica Curso F10-Edificio Física Sala	FI2001-1	Mecánica	F10-Edificio Física
+78	Auxiliar	10:15	11:45		FI2001-3 Mecánica Curso Q10-Edificio Química Sala	FI2001-3	Mecánica	Q10-Edificio Química
+79	Auxiliar	10:15	11:45		FI3104-1 Métodos Numéricos para la Ciencia e Ingeniería Curso F22-Edificio Física Sala	FI3104-1	Métodos Numéricos para la Ciencia e Ingeniería	F22-Edificio Física
+80	Auxiliar	10:15	11:45		EL6101-1 Taller de Proyectos Tecnológicos Curso B114-Edificio Computación Sala	EL6101-1	Taller de Proyectos Tecnológicos	B114-Edificio Computación
+81	Auxiliar	10:15	11:45		GF3103-1 Introducción a la Meteorología Curso N02-Edificio Escuela Sala	GF3103-1	Introducción a la Meteorología	N02-Edificio Escuela
+82	Auxiliar	10:15	11:45		GF5013-1 Métodos Inversos Aplicados a la Geofísica Curso Sala Geofísica 2º Piso-Geofísica Sala	GF5013-1	Métodos Inversos Aplicados a la Geofísica	Geofísica 2º Piso-Geofísica
+83	Auxiliar	10:15	11:45		IN7505-1 Introducción a la Economía Política Curso G111-Edificio Geología Sala	IN7505-1	Introducción a la Economía Política	G111-Edificio Geología
+84	Auxiliar	10:15	11:45		IN7511-1 Economía Política: Conflicto y Protestas Curso	IN7511-1	Economía Política: Conflicto y Protestas	
+85	Cátedra	10:15	11:45		EI4204-11 Inglés 4 Curso B115-Edificio Computación Sala	EI4204-11	Inglés 4	B115-Edificio Computación
+86	Cátedra	10:15	11:45		EI4205-1 Inglés 5 Curso B103-Edificio Computación Sala	EI4205-1	Inglés 5	B103-Edificio Computación
+87	Cátedra	10:15	11:45		EI4205-2 Inglés 5 Curso B205-Edificio Computación Sala	EI4205-2	Inglés 5	B205-Edificio Computación
+88	Cátedra	10:15	11:45		EI4205-5 Inglés 5 Curso B101-Edificio Computación Sala	EI4205-5	Inglés 5	B101-Edificio Computación
+89	Cátedra	10:15	11:45		EI4205-7 Inglés 5 Curso B113-Edificio Computación Sala	EI4205-7	Inglés 5	B113-Edificio Computación
+90	Cátedra	10:15	11:45		EI2303-1 Frances Intermedio Curso B105-Edificio Computación Sala	EI2303-1	Frances Intermedio	B105-Edificio Computación
+91	Cátedra	10:15	11:45		DR520A-1 Yoga Curso Dojo-Beauchef 851 Sala	DR520A-1	Yoga	Dojo-Beauchef 851
+92	Cátedra	10:15	11:45		DR520B-1 Yoga II Curso Dojo-Beauchef 851 Sala	DR520B-1	Yoga II	Dojo-Beauchef 851
+93	Cátedra	10:15	11:45		DR410A-2 Tenis I Curso Cancha Tenis B. Poniente-Beauchef 851 Sala	DR410A-2	Tenis I	Cancha Tenis B. Poniente-Beauchef 851
+94	Cátedra	10:15	11:45		ME4160-1 Gestión de Activos Físicos Curso B06-Beauchef 851 Sala	ME4160-1	Gestión de Activos Físicos	B06-Beauchef 851
+95	Cátedra	10:15	11:45		ME4220-1 Planos de Ingeniería Curso Sala Computadores 4º piso Mecánica-Edificio Central Sala	ME4220-1	Planos de Ingeniería	Computadores 4º piso Mecánica-Edificio Central
+96	Cátedra	10:15	11:45		ME5140-2 Ingeniería en Termofluidos Curso Sala Seminario Depto. Mecanica-Beauchef 851 Sala	ME5140-2	Ingeniería en Termofluidos	Seminario Depto. Mecanica-Beauchef 851
+97	Cátedra	10:15	11:45		ME7250-1 Materiales Avanzados para Celdas Solidas en Conversión de Energía Curso B208-Edificio Computación Sala	ME7250-1	Materiales Avanzados para Celdas Solidas en Conversión de Energía	B208-Edificio Computación
+98	Cátedra	10:15	11:45		CC3001-2 Algoritmos y Estructuras de Datos Curso B203-Edificio Computación Sala	CC3001-2	Algoritmos y Estructuras de Datos	B203-Edificio Computación
+99	Cátedra	10:15	11:45		CC3201-2 Bases de Datos Curso B05-Beauchef 851 Sala	CC3201-2	Bases de Datos	B05-Beauchef 851
+100	Cátedra	10:15	11:45		CC4302-1 Sistemas Operativos Curso B213-Edificio Computación Sala	CC4302-1	Sistemas Operativos	B213-Edificio Computación
+101	Cátedra	10:15	11:45		CC5003-1 Aplicaciones Web Reactivas Curso B04-Beauchef 851 Sala	CC5003-1	Aplicaciones Web Reactivas	B04-Beauchef 851
+102	Cátedra	10:15	11:45		CC5301-1 Introducción a la Criptografía Moderna Curso B08-Beauchef 851 Sala	CC5301-1	Introducción a la Criptografía Moderna	B08-Beauchef 851
+103	Cátedra	10:15	11:45		CC5611-1 Ética para Ingenieros en Computación Curso	CC5611-1	Ética para Ingenieros en Computación	
+104	Cátedra	10:15	11:45		MA3801-1 Análisis Curso S24-Edificio Escuela Sala	MA3801-1	Análisis	S24-Edificio Escuela
+105	Cátedra	10:15	11:45		MA3802-1 Teoría de la Medida Curso B02-Beauchef 851 Sala	MA3802-1	Teoría de la Medida	B02-Beauchef 851
+106	Cátedra	10:15	11:45		MA4801-1 Análisis Funcional Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA4801-1	Análisis Funcional	Seminario DIM 5º PISO-Edificio Computación
+107	Cátedra	10:15	11:45		MA4802-1 Ecuaciones en Derivadas Parciales Curso QO-Edificio Química Sala	MA4802-1	Ecuaciones en Derivadas Parciales	QO-Edificio Química
+108	Cátedra	10:15	11:45		IQ3711-1 Sustentabilidad en Ingeniería Curso B211-Edificio Computación Sala	IQ3711-1	Sustentabilidad en Ingeniería	B211-Edificio Computación
+109	Cátedra	10:15	11:45		IQ4314-1 Diseño de Reactores Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	IQ4314-1	Diseño de Reactores	G108 - Humberto Fuenzalida-Edificio Geología
+110	Cátedra	10:15	11:45		IQ5113-1 Dinámica y Control de Procesos Curso S28-Edificio Escuela Sala	IQ5113-1	Dinámica y Control de Procesos	S28-Edificio Escuela
+111	Cátedra	10:15	11:45		IN3101-1 Taller de Liderazgo e Innovación Social Curso DII 33-Domeyko 2338 (DII) Sala DII 31-Domeyko 2338 (DII) Sala	IN3101-1	Taller de Liderazgo e Innovación Social	DII 33-Domeyko 2338 (DII) | DII 31-Domeyko 2338 (DII)
+112	Cátedra	10:15	11:45		IN4102-1 Taller de Concepción y Diseño de Proyectos Curso Q21-Edificio Química Sala	IN4102-1	Taller de Concepción y Diseño de Proyectos	Q21-Edificio Química
+113	Cátedra	10:15	11:45		IN4102-2 Taller de Concepción y Diseño de Proyectos Curso Q23-Edificio Química Sala	IN4102-2	Taller de Concepción y Diseño de Proyectos	Q23-Edificio Química
+114	Cátedra	10:15	11:45		IN4232-2 Finanzas Curso S15-Edificio Escuela Sala	IN4232-2	Finanzas	S15-Edificio Escuela
+115	Cátedra	10:15	11:45		IN5103-1 Gestión Integral de Negocios Curso N11-Edificio Escuela Sala	IN5103-1	Gestión Integral de Negocios	N11-Edificio Escuela
+116	Cátedra	10:15	11:45		IN5111-1 Comportamiento Organizacional Curso Q22-Edificio Química Sala	IN5111-1	Comportamiento Organizacional	Q22-Edificio Química
+117	Cátedra	10:15	11:45		IN6004-1 Gestión Integral de Negocios Curso	IN6004-1	Gestión Integral de Negocios	
+118	Cátedra	10:15	11:45		CI4261-1 Hidrología Curso B110-Edificio Computación Sala	CI4261-1	Hidrología	B110-Edificio Computación
+119	Cátedra	10:15	11:45		EH2002-1 Argumentación, la Realización del Ser Humano en el Discurso Curso S19-Edificio Escuela Sala	EH2002-1	Argumentación, la Realización del Ser Humano en el Discurso	Curso S19-Edificio Escuela
+120	Cátedra	10:15	11:45		EH2410-1 Socioeconomía: Culturas. Éticas. Economías Curso S14-Edificio Escuela Sala	EH2410-1	Socioeconomía: Culturas. Éticas. Economías	S14-Edificio Escuela
+121	Cátedra	10:15	11:45		EH2526-1 Género y STEM: aportes a la formación y práctica profesional Curso S25-Edificio Escuela Sala	EH2526-1	Género y STEM: aportes a la formación y práctica profesional	S25-Edificio Escuela
+122	Cátedra	10:15	11:45		MI3215-1 Mecánica de Rocas II Curso F9-Edificio Física Sala	MI3215-1	Mecánica de Rocas II	F9-Edificio Física
+123	Cátedra	10:15	11:45		MI5115-1 Diseño y Planificación de Minas a Cielo Abierto Curso B214-Edificio Computación Sala	MI5115-1	Diseño y Planificación de Minas a Cielo Abierto	B214-Edificio Computación
+124	Cátedra	10:15	11:45		GL3203-1 Ciencia de los Minerales II Curso G110-Edificio Geología Sala	GL3203-1	Ciencia de los Minerales II	G110-Edificio Geología
+125	Cátedra	10:15	11:45		GL3203-2 Ciencia de los Minerales II Curso G110-Edificio Geología Sala	GL3203-2	Ciencia de los Minerales II	G110-Edificio Geología
+126	Cátedra	10:15	11:45		GL4212-1 Volcanología Física Curso G107-Edificio Geología Sala	GL4212-1	Volcanología Física	G107-Edificio Geología
+127	Cátedra	10:15	11:45		CD1201-20 Proyecto de Innovación en Ingeniería y Ciencias Curso E214-Edificio Eléctrica Sala	CD1201-20	Proyecto de Innovación en Ingeniería y Ciencias	E214-Edificio Eléctrica
+128	Cátedra	10:15	11:45		CD2201-5 Módulo Interdisciplinario Curso CEC, Zócalo, Zona D-Edificio Computación Sala	CD2201-5	Módulo Interdisciplinario	CEC, Zócalo, Zona D-Edificio Computación
+129	Cátedra	10:15	11:45		CD2201-11 Módulo Interdisciplinario Curso G302-Edificio Geología Sala	CD2201-11	Módulo Interdisciplinario	G302-Edificio Geología
+130	Cátedra	10:15	11:45		CI4242-1 Diseño de Sistemas de Transporte Curso B109-Edificio Computación Sala	CI4242-1	Diseño de Sistemas de Transporte	B109-Edificio Computación
+131	Cátedra	10:15	11:45		CI5123-1 Proyecto de Hormigón Armado Curso B100-Edificio Computación Sala	CI5123-1	Proyecto de Hormigón Armado	B100-Edificio Computación
+132	Cátedra	10:15	11:45		CI5123-2 Proyecto de Hormigón Armado Curso B210-Edificio Computación Sala	CI5123-2	Proyecto de Hormigón Armado	B210-Edificio Computación
+133	Cátedra	10:15	11:45		CI7112-1 Hidrología de Nieve Curso S26-Edificio Escuela Sala	CI7112-1	Hidrología de Nieve	S26-Edificio Escuela
+134	Cátedra	10:15	11:45		FI2002-6 Electromagnetismo Curso G301-Edificio Geología Sala	FI2002-6	Electromagnetismo	G301-Edificio Geología
+135	Cátedra	10:15	11:45		FI4001-1 Mecánica Cuántica Curso G106-Edificio Geología Sala	FI4001-1	Mecánica Cuántica	G106-Edificio Geología
+136	Cátedra	10:15	11:45		FI7005-1 Mecánica Estadística Avanzada: Materiales Amorfos Curso	FI7005-1	Mecánica Estadística Avanzada: Materiales Amorfos	
+137	Cátedra	10:15	11:45		EL4204-1 Formulación y Evaluación de Proyectos Curso E216-Edificio Eléctrica Sala	EL4204-1	Formulación y Evaluación de Proyectos	E216-Edificio Eléctrica
+138	Cátedra	10:15	11:45		EL6013-1 Puesta a Tierra de Instalaciones Eléctricas y Electrónicas Curso E215-Edificio Eléctrica Sala	EL6013-1	Puesta a Tierra de Instalaciones Eléctricas y Electrónicas	E215-Edificio Eléctrica
+139	Cátedra	10:15	11:45		EL7047-1 Riesgo y Confiabilidad en Sistemas Eléctricos Curso Q13-Edificio Química Sala	EL7047-1	Riesgo y Confiabilidad en Sistemas Eléctricos	Q13-Edificio Química
+140	Cátedra	10:15	11:45		GF4006-1 Métodos de Exploración Geofísica Curso	GF4006-1	Métodos de Exploración Geofísica	
+141	Cátedra	10:15	11:45		AS2001-2 Astronomía General Curso B102-Edificio Computación Sala	AS2001-2	Astronomía General	B102-Edificio Computación
+142	Cátedra	10:15	11:45		MDS7201-1 Proyecto de Ciencia de Datos Curso G303-Edificio Geología Sala	MDS7201-1	Proyecto de Ciencia de Datos	G303-Edificio Geología
+143	Cátedra	10:15	11:45		GF7005-1 Trabajo Dirigido de Postgrado Curso	GF7005-1	Trabajo Dirigido de Postgrado	
+144	Cátedra	10:15	11:45		CC3201-3 Bases de Datos Curso Q12-Edificio Química Sala	CC3201-3	Bases de Datos	Q12-Edificio Química
+145	Cátedra	10:15	11:45		ME5501-1 Fundamentos de Instrumentación Curso	ME5501-1	Fundamentos de Instrumentación	
+146	Cátedra	10:15	11:45		IN4102-3 Taller de Concepción y Diseño de Proyectos Curso B07-Beauchef 851 Sala	IN4102-3	Taller de Concepción y Diseño de Proyectos	B07-Beauchef 851
+147	Cátedra	10:15	11:45		IN4102-4 Taller de Concepción y Diseño de Proyectos Curso S17-Edificio Escuela Sala	IN4102-4	Taller de Concepción y Diseño de Proyectos	S17-Edificio Escuela
+148	Cátedra	10:15	11:45		AA1101M-9 Tutoría Integral Par: Intro. al Álgebra Curso B001-Edificio Computación Sala	AA1101M-9	Tutoría Integral Par: Intro. al Álgebra	B001-Edificio Computación
+149	Laboratorio	10:15	11:45		ME3140-2 Mecánica de Fluidos Curso	ME3140-2	Mecánica de Fluidos	
+150	Laboratorio	10:15	11:45		CD1201-10 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-10	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+151	Laboratorio	10:15	11:45		CI5413-1 Instrumentación en Ingeniería Geotecnica y Estructural Curso	CI5413-1	Instrumentación en Ingeniería Geotecnica y Estructural	
+152	Laboratorio	10:15	11:45		FI1000-1 Introducción a la Física Clásica Curso	FI1000-1	Introducción a la Física Clásica	
+153	Laboratorio	10:15	11:45		FI1100-4 Introducción a la Física Moderna Curso	FI1100-4	Introducción a la Física Moderna	
+154	Laboratorio	10:15	11:45		FI2003-4 Métodos Experimentales Curso	FI2003-4	Métodos Experimentales	
+11:00								
+155	Beauchef International Day - DIRVEX	11:00	11:45		B03-Beauchef 851 Sala	B03-Beauchef		B03-Beauchef 851
+11:00								
+156	Exámen de Grado o Título	11:00	13:00		Examen de Grado de Tomás Cárdenas C. Examen de Grado Sala 307 Grace Hopper del DCC Tercer Piso Poniente Sala			Examen de Grado de Tomás Cárdenas C. Examen de Grado | 307 Grace Hopper del DCC Tercer Piso Poniente
+157	Exámen de Grado o Título	11:00	12:00		Examen de Grado de Matías Concha U. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Matías Concha U. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+11:30								
+158	Charla Informativa Cáncer de Mama - DDG	11:30	13:30		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851
+12:00								
+159	Auxiliar	12:00	13:30		IN79O-1 Modelos Estocásticos en Sistemas de Ingeniería Curso B06-Beauchef 851 Sala	IN79O-1	Modelos Estocásticos en Sistemas de Ingeniería	B06-Beauchef 851
+160	Auxiliar Extra Voluntaria	12:00	13:30		EL7047-1 Riesgo y Confiabilidad en Sistemas Eléctricos Curso Q13-Edificio Química Sala	EL7047-1	Riesgo y Confiabilidad en Sistemas Eléctricos	Q13-Edificio Química
+161	Auxiliar Extra Voluntaria	12:00	13:30		MA1102-4 Álgebra Lineal Curso B01-Beauchef 851 Sala	MA1102-4	Álgebra Lineal	B01-Beauchef 851
+162	Capacitación Primeros Auxilios - Difusión Colegios	12:00	13:30	Monserrat Villalobos	S24-Edificio Escuela Sala	S24-Edificio		S24-Edificio Escuela
+163	Cátedra	12:00	13:30		FI5029-1 Journal Club Curso B208-Edificio Computación Sala	FI5029-1	Journal Club	B208-Edificio Computación
+164	Cátedra	12:00	13:30		FD704-1 Métodos Experimentales en Fluidodinámica Curso	FD704-1	Métodos Experimentales en Fluidodinámica	
+165	Cátedra	12:00	13:30		AA1101M-7 Tutoría Integral Par: Intro. al Álgebra Curso B100-Edificio Computación Sala	AA1101M-7	Tutoría Integral Par: Intro. al Álgebra	B100-Edificio Computación
+166	Cátedra	12:00	13:30		AA1101M-8 Tutoría Integral Par: Intro. al Álgebra Curso B101-Edificio Computación Sala	AA1101M-8	Tutoría Integral Par: Intro. al Álgebra	B101-Edificio Computación
+167	Charla de Vinculación Laboral Be-Energy - DIRVEX	12:00	13:30		B08-Beauchef 851 Sala	B08-Beauchef		B08-Beauchef 851
+168	Charla Informativa Cáncer de Mama - DDG	12:00	15:00		Cafeteria-Beauchef 851 Sala	Cafeteria-Beauchef		Cafeteria-Beauchef 851
+169	Charlas Prácticas Profesionales - DII	12:00	13:30		F10-Edificio Física Sala	F10-Edificio		F10-Edificio Física
+170	English Corner - Área de Idiomas	12:00	14:00		N11-Edificio Escuela Sala	N11-Edificio		N11-Edificio Escuela
+171	GGOO GBU	12:00	13:30		S28-Edificio Escuela Sala	S28-Edificio		S28-Edificio Escuela
+172	Presentaciones	12:00	13:30		EL4030-1 Seminario de Diseño e Innovación Tecnológica Curso E216-Edificio Eléctrica Sala	EL4030-1	Seminario de Diseño e Innovación Tecnológica	E216-Edificio Eléctrica
+173	Taller de Feedback Voluntario	12:00	13:00		IN6190-1 Taller de Práctica Profesional Extendida Curso B103-Edificio Computación Sala	IN6190-1	Taller de Práctica Profesional Extendida	B103-Edificio Computación
+174	Taller Extralaboral Arteterapia	12:00	13:30		S17-Edificio Escuela Sala	S17-Edificio		S17-Edificio Escuela
+175	"Taller libro: ""Memorias Integrales de Beauchef 850"" - SAE"	12:00	14:00		S25-Edificio Escuela Sala	S25-Edificio		S25-Edificio Escuela
+12:00								
+176	Exámen de Grado o Título	12:00	14:00		Examen de Grado de Arturo Kullmer S. Examen de Grado Auditorio P303, Philippe Flajolet Sala			Examen de Grado de Arturo Kullmer S. Examen de Grado Auditorio P303, Philippe Flajolet
+177	Exámen de Grado o Título	12:00	13:30		Examen de Grado de Aldo Mercandino S. Examen de Grado Sala Seminario 5° Piso, Depto. Ing. Mecánica Sala			Examen de Grado de Aldo Mercandino S. Examen de Grado | Seminario 5° Piso, Depto. Ing. Mecánica
+13:00								
+178	Premiación Docente del Departamento de Ingeniería Industrial - SAE	13:00	21:30		Explanada-Beauchef 851 Sala	Explanada-Beauchef		Explanada-Beauchef 851
+179	Tutoría DII: Ceremonia de Premiación Docente del Departamento de Ingeniería Industrial - SAE	13:00	20:00		Salón Gorbea-Edificio Escuela Sala			Salón Gorbea-Edificio Escuela
+14:00								
+180	Auxiliar	14:00	16:00		IQ2211-1 Química Curso QP-Edificio Química Sala	IQ2211-1	Química	QP-Edificio Química
+181	Auxiliar	14:00	16:00		IQ3311-1 Análisis de Procesos Curso S26-Edificio Escuela Sala	IQ3311-1	Análisis de Procesos	S26-Edificio Escuela
+182	Auxiliar	14:00	16:00		GL4212-1 Volcanología Física Curso G105 Laboratorio de Computación-Edificio Geología Sala	GL4212-1	Volcanología Física	G105 Laboratorio de Computación-Edificio Geología
+183	Auxiliar	14:00	16:00		CI7211-1 Introducción al Análisis no Lineal de Estructuras Curso F22-Edificio Física Sala	CI7211-1	Introducción al Análisis no Lineal de Estructuras	F22-Edificio Física
+184	Beauchef International Day - DIRVEX	14:00	14:45		B04-Beauchef 851 Sala	B04-Beauchef		B04-Beauchef 851
+185	Cátedra	14:00	16:00		ME3220-2 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-2	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+186	Cátedra	14:00	16:00		MI5141-1 Desarrollo Sostenible y Recursos minerales Curso B115-Edificio Computación Sala	MI5141-1	Desarrollo Sostenible y Recursos minerales	B115-Edificio Computación
+187	Cátedra	14:00	16:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+188	Laboratorio	14:00	16:00		BT3113-1 Biología Molecular Curso	BT3113-1	Biología Molecular	
+189	Laboratorio	14:00	16:00		EL3102-2 Sistemas Digitales Curso	EL3102-2	Sistemas Digitales	
+190	MONTAJE Workshop on Trends, Opportunities, and Major Advances in Systems for HPC+AI - CMM	14:00	18:00		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851
+14:00								
+191	Exámen de Grado o Título	14:00	16:00		Examen de Grado de Carlos Fuentes Q. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Carlos Fuentes Q. Examen de Grado Auditorio Picarte 3ER Piso DCC
+192	Exámen de Grado o Título	14:00	15:00		Examen de Grado de Juan Garmendia P. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Juan Garmendia P. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+14:30								
+193	Auxiliar	14:30	16:00		ME3110-1 Ciencia de los Materiales Curso B100-Edificio Computación Sala	ME3110-1	Ciencia de los Materiales	B100-Edificio Computación
+194	Auxiliar	14:30	16:00		ME3110-2 Ciencia de los Materiales Curso S24-Edificio Escuela Sala	ME3110-2	Ciencia de los Materiales	S24-Edificio Escuela
+195	Auxiliar	14:30	16:00		ME4160-1 Gestión de Activos Físicos Curso B07-Beauchef 851 Sala	ME4160-1	Gestión de Activos Físicos	B07-Beauchef 851
+196	Auxiliar	14:30	16:00		CC3401-1 Interacción Humano - Computador Curso S15-Edificio Escuela Sala	CC3401-1	Interacción Humano - Computador	S15-Edificio Escuela
+197	Auxiliar	14:30	16:00		MA1102-6 Álgebra Lineal Curso B104-Edificio Computación Sala	MA1102-6	Álgebra Lineal	B104-Edificio Computación
+198	Auxiliar	14:30	16:00		BT5316-1 Procesos de Separación en Biotecnología Curso B103-Edificio Computación Sala	BT5316-1	Procesos de Separación en Biotecnología	B103-Edificio Computación
+199	Auxiliar	14:30	16:00		MI3215-1 Mecánica de Rocas II Curso B211-Edificio Computación Sala	MI3215-1	Mecánica de Rocas II	B211-Edificio Computación
+200	Auxiliar	14:30	16:00		IN4261-1 Marketing Curso B08-Beauchef 851 Sala	IN4261-1	Marketing	B08-Beauchef 851
+201	Auxiliar	14:30	16:00		IN4261-2 Marketing Curso E111-Edificio Eléctrica Sala	IN4261-2	Marketing	E111-Edificio Eléctrica
+202	Auxiliar	14:30	16:00		IN5162-1 Ingeniería de Marketing Curso Q22-Edificio Química Sala	IN5162-1	Ingeniería de Marketing	Q22-Edificio Química
+203	Auxiliar	14:30	16:00		GL3101-1 Geología General Curso G104-Edificio Geología Sala	GL3101-1	Geología General	G104-Edificio Geología
+204	Auxiliar	14:30	16:00		CI3261-1 Ingeniería Ambiental Curso B203-Edificio Computación Sala	CI3261-1	Ingeniería Ambiental	B203-Edificio Computación
+205	Auxiliar	14:30	16:00		CI4246-1 Ingeniería de Transito Curso B114-Edificio Computación Sala	CI4246-1	Ingeniería de Transito	B114-Edificio Computación
+206	Auxiliar	14:30	16:00		CI5536-1 Tecnología del Acero Curso B105-Edificio Computación Sala	CI5536-1	Tecnología del Acero	B105-Edificio Computación
+207	Auxiliar	14:30	16:00		FI1000-3 Introducción a la Física Clásica Curso S19-Edificio Escuela Sala	FI1000-3	Introducción a la Física Clásica	S19-Edificio Escuela
+208	Auxiliar	14:30	16:00		EL3204-1 Análisis de Sistemas Dinámicos y Estimación Curso S14-Edificio Escuela Sala	EL3204-1	Análisis de Sistemas Dinámicos y Estimación	S14-Edificio Escuela
+209	Auxiliar	14:30	16:00		EL7030-1 Antenas Curso S29-Edificio Escuela Sala	EL7030-1	Antenas	S29-Edificio Escuela
+210	Auxiliar	14:30	16:00		AS3000-1 Astronomía y Astrofísica Curso B109-Edificio Computación Sala	AS3000-1	Astronomía y Astrofísica	B109-Edificio Computación
+211	Auxiliar	14:30	16:00		AS3101-1 Astrofísica de Estrellas Curso F12-Edificio Física Sala	AS3101-1	Astrofísica de Estrellas	F12-Edificio Física
+212	Auxiliar	14:30	16:00		IQ7431-1 Procesos Biotecnológicos y de Separación Curso	IQ7431-1	Procesos Biotecnológicos y de Separación	
+213	Cátedra	14:30	16:00		DR200A-1 Taekwondo I Curso Dojo-Beauchef 851 Sala	DR200A-1	Taekwondo I	Dojo-Beauchef 851
+214	Cátedra	14:30	16:00		DR601A-1 Baile y Ritmo Damas I Curso Sala Aerobica-Beauchef 851 Sala	DR601A-1	Baile y Ritmo Damas I	Aerobica-Beauchef 851
+215	Cátedra	14:30	16:00		DR602A-1 Baile y Ritmo Varones I Curso Sala Aerobica-Beauchef 851 Sala	DR602A-1	Baile y Ritmo Varones I	Aerobica-Beauchef 851
+216	Cátedra	14:30	16:00		DR430A-1 Escalada I Curso Gimnasio Domeyko-FCFM Sala	DR430A-1	Escalada I	Gimnasio Domeyko-FCFM
+217	Cátedra	14:30	16:00		ME5110-1 Proyecto en Materiales y Manufactura Curso B001-Edificio Computación Sala	ME5110-1	Proyecto en Materiales y Manufactura	B001-Edificio Computación
+218	Cátedra	14:30	16:00		FI7015-1 Cosmología Curso Seminario 2 Poniente-Edificio Física Sala	FI7015-1	Cosmología	Seminario 2 Poniente-Edificio Física
+219	Cátedra	14:30	16:00		ME7810-1 Métodos Numéricos en Sistemas Mecánicos Curso B208-Edificio Computación Sala	ME7810-1	Métodos Numéricos en Sistemas Mecánicos	B208-Edificio Computación
+220	Cátedra	14:30	16:00		CC3001-1 Algoritmos y Estructuras de Datos Curso B204-Edificio Computación Sala	CC3001-1	Algoritmos y Estructuras de Datos	B204-Edificio Computación
+221	Cátedra	14:30	16:00		CC3002-1 Metodologías de Diseño y Programación Curso B01-Beauchef 851 Sala	CC3002-1	Metodologías de Diseño y Programación	B01-Beauchef 851
+222	Cátedra	14:30	16:00		CC3002-2 Metodologías de Diseño y Programación Curso B05-Beauchef 851 Sala	CC3002-2	Metodologías de Diseño y Programación	B05-Beauchef 851
+223	Cátedra	14:30	16:00		CC3201-1 Bases de Datos Curso B02-Beauchef 851 Sala	CC3201-1	Bases de Datos	B02-Beauchef 851
+224	Cátedra	14:30	16:00		IN70B-1 Rol del Estado: Aspectos Económicos Curso	IN70B-1	Rol del Estado: Aspectos Económicos	
+225	Cátedra	14:30	16:00		IN71A-1 Economía y Políticas Públicas I Curso	IN71A-1	Economía y Políticas Públicas I	
+226	Cátedra	14:30	16:00		CC5322-1 Taller de Redes De Datos Curso B210-Edificio Computación Sala	CC5322-1	Taller de Redes De Datos	B210-Edificio Computación
+227	Cátedra	14:30	16:00		CC5603-1 Gestión y Gobernanza de Datos Curso S28-Edificio Escuela Sala	CC5603-1	Gestión y Gobernanza de Datos	S28-Edificio Escuela
+228	Cátedra	14:30	16:00		CC6104-1 Pensamiento Estadístico Curso Q12-Edificio Química Sala	CC6104-1	Pensamiento Estadístico	Q12-Edificio Química
+229	Cátedra	14:30	16:00		IN3301-3 Evaluación de Proyectos Curso B03-Beauchef 851 Sala	IN3301-3	Evaluación de Proyectos	B03-Beauchef 851
+230	Cátedra	14:30	16:00		IN4141-1 Liderazgo Efectivo para el Trabajo en Equipo Curso Q23-Edificio Química Sala	IN4141-1	Liderazgo Efectivo para el Trabajo en Equipo	Q23-Edificio Química
+231	Cátedra	14:30	16:00		IN6908-1 Introducción al Trabajo de Titulo Curso	IN6908-1	Introducción al Trabajo de Titulo	
+232	Cátedra	14:30	16:00		IN6909-1 Trabajo de Título Curso G111-Edificio Geología Sala	IN6909-1	Trabajo de Título	G111-Edificio Geología
+233	Cátedra	14:30	16:00		EH2603-1 Todo es Poesía Menos la Poesía Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	EH2603-1	Todo es Poesía Menos la Poesía	G108 - Humberto Fuenzalida-Edificio Geología
+234	Cátedra	14:30	16:00		GL4203-1 Geomorfología Dinámica Curso G107-Edificio Geología Sala	GL4203-1	Geomorfología Dinámica	G107-Edificio Geología
+235	Cátedra	14:30	16:00		GL5301-1 Geotectónica Curso G106-Edificio Geología Sala	GL5301-1	Geotectónica	G106-Edificio Geología
+236	Cátedra	14:30	16:00		EL5205-1 Laboratorio de Control Avanzado Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	EL5205-1	Laboratorio de Control Avanzado	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+237	Cátedra	14:30	16:00		CD1201-4 Proyecto de Innovación en Ingeniería y Ciencias Curso G201-Edificio Geología Sala	CD1201-4	Proyecto de Innovación en Ingeniería y Ciencias	G201-Edificio Geología
+238	Cátedra	14:30	16:00		CD2201-1 Módulo Interdisciplinario Curso N03-BIBLIOTECA Sala	CD2201-1	Módulo Interdisciplinario	N03-BIBLIOTECA
+239	Cátedra	14:30	16:00		CD2201-8 Módulo Interdisciplinario Curso B205-Edificio Computación Sala	CD2201-8	Módulo Interdisciplinario	B205-Edificio Computación
+240	Cátedra	14:30	16:00		CI4152-1 Evaluación de Proyectos Curso G303-Edificio Geología Sala	CI4152-1	Evaluación de Proyectos	G303-Edificio Geología
+241	Cátedra	14:30	16:00		CI5262-1 Proyecto Integrado de Recursos Hídricos Curso B206-Edificio Computación Sala	CI5262-1	Proyecto Integrado de Recursos Hídricos	B206-Edificio Computación
+242	Cátedra	14:30	16:00		CI71T-1 Modelación de Aguas Subterráneas Curso F11-Edificio Física Sala	CI71T-1	Modelación de Aguas Subterráneas	F11-Edificio Física
+243	Cátedra	14:30	16:00		CI7418-1 Ingeniería Geotécnica de Depósitos de Relaves Curso B212-Edificio Computación Sala	CI7418-1	Ingeniería Geotécnica de Depósitos de Relaves	B212-Edificio Computación
+244	Cátedra	14:30	16:00		FI1100-2 Introducción a la Física Moderna Curso F21-Edificio Física Sala	FI1100-2	Introducción a la Física Moderna	F21-Edificio Física
+245	Cátedra	14:30	16:00		EL3204-2 Análisis de Sistemas Dinámicos y Estimación Curso B06-Beauchef 851 Sala	EL3204-2	Análisis de Sistemas Dinámicos y Estimación	B06-Beauchef 851
+246	Cátedra	14:30	16:00		EL4112-1 Principios de Comunicaciones Curso E213-Edificio Eléctrica Sala	EL4112-1	Principios de Comunicaciones	E213-Edificio Eléctrica
+247	Cátedra	14:30	16:00		EL6201-1 Taller de Emprendimiento e Innovación Curso Q21-Edificio Química Sala	EL6201-1	Taller de Emprendimiento e Innovación	Q21-Edificio Química
+248	Cátedra	14:30	16:00		EL6201-2 Taller de Emprendimiento e Innovación Curso B111-Edificio Computación Sala	EL6201-2	Taller de Emprendimiento e Innovación	B111-Edificio Computación
+249	Cátedra	14:30	16:00		EL6201-3 Taller de Emprendimiento e Innovación Curso F9-Edificio Física Sala	EL6201-3	Taller de Emprendimiento e Innovación	F9-Edificio Física
+250	Cátedra	14:30	16:00		EL7058-1 Control Avanzado de Micro-redes Curso E215-Edificio Eléctrica Sala	EL7058-1	Control Avanzado de Micro-redes	E215-Edificio Eléctrica
+251	Cátedra	14:30	16:00		GF732-1 Sismología Teórica II Curso Sala Geofísica 2º Piso-Geofísica Sala	GF732-1	Sismología Teórica II	Geofísica 2º Piso-Geofísica
+252	Cátedra	14:30	16:00		GF4002-1 Física de la Tierra Curso	GF4002-1	Física de la Tierra	
+253	Cátedra	14:30	16:00		IN7613-1 Seminario de Investigación II Curso	IN7613-1	Seminario de Investigación II	
+254	Cátedra	14:30	16:00		IN5235-1 Gestión de Inversiones y Patrimonio Financiero Curso S25-Edificio Escuela Sala	IN5235-1	Gestión de Inversiones y Patrimonio Financiero	S25-Edificio Escuela
+255	Cátedra	14:30	16:00		IN5529-1 Inteligencia Artificial Aplicada a la Web Curso B113-Edificio Computación Sala	IN5529-1	Inteligencia Artificial Aplicada a la Web	B113-Edificio Computación
+256	Cátedra	14:30	16:00		IN7513-1 Economía Ambiental Curso	IN7513-1	Economía Ambiental	
+257	Cátedra	14:30	16:00		VA-01-0327-51-1 Euskera y cultura vasca Curso .-FCFM Sala	VA-01-0327-51-1	Euskera y cultura vasca	.-FCFM
+258	Cátedra	14:30	16:00		VA-01-0327-178-1 Ficciones distópicas digitales Curso .-FCFM Sala	VA-01-0327-178-1	Ficciones distópicas digitales	.-FCFM
+259	Cátedra	14:30	16:00		GL6301-1 Geología Económica Curso G110-Edificio Geología Sala	GL6301-1	Geología Económica	G110-Edificio Geología
+260	Cátedra	14:30	16:00		MA6915-1 Seminario Avanzado de Matemáticas I Curso Sala Seminario 4°piso DIM-Edificio Computación Sala	MA6915-1	Seminario Avanzado de Matemáticas I	Seminario 4°piso DIM-Edificio Computación
+261	Cátedra	14:30	16:00		FD800-1 Proyecto de Investigación en Fluidodinámica Curso	FD800-1	Proyecto de Investigación en Fluidodinámica	
+262	Cátedra	14:30	16:00		FD801-1 Preparación de proyecto de tesis Curso	FD801-1	Preparación de proyecto de tesis	
+263	Cátedra	14:30	16:00		MT771-1 Física de los Materiales Curso	MT771-1	Física de los Materiales	
+264	Cátedra	14:30	16:00		AA1101M-6 Tutoría Integral Par: Intro. al Álgebra Curso B101-Edificio Computación Sala	AA1101M-6	Tutoría Integral Par: Intro. al Álgebra	B101-Edificio Computación
+265	Habilidades de Pensamiento Computacional - TALLER ARPA	14:30	17:30		E216-Edificio Eléctrica Sala	E216-Edificio		E216-Edificio Eléctrica
+266	Laboratorio	14:30	16:00		MA4703-1 Control Óptimo: Teoría y Laboratorio Curso	MA4703-1	Control Óptimo: Teoría y Laboratorio	
+267	Laboratorio	14:30	16:00		CD1201-14 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-14	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+268	Laboratorio	14:30	16:00		FI1100-5 Introducción a la Física Moderna Curso	FI1100-5	Introducción a la Física Moderna	
+269	Laboratorio	14:30	16:00		FI3003-1 Física Experimental I Curso	FI3003-1	Física Experimental I	
+270	Laboratorio	14:30	16:00		FI3105-1 Física Experimental II Curso	FI3105-1	Física Experimental II	
+271	Programa de Bachillerato	14:30	16:00		S17-Edificio Escuela Sala	S17-Edificio		S17-Edificio Escuela
+272	Taller de Práctica	14:30	16:00	DIQBM	B213-Edificio Computación Sala	B213-Edificio		B213-Edificio Computación
+15:00								
+273	Beauchef International Day - DIRVEX	15:00	15:45		B04-Beauchef 851 Sala	B04-Beauchef		B04-Beauchef 851
+274	Cátedra	15:00	16:30		CITS-VA-01-1 Introducción a la interdisciplina y transdisciplina para la sustentabilidad Curso .-FCFM Sala	CITS-VA-01-1	Introducción a la interdisciplina y transdisciplina para la sustentabilidad	.-FCFM
+275	Cátedra	15:00	16:30		VA-01-0193-1 Apreciación de la Literatura Curso .-FCFM Sala	VA-01-0193-1	Apreciación de la Literatura	.-FCFM
+276	Cátedra	15:00	16:30		VA-01-0327-129-1 Amartya Sen y la pobreza multidimensional Curso .-FCFM Sala	VA-01-0327-129-1	Amartya Sen y la pobreza multidimensional	.-FCFM
+277	Cátedra	15:00	16:30		VA-01-0327-153-1 Religión, política y espacio público en las Américas: una perspectiva comparada Curso .-FCFM Sala	VA-01-0327-153-1	Religión, política y espacio público en las Américas: una perspectiva comparada	.-FCFM
+278	Cátedra	15:00	16:30		VA-01-0327-171-1 Laboratorio de mediación en espacios culturales universitarios Curso .-FCFM Sala	VA-01-0327-171-1	Laboratorio de mediación en espacios culturales universitarios	.-FCFM
+279	Cátedra	15:00	16:30		VA-01-0327-174-1 Salud: una mirada desde la perspectiva de género Curso .-FCFM Sala	VA-01-0327-174-1	Salud: una mirada desde la perspectiva de género	.-FCFM
+280	Cátedra	15:00	16:30		VA-01-0327-204-1 Longevidad saludable desde la universidad: construyendo hábitos para la vida Curso .-FCFM Sala	VA-01-0327-204-1	Longevidad saludable desde la universidad: construyendo hábitos para la vida	.-FCFM
+15:00								
+281	Exámen de Grado o Título	15:00	17:00		Examen de Grado de Cristóbal Fuentes A. Examen de Grado Sala 307 Grace Hopper del DCC Tercer Piso Poniente Sala			Examen de Grado de Cristóbal Fuentes A. Examen de Grado | 307 Grace Hopper del DCC Tercer Piso Poniente
+282	Exámen de Grado o Título	15:00	16:00		Examen de Grado de Cristián Catalán P. Examen de Grado Examen Online Sala			Examen de Grado de Cristián Catalán P. Examen de Grado Examen Online
+15:30								
+283	Cátedra	15:30	17:00		VA-01-0327-200-1 Ciencia abierta: análisis crítico de datos públicos mediante software libre Curso .-FCFM Sala	VA-01-0327-200-1	Ciencia abierta: análisis crítico de datos públicos mediante software libre	.-FCFM
+15:30								
+284	Exámen de Grado o Título	15:30	17:00		Examen de Grado de Claudia Escobar M. Examen de Grado Sala Seminario 5° Piso, Depto. Ing. Mecánica Sala			Examen de Grado de Claudia Escobar M. Examen de Grado | Seminario 5° Piso, Depto. Ing. Mecánica
+16:00								
+285	Auxiliar	16:00	18:00		CC1002-10 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-10	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+286	Auxiliar	16:00	18:00		MA3701-1 Optimización Curso G302-Edificio Geología Sala	MA3701-1	Optimización	G302-Edificio Geología
+287	Auxiliar	16:00	18:00		GL3201-2 Sedimentología Curso Laboratorio de Rocas-Edificio Geología Sala	GL3201-2	Sedimentología	Laboratorio de Rocas-Edificio Geología
+288	Auxiliar	16:00	18:00		CI5222-1 Hormigón Pretensado Curso B208-Edificio Computación Sala	CI5222-1	Hormigón Pretensado	B208-Edificio Computación
+289	Cátedra	16:00	18:00		FT1101-1 Comunicación académica en Ingeniería y Ciencias Curso B205-Edificio Computación Sala	FT1101-1	Comunicación académica en Ingeniería y Ciencias	B205-Edificio Computación
+290	Cátedra	16:00	18:00		ME3220-2 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-2	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+291	Cátedra	16:00	18:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+292	Cátedra	16:00	18:00		EL6101-2 Taller de Proyectos Tecnológicos Curso E215-Edificio Eléctrica Sala	EL6101-2	Taller de Proyectos Tecnológicos	E215-Edificio Eléctrica
+293	Cátedra	16:00	18:00		MI5141-1 Desarrollo Sostenible y Recursos minerales Curso B115-Edificio Computación Sala	MI5141-1	Desarrollo Sostenible y Recursos minerales	B115-Edificio Computación
+294	Cátedra	16:00	17:30		VA-01-0327-195-1 Discapacidad y neurodivergencia: perspectivas críticas y debates actuales Curso .-FCFM Sala	VA-01-0327-195-1	Discapacidad y neurodivergencia: perspectivas críticas y debates actuales	.-FCFM
+295	Cátedra	16:00	17:30		VA-01-0327-196-1 Violencia y discriminación de género: hacia una comprensión crítica Curso S29-Edificio Escuela Sala	VA-01-0327-196-1	Violencia y discriminación de género: hacia una comprensión crítica	S29-Edificio Escuela
+296	Control	16:00	18:00		CI5122-1 Diseño de Estructuras de Acero Curso B114-Edificio Computación Sala	CI5122-1	Diseño de Estructuras de Acero	B114-Edificio Computación
+297	Laboratorio	16:00	18:00		EL3102-2 Sistemas Digitales Curso	EL3102-2	Sistemas Digitales	
+16:00								
+298	Exámen de Grado o Título	16:00	18:00		Examen de Grado de Rodrigo Hidalgo F. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Rodrigo Hidalgo F. Examen de Grado Auditorio Picarte 3ER Piso DCC
+299	Exámen de Grado o Título	16:00	17:00		Examen de Grado de Ignacio Kiessling F. Examen de Grado Examen Online Sala			Examen de Grado de Ignacio Kiessling F. Examen de Grado Examen Online
+16:15								
+300	Auxiliar	16:15	17:45		ME5110-1 Proyecto en Materiales y Manufactura Curso B001-Edificio Computación Sala	ME5110-1	Proyecto en Materiales y Manufactura	B001-Edificio Computación
+301	Auxiliar	16:15	17:45		CC3102-1 Teoría de la Computación Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	CC3102-1	Teoría de la Computación	B010 (Torre Norte piso -2)-Edificio Computación
+302	Auxiliar	16:15	17:45		CC3102-2 Teoría de la Computación Curso B03-Beauchef 851 Sala	CC3102-2	Teoría de la Computación	B03-Beauchef 851
+303	Auxiliar	16:15	17:45		CC4302-1 Sistemas Operativos Curso B211-Edificio Computación Sala	CC4302-1	Sistemas Operativos	B211-Edificio Computación
+304	Auxiliar	16:15	17:45		CC4302-2 Sistemas Operativos Curso B05-Beauchef 851 Sala	CC4302-2	Sistemas Operativos	B05-Beauchef 851
+305	Auxiliar	16:15	17:45		CC4303-1 Redes Curso G303-Edificio Geología Sala	CC4303-1	Redes	G303-Edificio Geología
+306	Auxiliar	16:15	17:45		CC4303-2 Redes Curso B213-Edificio Computación Sala	CC4303-2	Redes	B213-Edificio Computación
+307	Auxiliar	16:15	17:45		MA1002-6 Cálculo Diferencial e Integral Curso Multiuso-Edificio Escuela Sala	MA1002-6	Cálculo Diferencial e Integral	Multiuso-Edificio Escuela
+308	Auxiliar	16:15	17:45		MA1002-7 Cálculo Diferencial e Integral Curso B212-Edificio Computación Sala	MA1002-7	Cálculo Diferencial e Integral	B212-Edificio Computación
+309	Auxiliar	16:15	17:45		MA1002-8 Cálculo Diferencial e Integral Curso B02-Beauchef 851 Sala	MA1002-8	Cálculo Diferencial e Integral	B02-Beauchef 851
+310	Auxiliar	16:15	17:45		BT3113-1 Biología Molecular Curso S26-Edificio Escuela Sala	BT3113-1	Biología Molecular	S26-Edificio Escuela
+311	Auxiliar	16:15	17:45		IN3171-1 Modelamiento y Optimización Curso F20-Edificio Física Sala	IN3171-1	Modelamiento y Optimización	F20-Edificio Física
+312	Auxiliar	16:15	17:45		IN3171-2 Modelamiento y Optimización Curso G201-Edificio Geología Sala	IN3171-2	Modelamiento y Optimización	G201-Edificio Geología
+313	Auxiliar	16:15	17:45		IN5174-1 Estrategia de Operaciones Curso B04-Beauchef 851 Sala	IN5174-1	Estrategia de Operaciones	B04-Beauchef 851
+314	Auxiliar	16:15	17:45		GL4205-1 Geoquímica Curso G107-Edificio Geología Sala	GL4205-1	Geoquímica	G107-Edificio Geología
+315	Auxiliar	16:15	17:45		GL5301-1 Geotectónica Curso G106-Edificio Geología Sala	GL5301-1	Geotectónica	G106-Edificio Geología
+316	Auxiliar	16:15	17:45		CI4146-1 Economía de Transporte Curso	CI4146-1	Economía de Transporte	
+317	Auxiliar	16:15	17:45		EL4112-1 Principios de Comunicaciones Curso E213-Edificio Eléctrica Sala	EL4112-1	Principios de Comunicaciones	E213-Edificio Eléctrica
+318	Auxiliar	16:15	17:45		IN5529-1 Inteligencia Artificial Aplicada a la Web Curso B113-Edificio Computación Sala	IN5529-1	Inteligencia Artificial Aplicada a la Web	B113-Edificio Computación
+319	Auxiliar	16:15	17:45		GL6301-1 Geología Económica Curso G110-Edificio Geología Sala	GL6301-1	Geología Económica	G110-Edificio Geología
+320	Auxiliar	16:15	17:45		GL3101-1 Geología General Curso G104-Edificio Geología Sala	GL3101-1	Geología General	G104-Edificio Geología
+321	Auxiliar	16:15	17:45		FD703-1 Métodos Computacionales en Fluidodinámica Curso	FD703-1	Métodos Computacionales en Fluidodinámica	
+322	Auxiliar	16:15	17:45		CC4402-1 Formulación, Evaluación y Gestión de Proyectos Curso	CC4402-1	Formulación, Evaluación y Gestión de Proyectos	
+323	Cátedra	16:15	17:45		DR601A-2 Baile y Ritmo Damas I Curso Sala Aerobica-Beauchef 851 Sala	DR601A-2	Baile y Ritmo Damas I	Aerobica-Beauchef 851
+324	Cátedra	16:15	17:45		DR602A-2 Baile y Ritmo Varones I Curso Sala Aerobica-Beauchef 851 Sala	DR602A-2	Baile y Ritmo Varones I	Aerobica-Beauchef 851
+325	Cátedra	16:15	17:45		DR400A-4 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-4	Natación I	Piscina-Beauchef 851
+326	Cátedra	16:15	17:45		DR400B-4 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-4	Natación II	Piscina-Beauchef 851
+327	Cátedra	16:15	17:45		ME4110-1 Procesos de Manufactura Curso B203-Edificio Computación Sala	ME4110-1	Procesos de Manufactura	B203-Edificio Computación
+328	Cátedra	16:15	17:45		ME6908-1 Introducción al Trabajo de Título Curso	ME6908-1	Introducción al Trabajo de Título	
+329	Cátedra	16:15	17:45		IN70B-1 Rol del Estado: Aspectos Económicos Curso	IN70B-1	Rol del Estado: Aspectos Económicos	
+330	Cátedra	16:15	17:45		IN71A-1 Economía y Políticas Públicas I Curso	IN71A-1	Economía y Políticas Públicas I	
+331	Cátedra	16:15	17:45		CC5322-1 Taller de Redes De Datos Curso B210-Edificio Computación Sala	CC5322-1	Taller de Redes De Datos	B210-Edificio Computación
+332	Cátedra	16:15	17:45		CC5613-1 Taller de Comunicación Efectiva: Caso Práctico de Lanzamiento de Producto Curso B06-Beauchef 851 Sala	CC5613-1	Taller de Comunicación Efectiva: Caso Práctico de Lanzamiento de Producto	B06-Beauchef 851
+333	Cátedra	16:15	17:45		CC6204-1 Deep Learning Curso B01-Beauchef 851 Sala	CC6204-1	Deep Learning	B01-Beauchef 851
+334	Cátedra	16:15	17:45		IN4141-1 Liderazgo Efectivo para el Trabajo en Equipo Curso Q23-Edificio Química Sala	IN4141-1	Liderazgo Efectivo para el Trabajo en Equipo	Q23-Edificio Química
+335	Cátedra	16:15	17:45		IN6908-1 Introducción al Trabajo de Titulo Curso	IN6908-1	Introducción al Trabajo de Titulo	
+336	Cátedra	16:15	17:45		IN6909-1 Trabajo de Título Curso G111-Edificio Geología Sala	IN6909-1	Trabajo de Título	G111-Edificio Geología
+337	Cátedra	16:15	17:45		EL5205-1 Laboratorio de Control Avanzado Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	EL5205-1	Laboratorio de Control Avanzado	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+338	Cátedra	16:15	17:45		IE4000-1 Proyectos de Ingeniería y Ciencias al Servicio de la Comunidad Curso B07-Beauchef 851 Sala	IE4000-1	Proyectos de Ingeniería y Ciencias al Servicio de la Comunidad	B07-Beauchef 851
+339	Cátedra	16:15	17:45		CI5262-1 Proyecto Integrado de Recursos Hídricos Curso B206-Edificio Computación Sala	CI5262-1	Proyecto Integrado de Recursos Hídricos	B206-Edificio Computación
+340	Cátedra	16:15	17:45		CI71T-1 Modelación de Aguas Subterráneas Curso F11-Edificio Física Sala	CI71T-1	Modelación de Aguas Subterráneas	F11-Edificio Física
+341	Cátedra	16:15	17:45		FI7777-1 Teoría Cuántica de Colisiones Curso F12-Edificio Física Sala	FI7777-1	Teoría Cuántica de Colisiones	F12-Edificio Física
+342	Cátedra	16:15	17:45		EL3203-1 Análisis de Señales Curso S15-Edificio Escuela Sala	EL3203-1	Análisis de Señales	S15-Edificio Escuela
+343	Cátedra	16:15	17:45		EL6101-3 Taller de Proyectos Tecnológicos Curso B109-Edificio Computación Sala	EL6101-3	Taller de Proyectos Tecnológicos	B109-Edificio Computación
+344	Cátedra	16:15	17:45		EL6201-1 Taller de Emprendimiento e Innovación Curso Q21-Edificio Química Sala	EL6201-1	Taller de Emprendimiento e Innovación	Q21-Edificio Química
+345	Cátedra	16:15	17:45		EL6201-2 Taller de Emprendimiento e Innovación Curso B111-Edificio Computación Sala	EL6201-2	Taller de Emprendimiento e Innovación	B111-Edificio Computación
+346	Cátedra	16:15	17:45		EL6201-3 Taller de Emprendimiento e Innovación Curso F9-Edificio Física Sala	EL6201-3	Taller de Emprendimiento e Innovación	F9-Edificio Física
+347	Cátedra	16:15	17:45		EL7030-1 Antenas Curso B214-Edificio Computación Sala	EL7030-1	Antenas	B214-Edificio Computación
+348	Cátedra	16:15	17:45		GF6022-1 Modelación Atmósferica Curso	GF6022-1	Modelación Atmósferica	
+349	Cátedra	16:15	17:45		AS3201-1 Astronomía Experimental Curso Cerro Calán-OBSERVATORIO CERRO CALAN Sala	AS3201-1	Astronomía Experimental	Cerro Calán-OBSERVATORIO CERRO CALAN
+350	Cátedra	16:15	17:45		CC7910-1 Investigación en Ciencias de la Computación (Métodos, Técnicas, Perspectivas) Curso B110-Edificio Computación Sala	CC7910-1	Investigación en Ciencias de la Computación (Métodos, Técnicas, Perspectivas)	B110-Edificio Computación
+351	Cátedra	16:15	17:45		IN7613-1 Seminario de Investigación II Curso	IN7613-1	Seminario de Investigación II	
+352	Cátedra	16:15	17:45		IN5235-1 Gestión de Inversiones y Patrimonio Financiero Curso S25-Edificio Escuela Sala	IN5235-1	Gestión de Inversiones y Patrimonio Financiero	S25-Edificio Escuela
+353	Cátedra	16:15	17:45		MDS7202-1 Laboratorio de Programación Científica para Ciencia de Datos Curso	MDS7202-1	Laboratorio de Programación Científica para Ciencia de Datos	
+354	Cátedra	16:15	17:45		VA-01-0155-1 El Arte del Cine: principales movimientos, escuelas y tendencias Curso .-FCFM Sala	VA-01-0155-1	El Arte del Cine: principales movimientos, escuelas y tendencias	.-FCFM
+355	Cátedra	16:15	17:45		IN7605-1 Heurísticas para Optimización Entera y Aplicaciones Curso	IN7605-1	Heurísticas para Optimización Entera y Aplicaciones	
+356	Control	16:15	19:30		IQ3211-1 Termodinámica Aplicada Curso F22-Edificio Física Sala	IQ3211-1	Termodinámica Aplicada	F22-Edificio Física
+357	Control	16:15	17:45		FI2001-2 Mecánica Curso B104-Edificio Computación Sala B204-Edificio Computación Sala	FI2001-2	Mecánica	B104-Edificio Computación | B204-Edificio Computación
+358	Control	16:15	17:45		FI2001-3 Mecánica Curso B103-Edificio Computación Sala B105-Edificio Computación Sala F10-Edificio Física Sala	FI2001-3	Mecánica	B103-Edificio Computación | B105-Edificio Computación | F10-Edificio Física
+359	Control	16:15	17:45		FI2001-4 Mecánica Curso S19-Edificio Escuela Sala G306-Edificio Geología Sala	FI2001-4	Mecánica	S19-Edificio Escuela | G306-Edificio Geología
+360	Control	16:15	17:45		FI2001-1 Mecánica Curso Q10-Edificio Química Sala Q13-Edificio Química Sala Q22-Edificio Química Sala	FI2001-1	Mecánica	Q10-Edificio Química | Q13-Edificio Química | Q22-Edificio Química
+361	Control de Adecuación	16:15	19:30	FI2001	S14-Edificio Escuela Sala	S14-Edificio		S14-Edificio Escuela
+362	Laboratorio	16:15	17:45		MA4703-1 Control Óptimo: Teoría y Laboratorio Curso	MA4703-1	Control Óptimo: Teoría y Laboratorio	
+363	Laboratorio	16:15	17:45		CD2201-12 Módulo Interdisciplinario Curso B09-Beauchef 851 Sala	CD2201-12	Módulo Interdisciplinario	B09-Beauchef 851
+364	Laboratorio	16:15	17:45		FI1100-5 Introducción a la Física Moderna Curso	FI1100-5	Introducción a la Física Moderna	
+365	Laboratorio	16:15	17:45		FI3003-1 Física Experimental I Curso	FI3003-1	Física Experimental I	
+366	Laboratorio	16:15	17:45		FI3105-1 Física Experimental II Curso	FI3105-1	Física Experimental II	
+16:45								
+367	Cátedra	16:45	18:15		VA-01-0333-1 Translations and Betrayals: Manga & Anime, from the comic book pages to the multimedia Curso .-FCFM Sala	VA-01-0333-1	Translations and Betrayals: Manga & Anime, from the comic book pages to the multimedia	.-FCFM
+17:00								
+368	Cátedra	17:00	18:30		VA-01-0327-205-1 Mi Pasaporte UChile: ciudadanía cultural estudiantil Curso .-FCFM Sala	VA-01-0327-205-1	Mi Pasaporte UChile: ciudadanía cultural estudiantil	.-FCFM
+18:00								
+369	Auxiliar	18:00	19:30		ME3230-1 Mecánica de Sólidos Curso QO-Edificio Química Sala	ME3230-1	Mecánica de Sólidos	QO-Edificio Química
+370	Auxiliar	18:00	19:30		CC4401-1 Ingeniería de Software Curso G303-Edificio Geología Sala	CC4401-1	Ingeniería de Software	G303-Edificio Geología
+371	Auxiliar	18:00	19:30		CC4402-2 Formulación, Evaluación y Gestión de Proyectos Curso	CC4402-2	Formulación, Evaluación y Gestión de Proyectos	
+372	Auxiliar	18:00	19:30		IN73G-1 Evaluación de Proyectos Curso	IN73G-1	Evaluación de Proyectos	
+373	Auxiliar	18:00	19:30		EP601-1 Matemáticas y Estadística Curso	EP601-1	Matemáticas y Estadística	
+374	Auxiliar	18:00	19:30		MA1002-1 Cálculo Diferencial e Integral Curso B212-Edificio Computación Sala	MA1002-1	Cálculo Diferencial e Integral	B212-Edificio Computación
+375	Auxiliar	18:00	19:30		MA1002-2 Cálculo Diferencial e Integral Curso S26-Edificio Escuela Sala S28-Edificio Escuela Sala	MA1002-2	Cálculo Diferencial e Integral	S26-Edificio Escuela | S28-Edificio Escuela
+376	Auxiliar	18:00	19:30		MA1002-3 Cálculo Diferencial e Integral Curso B02-Beauchef 851 Sala	MA1002-3	Cálculo Diferencial e Integral	B02-Beauchef 851
+377	Auxiliar	18:00	19:30		MA1002-4 Cálculo Diferencial e Integral Curso B01-Beauchef 851 Sala	MA1002-4	Cálculo Diferencial e Integral	B01-Beauchef 851
+378	Auxiliar	18:00	19:30		MA1002-5 Cálculo Diferencial e Integral Curso B04-Beauchef 851 Sala	MA1002-5	Cálculo Diferencial e Integral	B04-Beauchef 851
+379	Auxiliar	18:00	19:30		MI5141-1 Desarrollo Sostenible y Recursos minerales Curso B115-Edificio Computación Sala	MI5141-1	Desarrollo Sostenible y Recursos minerales	B115-Edificio Computación
+380	Auxiliar	18:00	19:30		GL4205-1 Geoquímica Curso G107-Edificio Geología Sala	GL4205-1	Geoquímica	G107-Edificio Geología
+381	Auxiliar	18:00	19:30		CI5323-1 Ingeniería Estructural Avanzada Curso B100-Edificio Computación Sala	CI5323-1	Ingeniería Estructural Avanzada	B100-Edificio Computación
+382	Auxiliar	18:00	19:30		GF4102-1 Prospección Sismica Curso	GF4102-1	Prospección Sismica	
+383	Auxiliar	18:00	19:30		CI71D-1 Modelación Numérica con Aplic. en Ing. Hidráulica y Ambiental Curso B109-Edificio Computación Sala	CI71D-1	Modelación Numérica con Aplic. en Ing. Hidráulica y Ambiental	B109-Edificio Computación
+384	Auxiliar	18:00	20:00		GL3203-2 Ciencia de los Minerales II Curso Laboratorio de Microscopio-Edificio Geología Sala	GL3203-2	Ciencia de los Minerales II	Laboratorio de Microscopio-Edificio Geología
+385	Auxiliar	18:00	19:30		EL6101-2 Taller de Proyectos Tecnológicos Curso E215-Edificio Eléctrica Sala	EL6101-2	Taller de Proyectos Tecnológicos	E215-Edificio Eléctrica
+386	Auxiliar	18:00	19:30		EL6101-3 Taller de Proyectos Tecnológicos Curso B113-Edificio Computación Sala	EL6101-3	Taller de Proyectos Tecnológicos	B113-Edificio Computación
+387	Auxiliar	18:00	19:30		EL7018-1 Mercados Internacionales de la Energia Curso .-FCFM Sala	EL7018-1	Mercados Internacionales de la Energia	.-FCFM
+388	Cátedra	18:00	19:30		ME3120-3 Dibujo Mecánico Curso Sala Computadores 4º piso Mecánica-Edificio Central Sala	ME3120-3	Dibujo Mecánico	Computadores 4º piso Mecánica-Edificio Central
+389	Cátedra	18:00	19:30		ME4230-1 Elementos de Máquinas Curso B211-Edificio Computación Sala	ME4230-1	Elementos de Máquinas	B211-Edificio Computación
+390	Cátedra	18:00	20:00		MA5305-1 Enseñanza y Aprendizaje de la Matemática Escolar II Curso S25-Edificio Escuela Sala	MA5305-1	Enseñanza y Aprendizaje de la Matemática Escolar II	S25-Edificio Escuela
+391	Cátedra	18:00	19:30		IN70A-1 Rol del Estado: Aspectos Socio-Políticos Curso	IN70A-1	Rol del Estado: Aspectos Socio-Políticos	
+392	Cátedra	18:00	19:30		IN7T5-2 Políticas Públicas Curso	IN7T5-2	Políticas Públicas	
+393	Cátedra	18:00	19:30		IN7L7-1 Comunicación Política Curso	IN7L7-1	Comunicación Política	
+394	Cátedra	18:00	19:30		CC6409-1 Taller de Desarrollo de Proyectos de IA Curso B07-Beauchef 851 Sala	CC6409-1	Taller de Desarrollo de Proyectos de IA	B07-Beauchef 851
+395	Cátedra	18:00	19:30		CC6907-1 Introducción al Trabajo de Título Curso	CC6907-1	Introducción al Trabajo de Título	
+396	Cátedra	18:00	19:30		CC6908-1 Introducción al Trabajo de Título Curso	CC6908-1	Introducción al Trabajo de Título	
+397	Cátedra	18:00	19:30		IQ5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso B08-Beauchef 851 Sala	IQ5715-1	Taller de Proyectos en Ingeniería o Ciencias	B08-Beauchef 851
+398	Cátedra	18:00	19:30		MI5275-1 Seminario Desafíos para la Minería Moderna Curso S29-Edificio Escuela Sala	MI5275-1	Seminario Desafíos para la Minería Moderna	S29-Edificio Escuela
+399	Cátedra	18:00	19:30		BT5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso B08-Beauchef 851 Sala	BT5715-1	Taller de Proyectos en Ingeniería o Ciencias	B08-Beauchef 851
+400	Cátedra	18:00	19:30		CI5131-1 Proyecto de Construcción Curso B210-Edificio Computación Sala	CI5131-1	Proyecto de Construcción	B210-Edificio Computación
+401	Cátedra	18:00	19:30		CI6318-1 Proyecto de Gestión de Metros y Ferrocarriles. Curso Q23-Edificio Química Sala	CI6318-1	Proyecto de Gestión de Metros y Ferrocarriles.	Q23-Edificio Química
+402	Cátedra	18:00	19:30		EL6101-1 Taller de Proyectos Tecnológicos Curso B110-Edificio Computación Sala	EL6101-1	Taller de Proyectos Tecnológicos	B110-Edificio Computación
+403	Cátedra	18:00	19:30		AS3201-1 Astronomía Experimental Curso Cerro Calán-OBSERVATORIO CERRO CALAN Sala	AS3201-1	Astronomía Experimental	Cerro Calán-OBSERVATORIO CERRO CALAN
+404	Cátedra	18:00	19:30		MIE7102-1 Estrategia para la Innovación y el Emprendimiento de base Tecnológica Curso	MIE7102-1	Estrategia para la Innovación y el Emprendimiento de base Tecnológica	
+405	Cátedra	18:00	19:30		MIE7204-1 Seminario de Innovación y Emprendimiento Científico-Tecnológico II Curso B213-Edificio Computación Sala	MIE7204-1	Seminario de Innovación y Emprendimiento Científico-Tecnológico II	B213-Edificio Computación
+406	Cátedra	18:00	19:30		MDS8405-1 Seminario de Tesis II Curso	MDS8405-1	Seminario de Tesis II	
+407	Cátedra	18:00	19:30		VA-01-0327-152-1 Procesos de construcción de las masculinidades: una mirada crítica Curso .-FCFM Sala	VA-01-0327-152-1	Procesos de construcción de las masculinidades: una mirada crítica	.-FCFM
+408	Control	18:00	19:30		FI2001-1 Mecánica Curso Q10-Edificio Química Sala Q13-Edificio Química Sala Q22-Edificio Química Sala	FI2001-1	Mecánica	Q10-Edificio Química | Q13-Edificio Química | Q22-Edificio Química
+409	Control	18:00	19:30		FI2001-2 Mecánica Curso B104-Edificio Computación Sala B204-Edificio Computación Sala	FI2001-2	Mecánica	B104-Edificio Computación | B204-Edificio Computación
+410	Control	18:00	19:30		FI2001-3 Mecánica Curso B103-Edificio Computación Sala B105-Edificio Computación Sala F10-Edificio Física Sala	FI2001-3	Mecánica	B103-Edificio Computación | B105-Edificio Computación | F10-Edificio Física
+411	Control	18:00	19:30		FI2001-4 Mecánica Curso S19-Edificio Escuela Sala G306-Edificio Geología Sala	FI2001-4	Mecánica	S19-Edificio Escuela | G306-Edificio Geología
+19:30								
+412	Cátedra	19:30	21:00		IN70A-1 Rol del Estado: Aspectos Socio-Políticos Curso	IN70A-1	Rol del Estado: Aspectos Socio-Políticos	
+413	Cátedra	19:30	21:00		IN7T5-2 Políticas Públicas Curso	IN7T5-2	Políticas Públicas	
+414	Cátedra	19:30	21:00		IN7L7-1 Comunicación Política Curso	IN7L7-1	Comunicación Política	
+415	Cátedra	19:30	21:00		IQ5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso B08-Beauchef 851 Sala	IQ5715-1	Taller de Proyectos en Ingeniería o Ciencias	B08-Beauchef 851
+416	Cátedra	19:30	21:00		BT5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso B08-Beauchef 851 Sala	BT5715-1	Taller de Proyectos en Ingeniería o Ciencias	B08-Beauchef 851
+417	Cátedra	19:30	21:00		CI5131-1 Proyecto de Construcción Curso B210-Edificio Computación Sala	CI5131-1	Proyecto de Construcción	B210-Edificio Computación
+418	Cátedra	19:30	21:00		AS3201-1 Astronomía Experimental Curso Cerro Calán-OBSERVATORIO CERRO CALAN Sala	AS3201-1	Astronomía Experimental	Cerro Calán-OBSERVATORIO CERRO CALAN
+419	Cátedra	19:30	21:00		MIE7102-1 Estrategia para la Innovación y el Emprendimiento de base Tecnológica Curso	MIE7102-1	Estrategia para la Innovación y el Emprendimiento de base Tecnológica	
+420	Cátedra	19:30	21:00		MIE7204-1 Seminario de Innovación y Emprendimiento Científico-Tecnológico II Curso B213-Edificio Computación Sala	MIE7204-1	Seminario de Innovación y Emprendimiento Científico-Tecnológico II	B213-Edificio Computación
+
+Eventos del Jueves 23 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+8:00								
+1	Cátedra	8:00	10:00		EL3101-1 Análisis y Diseño de Circuitos Eléctricos Curso B06-Beauchef 851 Sala	EL3101-1	Análisis y Diseño de Circuitos Eléctricos	B06-Beauchef 851
+8:15								
+2	Workshop on Trends, Opportunities, and Major Advances in Systems for HPC+AI - CMM	8:15	21:00	Ginés D. Guerrero, PhD <gguerrero@nlhpc.cl> Executive Director National Laboratory for High Performance Computing (NLHPC) <http://www.nlhpc.cl> Center for Mathematical Modeling (CMM) Office: +56-2-29771153	Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala Cafeteria-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 | Cafeteria-Beauchef 851
+8:30								
+3	Auxiliar	8:30	10:00		IQ3400-1 Introducción a la Sustentabilidad en la Ingeniería y Ciencias Curso E213-Edificio Eléctrica Sala	IQ3400-1	Introducción a la Sustentabilidad en la Ingeniería y Ciencias	E213-Edificio Eléctrica
+4	Auxiliar	8:30	10:00		GL4202-2 Petrología Ignea Curso Laboratorio de Rocas-Edificio Geología Sala	GL4202-2	Petrología Ignea	Laboratorio de Rocas-Edificio Geología
+5	Auxiliar	8:30	10:00		FI1100-1 Introducción a la Física Moderna Curso G301-Edificio Geología Sala	FI1100-1	Introducción a la Física Moderna	G301-Edificio Geología
+6	Auxiliar	8:30	10:00		EL4204-1 Formulación y Evaluación de Proyectos Curso E216-Edificio Eléctrica Sala	EL4204-1	Formulación y Evaluación de Proyectos	E216-Edificio Eléctrica
+7	Cátedra	8:30	10:00		EI2021-2 Inglés 1 Curso B114-Edificio Computación Sala	EI2021-2	Inglés 1	B114-Edificio Computación
+8	Cátedra	8:30	10:00		EI2021-4 Inglés 1 Curso B205-Edificio Computación Sala	EI2021-4	Inglés 1	B205-Edificio Computación
+9	Cátedra	8:30	10:00		EI2022-2 Inglés 2 Curso B115-Edificio Computación Sala	EI2022-2	Inglés 2	B115-Edificio Computación
+10	Cátedra	8:30	10:00		EI3023-1 Inglés 3 Curso B101-Edificio Computación Sala	EI3023-1	Inglés 3	B101-Edificio Computación
+11	Cátedra	8:30	10:00		EI4204-10 Inglés 4 Curso B103-Edificio Computación Sala	EI4204-10	Inglés 4	B103-Edificio Computación
+12	Cátedra	8:30	10:00		EI4205-9 Inglés 5 Curso B113-Edificio Computación Sala	EI4205-9	Inglés 5	B113-Edificio Computación
+13	Cátedra	8:30	10:00		EI2301-1 Francés Elemental Curso B105-Edificio Computación Sala	EI2301-1	Francés Elemental	B105-Edificio Computación
+14	Cátedra	8:30	10:00		DR120A-1 Running I Curso Gimnasio Domeyko-FCFM Sala	DR120A-1	Running I	Gimnasio Domeyko-FCFM
+15	Cátedra	8:30	10:00		DR120B-1 Running II Curso Gimnasio Domeyko-FCFM Sala	DR120B-1	Running II	Gimnasio Domeyko-FCFM
+16	Cátedra	8:30	10:00		DR160A-1 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-1	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+17	Cátedra	8:30	10:00		DR230A-1 Aikido I Curso Dojo-Beauchef 851 Sala	DR230A-1	Aikido I	Dojo-Beauchef 851
+18	Cátedra	8:30	10:00		DR230B-1 Aikido II Curso Dojo-Beauchef 851 Sala	DR230B-1	Aikido II	Dojo-Beauchef 851
+19	Cátedra	8:30	10:00		DR250A-1 Boxeo Funcional Damas I Curso Gimnasio Domeyko-FCFM Sala	DR250A-1	Boxeo Funcional Damas I	Gimnasio Domeyko-FCFM
+20	Cátedra	8:30	10:00		DR251A-1 Boxeo Funcional Varones I Curso Gimnasio Domeyko-FCFM Sala	DR251A-1	Boxeo Funcional Varones I	Gimnasio Domeyko-FCFM
+21	Cátedra	8:30	10:00		DR500A-1 Ajedrez I Curso Sala de Juegos-Beauchef 851 Sala	DR500A-1	Ajedrez I	de Juegos-Beauchef 851
+22	Cátedra	8:30	10:00		DR500B-1 Ajedrez II Curso Sala de Juegos-Beauchef 851 Sala	DR500B-1	Ajedrez II	de Juegos-Beauchef 851
+23	Cátedra	8:30	10:00		DR301A-1 Futsal Varones Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR301A-1	Futsal Varones	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+24	Cátedra	8:30	10:00		DR301B-1 Futsal Varones II Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR301B-1	Futsal Varones II	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+25	Cátedra	8:30	10:00		DR320A-1 Voleibol I Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR320A-1	Voleibol I	Cancha Voleibol - Básquetbol-Beauchef 851
+26	Cátedra	8:30	10:00		DR320B-1 Voleibol II Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR320B-1	Voleibol II	Cancha Voleibol - Básquetbol-Beauchef 851
+27	Cátedra	8:30	10:00		DR610A-1 Guitarra Clásica I Curso Sala de Artes-Beauchef 851 Sala	DR610A-1	Guitarra Clásica I	de Artes-Beauchef 851
+28	Cátedra	8:30	10:00		DR610B-1 Guitarra Clásica II Curso Sala de Artes-Beauchef 851 Sala	DR610B-1	Guitarra Clásica II	de Artes-Beauchef 851
+29	Cátedra	8:30	10:00		CC3501-2 Modelación y Computación Gráfica para Ingenieros Curso G107-Edificio Geología Sala	CC3501-2	Modelación y Computación Gráfica para Ingenieros	G107-Edificio Geología
+30	Cátedra	8:30	10:00		CC5002-1 Desarrollo de Aplicaciones Web Curso	CC5002-1	Desarrollo de Aplicaciones Web	
+31	Cátedra	8:30	10:00		CC5308-1 Administración de Sistemas Linux Curso	CC5308-1	Administración de Sistemas Linux	
+32	Cátedra	8:30	10:00		CC5401-1 Ingeniería de Software II Curso B206-Edificio Computación Sala	CC5401-1	Ingeniería de Software II	B206-Edificio Computación
+33	Cátedra	8:30	10:00		MA1102-8 Álgebra Lineal Curso S15-Edificio Escuela Sala	MA1102-8	Álgebra Lineal	S15-Edificio Escuela
+34	Cátedra	8:30	10:00		MA2002-3 Cálculo Avanzado y Aplicaciones Curso Q10-Edificio Química Sala	MA2002-3	Cálculo Avanzado y Aplicaciones	Q10-Edificio Química
+35	Cátedra	8:30	10:00		MA2002-6 Cálculo Avanzado y Aplicaciones Curso B104-Edificio Computación Sala	MA2002-6	Cálculo Avanzado y Aplicaciones	B104-Edificio Computación
+36	Cátedra	8:30	10:00		IQ3400-3 Introducción a la Sustentabilidad en la Ingeniería y Ciencias Curso S28-Edificio Escuela Sala	IQ3400-3	Introducción a la Sustentabilidad en la Ingeniería y Ciencias	S28-Edificio Escuela
+37	Cátedra	8:30	10:00		IQ3212-1 Fisicoquímica Curso G104-Edificio Geología Sala	IQ3212-1	Fisicoquímica	G104-Edificio Geología
+38	Cátedra	8:30	10:00		IN5112-1 Dirección Estratégica Curso B08-Beauchef 851 Sala	IN5112-1	Dirección Estratégica	B08-Beauchef 851
+39	Cátedra	8:30	10:00		EH2103-1 Filosofía Política Curso S14-Edificio Escuela Sala	EH2103-1	Filosofía Política	S14-Edificio Escuela
+40	Cátedra	8:30	10:00		MI3100-1 Química Mineralógica Curso F22-Edificio Física Sala	MI3100-1	Química Mineralógica	F22-Edificio Física
+41	Cátedra	8:30	10:00		MI3100-2 Química Mineralógica Curso F22-Edificio Física Sala	MI3100-2	Química Mineralógica	F22-Edificio Física
+42	Cátedra	8:30	10:00		MI3210-1 Introducción a Yacimientos Minerales Curso G106-Edificio Geología Sala	MI3210-1	Introducción a Yacimientos Minerales	G106-Edificio Geología
+43	Cátedra	8:30	10:00		MI5170-1 Agua y Relaves Curso B109-Edificio Computación Sala	MI5170-1	Agua y Relaves	B109-Edificio Computación
+44	Cátedra	8:30	10:00		GL5321-1 Geología Aplicada a la Ingeniería Curso G110-Edificio Geología Sala	GL5321-1	Geología Aplicada a la Ingeniería	G110-Edificio Geología
+45	Cátedra	8:30	10:00		CD1201-16 Proyecto de Innovación en Ingeniería y Ciencias Curso B07-Beauchef 851 Sala	CD1201-16	Proyecto de Innovación en Ingeniería y Ciencias	B07-Beauchef 851
+46	Cátedra	8:30	10:00		CI3162-1 Mecánica de Fluidos Curso S25-Edificio Escuela Sala	CI3162-1	Mecánica de Fluidos	S25-Edificio Escuela
+47	Cátedra	8:30	10:00		CI3262-1 Ingeniería Hidráulica Curso QP-Edificio Química Sala	CI3262-1	Ingeniería Hidráulica	QP-Edificio Química
+48	Cátedra	8:30	10:00		CI4112-1 Ingeniería de Materiales Curso B213-Edificio Computación Sala	CI4112-1	Ingeniería de Materiales	B213-Edificio Computación
+49	Cátedra	8:30	10:00		CI4164-1 Hidráulica Curso B102-Edificio Computación Sala	CI4164-1	Hidráulica	B102-Edificio Computación
+50	Cátedra	8:30	10:00		CI4231-1 Construcción Curso G303-Edificio Geología Sala	CI4231-1	Construcción	G303-Edificio Geología
+51	Cátedra	8:30	10:00		CI5212-1 Mecánica de Sólidos II Curso B211-Edificio Computación Sala	CI5212-1	Mecánica de Sólidos II	B211-Edificio Computación
+52	Cátedra	8:30	10:00		CI5247-1 Economía Urbana Curso B001-Edificio Computación Sala	CI5247-1	Economía Urbana	B001-Edificio Computación
+53	Cátedra	8:30	10:00		CI5532-1 Diseño y Construcción de Estructuras Prefabricadas Curso N11-Edificio Escuela Sala	CI5532-1	Diseño y Construcción de Estructuras Prefabricadas	N11-Edificio Escuela
+54	Cátedra	8:30	10:00		CI71K-1 Hidráulica Marítima Curso B214-Edificio Computación Sala	CI71K-1	Hidráulica Marítima	B214-Edificio Computación
+55	Cátedra	8:30	10:00		FI1100-3 Introducción a la Física Moderna Curso B02-Beauchef 851 Sala	FI1100-3	Introducción a la Física Moderna	B02-Beauchef 851
+56	Cátedra	8:30	10:00		FI1100-5 Introducción a la Física Moderna Curso S26-Edificio Escuela Sala	FI1100-5	Introducción a la Física Moderna	S26-Edificio Escuela
+57	Cátedra	8:30	10:00		FI2001-1 Mecánica Curso F10-Edificio Física Sala	FI2001-1	Mecánica	F10-Edificio Física
+58	Cátedra	8:30	10:00		FI2003-4 Métodos Experimentales Curso F20-Edificio Física Sala	FI2003-4	Métodos Experimentales	F20-Edificio Física
+59	Cátedra	8:30	10:00		FI4005-1 Métodos Numéricos para la Física Curso B110-Edificio Computación Sala	FI4005-1	Métodos Numéricos para la Física	B110-Edificio Computación
+60	Cátedra	8:30	10:00		EL3101-2 Análisis y Diseño de Circuitos Eléctricos Curso E111-Edificio Eléctrica Sala	EL3101-2	Análisis y Diseño de Circuitos Eléctricos	E111-Edificio Eléctrica
+61	Cátedra	8:30	10:00		EL6012-1 Protecciones de Instalaciones Eléctricas Curso B208-Edificio Computación Sala	EL6012-1	Protecciones de Instalaciones Eléctricas	B208-Edificio Computación
+62	Cátedra	8:30	10:00		CI71F-1 Modelación Hidrológica Curso B100-Edificio Computación Sala	CI71F-1	Modelación Hidrológica	B100-Edificio Computación
+63	Laboratorio	8:30	10:00		CD1201-6 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-6	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+64	Laboratorio	8:30	10:00		FI1100-7 Introducción a la Física Moderna Curso	FI1100-7	Introducción a la Física Moderna	
+9:00								
+65	Visita Colegios - Difusión Colegios	9:00	10:00		B112-Edificio Computación Sala	B112-Edificio		B112-Edificio Computación
+9:00								
+66	Exámen de Grado o Título	9:00	11:00		Examen de Grado de Michael Scott S. Examen de Grado Sala 307 Grace Hopper del DCC Tercer Piso Poniente Sala			Examen de Grado de Michael Scott S. Examen de Grado | 307 Grace Hopper del DCC Tercer Piso Poniente
+67	Exámen de Grado o Título	9:00	10:00		Examen de Grado de Héctor Flores R. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Héctor Flores R. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+10:00								
+68	Auxiliar	10:00	12:00		CC1002-5 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-5	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+69	Auxiliar	10:00	12:00		EL4105-1 Control Avanzado de Sistemas Curso E215-Edificio Eléctrica Sala	EL4105-1	Control Avanzado de Sistemas	E215-Edificio Eléctrica
+70	Cátedra	10:00	12:00		EL4111-1 Conversión de la Energía y Sistemas Eléctricos Curso E216-Edificio Eléctrica Sala	EL4111-1	Conversión de la Energía y Sistemas Eléctricos	E216-Edificio Eléctrica
+71	Cátedra	10:00	12:00		EL7909-2 Trabajo de Tesis I Curso	EL7909-2	Trabajo de Tesis I	
+10:00								
+72	Exámen de Grado o Título	10:00	12:00		Examen de Grado de Oscar Quezada A. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Oscar Quezada A. Examen de Grado Auditorio Picarte 3ER Piso DCC
+73	Exámen de Grado o Título	10:00	12:00		Examen de Grado de Leonel Espinoza S. Examen de Grado Auditorio P303, Philippe Flajolet Sala			Examen de Grado de Leonel Espinoza S. Examen de Grado Auditorio P303, Philippe Flajolet
+10:15								
+74	Auxiliar	10:15	11:45		ME3130-1 Mecánica Estática Curso F11-Edificio Física Sala	ME3130-1	Mecánica Estática	F11-Edificio Física
+75	Auxiliar	10:15	11:45		MA1001-2 Introducción al Cálculo Curso S24-Edificio Escuela Sala	MA1001-2	Introducción al Cálculo	S24-Edificio Escuela
+76	Auxiliar	10:15	11:45		CI4261-1 Hidrología Curso B110-Edificio Computación Sala	CI4261-1	Hidrología	B110-Edificio Computación
+77	Auxiliar	10:15	11:45		GF5030-1 Quimica Atmosférica y Clima Curso	GF5030-1	Quimica Atmosférica y Clima	
+78	Cátedra	10:15	11:45		EI2021-5 Inglés 1 Curso B115-Edificio Computación Sala	EI2021-5	Inglés 1	B115-Edificio Computación
+79	Cátedra	10:15	11:45		EI2022-1 Inglés 2 Curso B111-Edificio Computación Sala	EI2022-1	Inglés 2	B111-Edificio Computación
+80	Cátedra	10:15	11:45		EI3203-4 Inglés 3 Curso B100-Edificio Computación Sala	EI3203-4	Inglés 3	B100-Edificio Computación
+81	Cátedra	10:15	11:45		EI4204-4 Inglés 4 Curso B205-Edificio Computación Sala	EI4204-4	Inglés 4	B205-Edificio Computación
+82	Cátedra	10:15	11:45		EI4024-1 Inglés 4 Curso B213-Edificio Computación Sala	EI4024-1	Inglés 4	B213-Edificio Computación
+83	Cátedra	10:15	11:45		EI4205-6 Inglés 5 Curso B103-Edificio Computación Sala	EI4205-6	Inglés 5	B103-Edificio Computación
+84	Cátedra	10:15	11:45		EI4205-10 Inglés 5 Curso B113-Edificio Computación Sala	EI4205-10	Inglés 5	B113-Edificio Computación
+85	Cátedra	10:15	11:45		EI4205-11 Inglés 5 Curso B101-Edificio Computación Sala	EI4205-11	Inglés 5	B101-Edificio Computación
+86	Cátedra	10:15	11:45		EI4205-13 Inglés 5 Curso B114-Edificio Computación Sala	EI4205-13	Inglés 5	B114-Edificio Computación
+87	Cátedra	10:15	11:45		EI2302-1 Frances Básico Intermedio Curso B105-Edificio Computación Sala	EI2302-1	Frances Básico Intermedio	B105-Edificio Computación
+88	Cátedra	10:15	11:45		DR160A-2 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-2	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+89	Cátedra	10:15	11:45		DR250A-2 Boxeo Funcional Damas I Curso Gimnasio Domeyko-FCFM Sala	DR250A-2	Boxeo Funcional Damas I	Gimnasio Domeyko-FCFM
+90	Cátedra	10:15	11:45		DR251A-2 Boxeo Funcional Varones I Curso Gimnasio Domeyko-FCFM Sala	DR251A-2	Boxeo Funcional Varones I	Gimnasio Domeyko-FCFM
+91	Cátedra	10:15	11:45		DR210A-1 Tai Chi I Curso Dojo-Beauchef 851 Sala	DR210A-1	Tai Chi I	Dojo-Beauchef 851
+92	Cátedra	10:15	11:45		DR500A-2 Ajedrez I Curso Sala de Juegos-Beauchef 851 Sala	DR500A-2	Ajedrez I	de Juegos-Beauchef 851
+93	Cátedra	10:15	11:45		DR500B-2 Ajedrez II Curso Sala de Juegos-Beauchef 851 Sala	DR500B-2	Ajedrez II	de Juegos-Beauchef 851
+94	Cátedra	10:15	11:45		DR301A-2 Futsal Varones Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR301A-2	Futsal Varones	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+95	Cátedra	10:15	11:45		DR301B-2 Futsal Varones II Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR301B-2	Futsal Varones II	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+96	Cátedra	10:15	11:45		DR400A-5 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-5	Natación I	Piscina-Beauchef 851
+97	Cátedra	10:15	11:45		DR400B-5 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-5	Natación II	Piscina-Beauchef 851
+98	Cátedra	10:15	11:45		DR320A-2 Voleibol I Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR320A-2	Voleibol I	Cancha Voleibol - Básquetbol-Beauchef 851
+99	Cátedra	10:15	11:45		DR320B-2 Voleibol II Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR320B-2	Voleibol II	Cancha Voleibol - Básquetbol-Beauchef 851
+100	Cátedra	10:15	11:45		DR615A-1 Guitarra Popular Curso Sala de Artes-Beauchef 851 Sala	DR615A-1	Guitarra Popular	de Artes-Beauchef 851
+101	Cátedra	10:15	11:45		ME3210-1 Materiales para la Ingeniería Curso S26-Edificio Escuela Sala	ME3210-1	Materiales para la Ingeniería	S26-Edificio Escuela
+102	Cátedra	10:15	11:45		ME4150-1 Automatización y Control Curso B06-Beauchef 851 Sala	ME4150-1	Automatización y Control	B06-Beauchef 851
+103	Cátedra	10:15	11:45		ME5803-1 Taller de Desarrollo de Carrera Profesional Curso Q23-Edificio Química Sala	ME5803-1	Taller de Desarrollo de Carrera Profesional	Q23-Edificio Química
+104	Cátedra	10:15	11:45		CC3301-1 Programación de Software de Sistemas Curso S28-Edificio Escuela Sala	CC3301-1	Programación de Software de Sistemas	S28-Edificio Escuela
+105	Cátedra	10:15	11:45		CC3301-2 Programación de Software de Sistemas Curso B05-Beauchef 851 Sala	CC3301-2	Programación de Software de Sistemas	B05-Beauchef 851
+106	Cátedra	10:15	11:45		CC3401-1 Interacción Humano - Computador Curso S15-Edificio Escuela Sala	CC3401-1	Interacción Humano - Computador	S15-Edificio Escuela
+107	Cátedra	10:15	11:45		CC3501-1 Modelación y Computación Gráfica para Ingenieros Curso QO-Edificio Química Sala	CC3501-1	Modelación y Computación Gráfica para Ingenieros	QO-Edificio Química
+108	Cátedra	10:15	11:45		CC4101-1 Lenguajes de Programación Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	CC4101-1	Lenguajes de Programación	G108 - Humberto Fuenzalida-Edificio Geología
+109	Cátedra	10:15	11:45		CC4101-2 Lenguajes de Programación Curso	CC4101-2	Lenguajes de Programación	
+110	Cátedra	10:15	11:45		IN3143-1 Escritura académica para las Ingenierías y las Ciencias Curso G303-Edificio Geología Sala	IN3143-1	Escritura académica para las Ingenierías y las Ciencias	G303-Edificio Geología
+111	Cátedra	10:15	11:45		MA1101-1 Introducción al Álgebra Curso B212-Edificio Computación Sala	MA1101-1	Introducción al Álgebra	B212-Edificio Computación
+112	Cátedra	10:15	11:45		MA1101-2 Introducción al Álgebra Curso G304-Edificio Geología Sala	MA1101-2	Introducción al Álgebra	G304-Edificio Geología
+113	Cátedra	10:15	11:45		MA1101-4 Introducción al Álgebra Curso F21-Edificio Física Sala	MA1101-4	Introducción al Álgebra	F21-Edificio Física
+114	Cátedra	10:15	11:45		MA1102-1 Álgebra Lineal Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-1	Álgebra Lineal	B010 (Torre Norte piso -2)-Edificio Computación
+115	Cátedra	10:15	11:45		MA1102-2 Álgebra Lineal Curso B02-Beauchef 851 Sala	MA1102-2	Álgebra Lineal	B02-Beauchef 851
+116	Cátedra	10:15	11:45		MA1102-4 Álgebra Lineal Curso B03-Beauchef 851 Sala	MA1102-4	Álgebra Lineal	B03-Beauchef 851
+117	Cátedra	10:15	11:45		MA2601-1 Ecuaciones Diferenciales Ordinarias Curso B04-Beauchef 851 Sala	MA2601-1	Ecuaciones Diferenciales Ordinarias	B04-Beauchef 851
+118	Cátedra	10:15	11:45		MA2601-2 Ecuaciones Diferenciales Ordinarias Curso B204-Edificio Computación Sala	MA2601-2	Ecuaciones Diferenciales Ordinarias	B204-Edificio Computación
+119	Cátedra	10:15	11:45		MA2002-5 Cálculo Avanzado y Aplicaciones Curso Q10-Edificio Química Sala	MA2002-5	Cálculo Avanzado y Aplicaciones	Q10-Edificio Química
+120	Cátedra	10:15	11:45		MA3002-1 Tópicos en Análisis Convexo Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA3002-1	Tópicos en Análisis Convexo	Seminario DIM 5º PISO-Edificio Computación
+121	Cátedra	10:15	11:45		MA4402-1 Simulación Estocástica: Teoría y Laboratorio Curso G201-Edificio Geología Sala	MA4402-1	Simulación Estocástica: Teoría y Laboratorio	G201-Edificio Geología
+122	Cátedra	10:15	11:45		MA5306-1 Problemas Inversos y de Control de EDP Curso Sala Seminario 4°piso DIM-Edificio Computación Sala	MA5306-1	Problemas Inversos y de Control de EDP	Seminario 4°piso DIM-Edificio Computación
+123	Cátedra	10:15	11:45		CC1002-11 Introducción a la Programación Curso B203-Edificio Computación Sala	CC1002-11	Introducción a la Programación	B203-Edificio Computación
+124	Cátedra	10:15	11:45		IQ2212-3 Termodinámica Química Curso B01-Beauchef 851 Sala	IQ2212-3	Termodinámica Química	B01-Beauchef 851
+125	Cátedra	10:15	11:45		IQ3215-1 Ciencia de los Materiales Curso B211-Edificio Computación Sala	IQ3215-1	Ciencia de los Materiales	B211-Edificio Computación
+126	Cátedra	10:15	11:45		IQ3215-2 Ciencia de los Materiales Curso B211-Edificio Computación Sala	IQ3215-2	Ciencia de los Materiales	B211-Edificio Computación
+127	Cátedra	10:15	11:45		IQ4315-1 Operaciones de Transferencia de Masa y Separación Curso B07-Beauchef 851 Sala	IQ4315-1	Operaciones de Transferencia de Masa y Separación	B07-Beauchef 851
+128	Cátedra	10:15	11:45		BT4315-1 Operaciones de Transferencia de Masa y Separación Curso B07-Beauchef 851 Sala	BT4315-1	Operaciones de Transferencia de Masa y Separación	B07-Beauchef 851
+129	Cátedra	10:15	11:45		IN3221-1 Teoría de Juegos y Estrategia Curso QP-Edificio Química Sala	IN3221-1	Teoría de Juegos y Estrategia	QP-Edificio Química
+130	Cátedra	10:15	11:45		IN3221-2 Teoría de Juegos y Estrategia Curso S17-Edificio Escuela Sala	IN3221-2	Teoría de Juegos y Estrategia	S17-Edificio Escuela
+131	Cátedra	10:15	11:45		IN4864-1 Seminario de Educación Superior y Formación Contínua Curso B206-Edificio Computación Sala	IN4864-1	Seminario de Educación Superior y Formación Contínua	B206-Edificio Computación
+132	Cátedra	10:15	11:45		IN5152-1 Diseño de Procesos de Negocios Curso B08-Beauchef 851 Sala	IN5152-1	Diseño de Procesos de Negocios	B08-Beauchef 851
+133	Cátedra	10:15	11:45		IN5244-1 Ciencia de los Datos Curso G301-Edificio Geología Sala	IN5244-1	Ciencia de los Datos	G301-Edificio Geología
+134	Cátedra	10:15	11:45		EH2408-1 Ciencia y Cristianismo  Santos en el Laboratorio  Curso S25-Edificio Escuela Sala	EH2408-1	Ciencia y Cristianismo Santos en el Laboratorio	S25-Edificio Escuela
+135	Cátedra	10:15	11:45		EH2519-1 Políticas Públicas Indígenas en Chile Curso S14-Edificio Escuela Sala	EH2519-1	Políticas Públicas Indígenas en Chile	S14-Edificio Escuela
+136	Cátedra	10:15	11:45		MI3115-1 Mecánica de Rocas I Curso S19-Edificio Escuela Sala	MI3115-1	Mecánica de Rocas I	S19-Edificio Escuela
+137	Cátedra	10:15	11:45		MI3235-1 Fenómenos de Transporte Curso Q13-Edificio Química Sala	MI3235-1	Fenómenos de Transporte	Q13-Edificio Química
+138	Cátedra	10:15	11:45		MI3235-2 Fenómenos de Transporte Curso Q13-Edificio Química Sala	MI3235-2	Fenómenos de Transporte	Q13-Edificio Química
+139	Cátedra	10:15	11:45		MI4070-1 Fundamentos de Tecnología Minera Curso S29-Edificio Escuela Sala	MI4070-1	Fundamentos de Tecnología Minera	S29-Edificio Escuela
+140	Cátedra	10:15	11:45		MI4250-1 Procesamiento de Minerales II Curso Auditorio Eduardo Simian-Edificio Química Sala	MI4250-1	Procesamiento de Minerales II	Auditorio Eduardo Simian-Edificio Química
+141	Cátedra	10:15	11:45		MI6142-1 Taller de Redacción y Presentación de Textos Técnicos Curso N02-Edificio Escuela Sala	MI6142-1	Taller de Redacción y Presentación de Textos Técnicos	N02-Edificio Escuela
+142	Cátedra	10:15	11:45		GL3103-1 Ciencia de los Minerales I Curso G104-Edificio Geología Sala	GL3103-1	Ciencia de los Minerales I	G104-Edificio Geología
+143	Cátedra	10:15	11:45		GL3204-1 Energía de Procesos Geológicos Curso G106-Edificio Geología Sala	GL3204-1	Energía de Procesos Geológicos	G106-Edificio Geología
+144	Cátedra	10:15	11:45		GL4202-1 Petrología Ignea Curso G109-Edificio Geología Sala	GL4202-1	Petrología Ignea	G109-Edificio Geología
+145	Cátedra	10:15	11:45		GL4202-2 Petrología Ignea Curso G109-Edificio Geología Sala	GL4202-2	Petrología Ignea	G109-Edificio Geología
+146	Cátedra	10:15	11:45		GL4403-1 Petrología Metamórfica Curso G110-Edificio Geología Sala	GL4403-1	Petrología Metamórfica	G110-Edificio Geología
+147	Cátedra	10:15	11:45		GL5311-1 Metalogénesis Curso G111-Edificio Geología Sala	GL5311-1	Metalogénesis	G111-Edificio Geología
+148	Cátedra	10:15	11:45		GL5311-2 Metalogénesis Curso G111-Edificio Geología Sala	GL5311-2	Metalogénesis	G111-Edificio Geología
+149	Cátedra	10:15	11:45		GL6101-1 Geología de Campo II Curso G107-Edificio Geología Sala	GL6101-1	Geología de Campo II	G107-Edificio Geología
+150	Cátedra	10:15	11:45		GL4403-2 Petrología Metamórfica Curso G110-Edificio Geología Sala	GL4403-2	Petrología Metamórfica	G110-Edificio Geología
+151	Cátedra	10:15	11:45		CD1201-3 Proyecto de Innovación en Ingeniería y Ciencias Curso E214-Edificio Eléctrica Sala	CD1201-3	Proyecto de Innovación en Ingeniería y Ciencias	E214-Edificio Eléctrica
+152	Cátedra	10:15	11:45		CI3111-1 Mecánica Estructural Curso E111-Edificio Eléctrica Sala	CI3111-1	Mecánica Estructural	E111-Edificio Eléctrica
+153	Cátedra	10:15	11:45		CI3242-1 Análisis de Datos para Ingeniería Curso B210-Edificio Computación Sala	CI3242-1	Análisis de Datos para Ingeniería	B210-Edificio Computación
+154	Cátedra	10:15	11:45		CI3251-1 Cálculo Numérico para Ingeniería Civil Curso Q12-Edificio Química Sala	CI3251-1	Cálculo Numérico para Ingeniería Civil	Q12-Edificio Química
+155	Cátedra	10:15	11:45		CI4121-1 Ingeniería Geotécnica Curso F20-Edificio Física Sala	CI4121-1	Ingeniería Geotécnica	F20-Edificio Física
+156	Cátedra	10:15	11:45		CI4211-1 Diseño Sísmico de Estructuras Curso N11-Edificio Escuela Sala	CI4211-1	Diseño Sísmico de Estructuras	N11-Edificio Escuela
+157	Cátedra	10:15	11:45		CI7213-1 Dinámica Avanzada de Estructuras Curso Q21-Edificio Química Sala	CI7213-1	Dinámica Avanzada de Estructuras	Q21-Edificio Química
+158	Cátedra	10:15	11:45		MA2002-2 Cálculo Avanzado y Aplicaciones Curso G305-Edificio Geología Sala	MA2002-2	Cálculo Avanzado y Aplicaciones	G305-Edificio Geología
+159	Cátedra	10:15	11:45		FI2001-4 Mecánica Curso B112-Edificio Computación Sala	FI2001-4	Mecánica	B112-Edificio Computación
+160	Cátedra	10:15	11:45		FI2002-1 Electromagnetismo Curso F10-Edificio Física Sala	FI2002-1	Electromagnetismo	F10-Edificio Física
+161	Cátedra	10:15	11:45		FI2004-3 Termodinámica Curso B104-Edificio Computación Sala	FI2004-3	Termodinámica	B104-Edificio Computación
+162	Cátedra	10:15	11:45		FI3002-1 Métodos Matemáticos de la Física Curso F22-Edificio Física Sala	FI3002-1	Métodos Matemáticos de la Física	F22-Edificio Física
+163	Cátedra	10:15	11:45		FI3106-1 Electrodinámica Curso F12-Edificio Física Sala	FI3106-1	Electrodinámica	F12-Edificio Física
+164	Cátedra	10:15	11:45		FI7002-1 Mecánica Cuántica II Curso G306-Edificio Geología Sala	FI7002-1	Mecánica Cuántica II	G306-Edificio Geología
+165	Cátedra	10:15	11:45		EL3102-1 Sistemas Digitales Curso E213-Edificio Eléctrica Sala	EL3102-1	Sistemas Digitales	E213-Edificio Eléctrica
+166	Cátedra	10:15	11:45		EL3102-2 Sistemas Digitales Curso E213-Edificio Eléctrica Sala	EL3102-2	Sistemas Digitales	E213-Edificio Eléctrica
+167	Cátedra	10:15	11:45		EL7044-1 Conceptos Avanzados en Redes Inalámbricas Curso	EL7044-1	Conceptos Avanzados en Redes Inalámbricas	
+168	Cátedra	10:15	11:45		EL7055-1 Modelos Avanzados de Sistemas Distribución y Redes Inteligentes Curso B208-Edificio Computación Sala	EL7055-1	Modelos Avanzados de Sistemas Distribución y Redes Inteligentes	B208-Edificio Computación
+169	Cátedra	10:15	11:45		GF4005-1 Matemáticas Aplicadas a la Geociencia Curso Q22-Edificio Química Sala	GF4005-1	Matemáticas Aplicadas a la Geociencia	Q22-Edificio Química
+170	Cátedra	10:15	11:45		GF3024-1 Peligros Naturales Curso Sala Geofísica 2º Piso-Geofísica Sala	GF3024-1	Peligros Naturales	Geofísica 2º Piso-Geofísica
+171	Cátedra	10:15	11:45		GF5021-1 Geofísica de Campo Curso B102-Edificio Computación Sala	GF5021-1	Geofísica de Campo	B102-Edificio Computación
+172	Cátedra	10:15	11:45		GF7000-1 Ciencia de Datos para Geociencias Curso	GF7000-1	Ciencia de Datos para Geociencias	
+173	Cátedra	10:15	11:45		AS4101-1 Astrofísica de Galaxias Curso F9-Edificio Física Sala	AS4101-1	Astrofísica de Galaxias	F9-Edificio Física
+174	Cátedra	10:15	11:45		MT772-1 Química de Materiales Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	MT772-1	Química de Materiales	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+175	Cátedra	10:15	11:45		MDS7203-1 Modelos Generativos Profundos Curso B214-Edificio Computación Sala	MDS7203-1	Modelos Generativos Profundos	B214-Edificio Computación
+176	Cátedra	10:15	11:45		IN72X-1 Introducción a la Historia del Pensamiento Económico Curso	IN72X-1	Introducción a la Historia del Pensamiento Económico	
+177	Cátedra	10:15	11:45		FI5037-1 Coloquio: Cúbits Superconductores: Una Plataforma para la Computación Cuántica Curso	FI5037-1	Coloquio: Cúbits Superconductores: Una Plataforma para la Computación Cuántica	
+178	Cátedra	10:15	11:45		CC7110-1 Lenguajes de Programación II Curso	CC7110-1	Lenguajes de Programación II	
+179	Laboratorio	10:15	11:45		ME4230-1 Elementos de Máquinas Curso Sala Computadores 4º piso Mecánica-Edificio Central Sala	ME4230-1	Elementos de Máquinas	Computadores 4º piso Mecánica-Edificio Central
+180	Laboratorio	10:15	11:45		FI1100-7 Introducción a la Física Moderna Curso	FI1100-7	Introducción a la Física Moderna	
+181	Laboratorio	10:15	11:45		CD1201-13 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-13	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+182	Taller de Práctica	10:15	11:45	DIQBM	B001-Edificio Computación Sala	B001-Edificio		B001-Edificio Computación
+183	Visita Colegios - Difusión Colegios	10:15	12:15		N03-BIBLIOTECA Sala	N03-BIBLIOTECA		N03-BIBLIOTECA
+12:00								
+184	Auxiliar	12:00	14:00		CC1002-1 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-1	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+185	Auxiliar	12:00	13:30		ME5210-1 Manufactura Avanzada Curso B07-Beauchef 851 Sala	ME5210-1	Manufactura Avanzada	B07-Beauchef 851
+186	Auxiliar	12:00	13:30		MI4250-1 Procesamiento de Minerales II Curso B102-Edificio Computación Sala	MI4250-1	Procesamiento de Minerales II	B102-Edificio Computación
+187	Auxiliar	12:00	13:30		MI5072-1 Simulación de Procesos Mineros Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI5072-1	Simulación de Procesos Mineros	Laboratorio Bunker - Depto. Minas-Edificio Química
+188	Auxiliar	12:00	14:00		GL4403-2 Petrología Metamórfica Curso Laboratorio de Rocas-Edificio Geología Sala	GL4403-2	Petrología Metamórfica	Laboratorio de Rocas-Edificio Geología
+189	Auxiliar	12:00	13:30		GL6101-1 Geología de Campo II Curso G107-Edificio Geología Sala	GL6101-1	Geología de Campo II	G107-Edificio Geología
+190	Cátedra	12:00	13:30		EI2201-1 Inglés 1 Curso B205-Edificio Computación Sala	EI2201-1	Inglés 1	B205-Edificio Computación
+191	Cátedra	12:00	13:30		EI2021-6 Inglés 1 Curso B115-Edificio Computación Sala	EI2021-6	Inglés 1	B115-Edificio Computación
+192	Cátedra	12:00	13:30		EI2202-3 Inglés 2 Curso B111-Edificio Computación Sala	EI2202-3	Inglés 2	B111-Edificio Computación
+193	Cátedra	12:00	13:30		EI3203-5 Inglés 3 Curso B101-Edificio Computación Sala	EI3203-5	Inglés 3	B101-Edificio Computación
+194	Cátedra	12:00	13:30		EI4204-5 Inglés 4 Curso B114-Edificio Computación Sala	EI4204-5	Inglés 4	B114-Edificio Computación
+195	Cátedra	12:00	13:30		EI4204-6 Inglés 4 Curso B113-Edificio Computación Sala	EI4204-6	Inglés 4	B113-Edificio Computación
+196	Cátedra	12:00	13:30		EI4024-2 Inglés 4 Curso B213-Edificio Computación Sala	EI4024-2	Inglés 4	B213-Edificio Computación
+197	Cátedra	12:00	13:30		EI4205-8 Inglés 5 Curso B103-Edificio Computación Sala	EI4205-8	Inglés 5	B103-Edificio Computación
+198	Cátedra	12:00	13:30		EI2301-2 Francés Elemental Curso B105-Edificio Computación Sala	EI2301-2	Francés Elemental	B105-Edificio Computación
+199	Cátedra	12:00	13:30		DR100A-1 Acondicionamiento Físico Básico Curso Gimnasio Domeyko-FCFM Sala	DR100A-1	Acondicionamiento Físico Básico	Gimnasio Domeyko-FCFM
+200	Cátedra	12:00	13:30		DR100B-1 Acondicionamiento Físico Avanzado Curso Gimnasio Domeyko-FCFM Sala	DR100B-1	Acondicionamiento Físico Avanzado	Gimnasio Domeyko-FCFM
+201	Cátedra	12:00	13:30		DR160A-3 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-3	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+202	Cátedra	12:00	13:30		DR210A-2 Tai Chi I Curso Dojo-Beauchef 851 Sala	DR210A-2	Tai Chi I	Dojo-Beauchef 851
+203	Cátedra	12:00	13:30		DR311A-1 Futsal Damas Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR311A-1	Futsal Damas	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+204	Cátedra	12:00	13:30		DR311B-1 Futsal Damas II Curso	DR311B-1	Futsal Damas II	
+205	Cátedra	12:00	13:30		DR400A-6 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-6	Natación I	Piscina-Beauchef 851
+206	Cátedra	12:00	13:30		DR400B-6 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-6	Natación II	Piscina-Beauchef 851
+207	Cátedra	12:00	13:30		ME3110-1 Ciencia de los Materiales Curso B100-Edificio Computación Sala	ME3110-1	Ciencia de los Materiales	B100-Edificio Computación
+208	Cátedra	12:00	13:30		ME3240-1 Termotecnia Curso G306-Edificio Geología Sala	ME3240-1	Termotecnia	G306-Edificio Geología
+209	Cátedra	12:00	13:30		ME4140-1 Transferencia de Calor Curso F11-Edificio Física Sala	ME4140-1	Transferencia de Calor	F11-Edificio Física
+210	Cátedra	12:00	13:30		CC3101-1 Matemáticas Discretas para la Computación Curso QO-Edificio Química Sala	CC3101-1	Matemáticas Discretas para la Computación	QO-Edificio Química
+211	Cátedra	12:00	13:30		CC4302-2 Sistemas Operativos Curso B203-Edificio Computación Sala	CC4302-2	Sistemas Operativos	B203-Edificio Computación
+212	Cátedra	12:00	13:30		CC4303-1 Redes Curso G303-Edificio Geología Sala	CC4303-1	Redes	G303-Edificio Geología
+213	Cátedra	12:00	13:30		CC5602-1 Gestión Informática Curso	CC5602-1	Gestión Informática	
+214	Cátedra	12:00	13:30		CC5620-1 Introducción al Derecho Informático Curso .-FCFM Sala	CC5620-1	Introducción al Derecho Informático	.-FCFM
+215	Cátedra	12:00	13:30		MA2002-1 Cálculo Avanzado y Aplicaciones Curso B204-Edificio Computación Sala	MA2002-1	Cálculo Avanzado y Aplicaciones	B204-Edificio Computación
+216	Cátedra	12:00	13:30		MA2601-3 Ecuaciones Diferenciales Ordinarias Curso S24-Edificio Escuela Sala	MA2601-3	Ecuaciones Diferenciales Ordinarias	S24-Edificio Escuela
+217	Cátedra	12:00	13:30		MA2002-4 Cálculo Avanzado y Aplicaciones Curso F10-Edificio Física Sala	MA2002-4	Cálculo Avanzado y Aplicaciones	F10-Edificio Física
+218	Cátedra	12:00	13:30		MA3705-1 Algoritmos Combinatoriales Curso S26-Edificio Escuela Sala	MA3705-1	Algoritmos Combinatoriales	S26-Edificio Escuela
+219	Cátedra	12:00	13:30		MA5402-1 Cálculo Estocástico Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA5402-1	Cálculo Estocástico	Seminario DIM 5º PISO-Edificio Computación
+220	Cátedra	12:00	13:30		MA5801-1 Análisis Convexo y Dualidad Curso Sala Seminario 4°piso DIM-Edificio Computación Sala	MA5801-1	Análisis Convexo y Dualidad	Seminario 4°piso DIM-Edificio Computación
+221	Cátedra	12:00	13:30		IQ2211-1 Química Curso QP-Edificio Química Sala	IQ2211-1	Química	QP-Edificio Química
+222	Cátedra	12:00	13:30		IQ2212-2 Termodinámica Química Curso B03-Beauchef 851 Sala	IQ2212-2	Termodinámica Química	B03-Beauchef 851
+223	Cátedra	12:00	13:30		IQ3312-1 Fenómenos de Transporte Curso B08-Beauchef 851 Sala	IQ3312-1	Fenómenos de Transporte	B08-Beauchef 851
+224	Cátedra	12:00	13:30		BT4712-1 Biotecnología en Agricultura, Salud, Ambiente e Industria Curso Q23-Edificio Química Sala	BT4712-1	Biotecnología en Agricultura, Salud, Ambiente e Industria	Q23-Edificio Química
+225	Cátedra	12:00	13:30		IN3242-1 Estadística Curso B04-Beauchef 851 Sala	IN3242-1	Estadística	B04-Beauchef 851
+226	Cátedra	12:00	13:30		IN4151-1 Ingeniería de la Información Curso B05-Beauchef 851 Sala	IN4151-1	Ingeniería de la Información	B05-Beauchef 851
+227	Cátedra	12:00	13:30		IN4273-1 Gestión de Operaciones Curso Salón Gorbea-Edificio Escuela Sala	IN4273-1	Gestión de Operaciones	Salón Gorbea-Edificio Escuela
+228	Cátedra	12:00	13:30		IN4273-2 Gestión de Operaciones Curso Salón Gorbea-Edificio Escuela Sala	IN4273-2	Gestión de Operaciones	Salón Gorbea-Edificio Escuela
+229	Cátedra	12:00	13:30		IN4821-1 Introducción a los Sistemas Públicos Curso B109-Edificio Computación Sala	IN4821-1	Introducción a los Sistemas Públicos	B109-Edificio Computación
+230	Cátedra	12:00	13:30		IN5125-1 Organización Industrial Curso E213-Edificio Eléctrica Sala	IN5125-1	Organización Industrial	E213-Edificio Eléctrica
+231	Cátedra	12:00	13:30		EH2509-1 Psicología e Historia para Entender la Cultura Latinoamericana Curso S25-Edificio Escuela Sala	EH2509-1	Psicología e Historia para Entender la Cultura Latinoamericana	S25-Edificio Escuela
+232	Cátedra	12:00	13:30		EH2519-1 Políticas Públicas Indígenas en Chile Curso S14-Edificio Escuela Sala	EH2519-1	Políticas Públicas Indígenas en Chile	S14-Edificio Escuela
+233	Cátedra	12:00	13:30		EH5001-1 Expresión y comunicación: cuerpo, voz y emoción Curso Sala de Artes-Beauchef 851 Sala	EH5001-1	Expresión y comunicación: cuerpo, voz y emoción	de Artes-Beauchef 851
+234	Cátedra	12:00	13:30		MI3105-1 Geología para Ingenieros Curso G201-Edificio Geología Sala	MI3105-1	Geología para Ingenieros	G201-Edificio Geología
+235	Cátedra	12:00	13:30		MI3235-1 Fenómenos de Transporte Curso Q13-Edificio Química Sala	MI3235-1	Fenómenos de Transporte	Q13-Edificio Química
+236	Cátedra	12:00	13:30		MI3235-2 Fenómenos de Transporte Curso Q13-Edificio Química Sala	MI3235-2	Fenómenos de Transporte	Q13-Edificio Química
+237	Cátedra	12:00	13:30		GL3101-1 Geología General Curso G104-Edificio Geología Sala	GL3101-1	Geología General	G104-Edificio Geología
+238	Cátedra	12:00	13:30		GL3201-1 Sedimentología Curso G110-Edificio Geología Sala	GL3201-1	Sedimentología	G110-Edificio Geología
+239	Cátedra	12:00	13:30		GL3201-2 Sedimentología Curso G110-Edificio Geología Sala	GL3201-2	Sedimentología	G110-Edificio Geología
+240	Cátedra	12:00	13:30		GL4205-1 Geoquímica Curso G109-Edificio Geología Sala	GL4205-1	Geoquímica	G109-Edificio Geología
+241	Cátedra	12:00	13:30		GL5213-1 Hidrogeología Curso G106-Edificio Geología Sala	GL5213-1	Hidrogeología	G106-Edificio Geología
+242	Cátedra	12:00	13:30		CD2201-9 Módulo Interdisciplinario Curso Sala de Proyectos 4to piso - Mecanica-Beauchef 851 Sala	CD2201-9	Módulo Interdisciplinario	de Proyectos 4to piso - Mecanica-Beauchef 851
+243	Cátedra	12:00	13:30		CI3211-1 Ingeniería Estructural Curso S17-Edificio Escuela Sala	CI3211-1	Ingeniería Estructural	S17-Edificio Escuela
+244	Cátedra	12:00	13:30		CI4212-1 Diseño Hormigón Armado Curso B210-Edificio Computación Sala	CI4212-1	Diseño Hormigón Armado	B210-Edificio Computación
+245	Cátedra	12:00	13:30		CI4262-1 Hidráulica de Aguas Subterráneas y Aprovechamiento Curso Q12-Edificio Química Sala	CI4262-1	Hidráulica de Aguas Subterráneas y Aprovechamiento	Q12-Edificio Química
+246	Cátedra	12:00	13:30		CI5121-1 Diseño Geotécnico Curso Q21-Edificio Química Sala	CI5121-1	Diseño Geotécnico	Q21-Edificio Química
+247	Cátedra	12:00	13:30		CI5323-1 Ingeniería Estructural Avanzada Curso N11-Edificio Escuela Sala	CI5323-1	Ingeniería Estructural Avanzada	N11-Edificio Escuela
+248	Cátedra	12:00	13:30		CI71D-1 Modelación Numérica con Aplic. en Ing. Hidráulica y Ambiental Curso	CI71D-1	Modelación Numérica con Aplic. en Ing. Hidráulica y Ambiental	
+249	Cátedra	12:00	13:30		CI7211-1 Introducción al Análisis no Lineal de Estructuras Curso N02-Edificio Escuela Sala	CI7211-1	Introducción al Análisis no Lineal de Estructuras	N02-Edificio Escuela
+250	Cátedra	12:00	13:30		FI2001-2 Mecánica Curso G305-Edificio Geología Sala	FI2001-2	Mecánica	G305-Edificio Geología
+251	Cátedra	12:00	13:30		FI2004-2 Termodinámica Curso Q10-Edificio Química Sala	FI2004-2	Termodinámica	Q10-Edificio Química
+252	Cátedra	12:00	13:30		FI3102-1 Física Moderna Curso F9-Edificio Física Sala	FI3102-1	Física Moderna	F9-Edificio Física
+253	Cátedra	12:00	13:30		FI3104-1 Métodos Numéricos para la Ciencia e Ingeniería Curso B110-Edificio Computación Sala	FI3104-1	Métodos Numéricos para la Ciencia e Ingeniería	B110-Edificio Computación
+254	Cátedra	12:00	13:30		FI4104-1 Mecánica Estadística Curso G302-Edificio Geología Sala	FI4104-1	Mecánica Estadística	G302-Edificio Geología
+255	Cátedra	12:00	13:30		EL4203-2 Programación Avanzada Curso F12-Edificio Física Sala	EL4203-2	Programación Avanzada	F12-Edificio Física
+256	Cátedra	12:00	13:30		EL3202-1 Circuitos Eléctricos Analógicos Curso E214-Edificio Eléctrica Sala	EL3202-1	Circuitos Eléctricos Analógicos	E214-Edificio Eléctrica
+257	Cátedra	12:00	13:30		EL4114-1 Optimización Curso B211-Edificio Computación Sala	EL4114-1	Optimización	B211-Edificio Computación
+258	Cátedra	12:00	13:30		EL6908-2 Introducción al Trabajo de Título Curso B208-Edificio Computación Sala	EL6908-2	Introducción al Trabajo de Título	B208-Edificio Computación
+259	Cátedra	12:00	13:30		EL7014-1 Diagnóstico Y Pronóstico de Fallas Curso S28-Edificio Escuela Sala	EL7014-1	Diagnóstico Y Pronóstico de Fallas	S28-Edificio Escuela
+260	Cátedra	12:00	14:00		EL7032-1 Electrónica de Potencia y Accionamiento Curso G301-Edificio Geología Sala	EL7032-1	Electrónica de Potencia y Accionamiento	G301-Edificio Geología
+261	Cátedra	12:00	13:30		EL7060-1  Deep learning  para procesamiento de señales Curso E215-Edificio Eléctrica Sala	EL7060-1	Deep learning para procesamiento de señales	E215-Edificio Eléctrica
+262	Cátedra	12:00	13:30		GF4001-1 Sismología Curso F22-Edificio Física Sala	GF4001-1	Sismología	F22-Edificio Física
+263	Cátedra	12:00	13:30		GF5013-1 Métodos Inversos Aplicados a la Geofísica Curso B214-Edificio Computación Sala	GF5013-1	Métodos Inversos Aplicados a la Geofísica	B214-Edificio Computación
+264	Cátedra	12:00	13:30		GF6022-1 Modelación Atmósferica Curso S29-Edificio Escuela Sala	GF6022-1	Modelación Atmósferica	S29-Edificio Escuela
+265	Cátedra	12:00	13:30		GF772-1 Modelamiento de Tsunamis Curso	GF772-1	Modelamiento de Tsunamis	
+266	Cátedra	12:00	13:30		AS4501-1 Astroinformática Curso G111-Edificio Geología Sala	AS4501-1	Astroinformática	G111-Edificio Geología
+267	Cátedra	12:00	13:30		EL4203-1 Programación Avanzada Curso B001-Edificio Computación Sala	EL4203-1	Programación Avanzada	B001-Edificio Computación
+268	Cátedra	12:00	13:30		FD703-1 Métodos Computacionales en Fluidodinámica Curso	FD703-1	Métodos Computacionales en Fluidodinámica	
+269	Cátedra	12:00	13:30		IQ5432-1 Tecnología de Materiales Plásticos Curso B206-Edificio Computación Sala	IQ5432-1	Tecnología de Materiales Plásticos	B206-Edificio Computación
+270	Cátedra	12:00	13:30		AA1101M-3 Tutoría Integral Par: Intro. al Álgebra Curso Q22-Edificio Química Sala	AA1101M-3	Tutoría Integral Par: Intro. al Álgebra	Q22-Edificio Química
+271	Control	12:00	14:30		ME4240-1 Máquinas Curso G304-Edificio Geología Sala	ME4240-1	Máquinas	G304-Edificio Geología
+272	Laboratorio	12:00	13:30		CD2201-2 Módulo Interdisciplinario Curso CEC, Zócalo, Zona D-Edificio Computación Sala	CD2201-2	Módulo Interdisciplinario	CEC, Zócalo, Zona D-Edificio Computación
+12:30								
+273	Exámen de Grado o Título	12:30	14:30		Examen de Grado de Jonathan Riquelme P. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Jonathan Riquelme P. Examen de Grado Auditorio Picarte 3ER Piso DCC
+12:45								
+274	Cátedra	12:45	14:15		CC1002-8 Introducción a la Programación Curso B112-Edificio Computación Sala	CC1002-8	Introducción a la Programación	B112-Edificio Computación
+275	Cátedra	12:45	14:15		MA1102-5 Álgebra Lineal Curso B01-Beauchef 851 Sala	MA1102-5	Álgebra Lineal	B01-Beauchef 851
+276	Cátedra	12:45	14:15		CD1201-7 Proyecto de Innovación en Ingeniería y Ciencias Curso B06-Beauchef 851 Sala	CD1201-7	Proyecto de Innovación en Ingeniería y Ciencias	B06-Beauchef 851
+277	Cátedra	12:45	14:15		FI1000-2 Introducción a la Física Clásica Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	FI1000-2	Introducción a la Física Clásica	G108 - Humberto Fuenzalida-Edificio Geología
+278	Cátedra	12:45	14:15		FI1000-3 Introducción a la Física Clásica Curso S15-Edificio Escuela Sala	FI1000-3	Introducción a la Física Clásica	S15-Edificio Escuela
+279	Cátedra	12:45	14:15		FI1100-4 Introducción a la Física Moderna Curso B104-Edificio Computación Sala	FI1100-4	Introducción a la Física Moderna	B104-Edificio Computación
+280	Cátedra	12:45	14:15		FI1000-1 Introducción a la Física Clásica Curso S19-Edificio Escuela Sala	FI1000-1	Introducción a la Física Clásica	S19-Edificio Escuela
+281	Laboratorio	12:45	14:15		CD1201-17 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-17	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+14:00								
+282	Auxiliar	14:00	16:00		ME4130-1 Vibraciones Mecánicas Curso B05-Beauchef 851 Sala	ME4130-1	Vibraciones Mecánicas	B05-Beauchef 851
+283	Auxiliar	14:00	16:00		EL3201-2 Laboratorio de Ingeniería Eléctrica Curso S29-Edificio Escuela Sala	EL3201-2	Laboratorio de Ingeniería Eléctrica	S29-Edificio Escuela
+284	Auxiliar	14:00	16:00		EL4103-1 Sistemas de Energía y Equipos Eléctricos Curso F9-Edificio Física Sala	EL4103-1	Sistemas de Energía y Equipos Eléctricos	F9-Edificio Física
+285	Auxiliar	14:00	16:00		EL7058-1 Control Avanzado de Micro-redes Curso B210-Edificio Computación Sala	EL7058-1	Control Avanzado de Micro-redes	B210-Edificio Computación
+286	Cátedra	14:00	16:00		ME3220-3 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-3	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+287	Cátedra	14:00	16:00		IQ5472-1 Industria de Procesos Químicos y Biotecnológicos Curso	IQ5472-1	Industria de Procesos Químicos y Biotecnológicos	
+288	Cátedra	14:00	16:00		EL4113-1 Fundamentos de Control de Sistemas Curso S17-Edificio Escuela Sala	EL4113-1	Fundamentos de Control de Sistemas	S17-Edificio Escuela
+289	Cátedra	14:00	16:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+290	Laboratorio	14:00	16:00		EL3102-1 Sistemas Digitales Curso	EL3102-1	Sistemas Digitales	
+291	Taller de Feedback Voluntario	14:00	17:00		IN6190-1 Taller de Práctica Profesional Extendida Curso B110-Edificio Computación Sala	IN6190-1	Taller de Práctica Profesional Extendida	B110-Edificio Computación
+14:30								
+292	Auxiliar	14:30	16:00		ME4220-1 Planos de Ingeniería Curso Sala Computadores 4º piso Mecánica-Edificio Central Sala	ME4220-1	Planos de Ingeniería	Computadores 4º piso Mecánica-Edificio Central
+293	Auxiliar	14:30	16:00		CC5621-1 Rediseño y optimización de procesos Curso B208-Edificio Computación Sala	CC5621-1	Rediseño y optimización de procesos	B208-Edificio Computación
+294	Auxiliar	14:30	16:00		IQ4713-1 Taller de Diseño e Innovación en Proyectos Curso B205-Edificio Computación Sala	IQ4713-1	Taller de Diseño e Innovación en Proyectos	B205-Edificio Computación
+295	Auxiliar	14:30	16:00		BT4713-1 Taller de Diseño e Innovación en Proyectos Curso B205-Edificio Computación Sala	BT4713-1	Taller de Diseño e Innovación en Proyectos	B205-Edificio Computación
+296	Auxiliar	14:30	16:00		GL4203-1 Geomorfología Dinámica Curso G105 Laboratorio de Computación-Edificio Geología Sala	GL4203-1	Geomorfología Dinámica	G105 Laboratorio de Computación-Edificio Geología
+297	Auxiliar	14:30	16:00		GL4401-1 Introducción a Yacimientos Minerales Curso G109-Edificio Geología Sala	GL4401-1	Introducción a Yacimientos Minerales	G109-Edificio Geología
+298	Auxiliar	14:30	16:00		GL5314-1 Geología Andina Curso N03-BIBLIOTECA Sala	GL5314-1	Geología Andina	N03-BIBLIOTECA
+299	Auxiliar	14:30	16:00		CI5262-1 Proyecto Integrado de Recursos Hídricos Curso G111-Edificio Geología Sala	CI5262-1	Proyecto Integrado de Recursos Hídricos	G111-Edificio Geología
+300	Auxiliar	14:30	16:00		FI4104-1 Mecánica Estadística Curso G302-Edificio Geología Sala	FI4104-1	Mecánica Estadística	G302-Edificio Geología
+301	Auxiliar	14:30	16:00		EL7060-1  Deep learning  para procesamiento de señales Curso E215-Edificio Eléctrica Sala	EL7060-1	Deep learning para procesamiento de señales	E215-Edificio Eléctrica
+302	Auxiliar	14:30	16:00		FI7002-1 Mecánica Cuántica II Curso E213-Edificio Eléctrica Sala	FI7002-1	Mecánica Cuántica II	E213-Edificio Eléctrica
+303	Auxiliar	14:30	16:00		IN7513-1 Economía Ambiental Curso	IN7513-1	Economía Ambiental	
+304	Cátedra	14:30	16:00		EI2021-3 Inglés 1 Curso B101-Edificio Computación Sala	EI2021-3	Inglés 1	B101-Edificio Computación
+305	Cátedra	14:30	16:00		EI3023-2 Inglés 3 Curso B115-Edificio Computación Sala	EI3023-2	Inglés 3	B115-Edificio Computación
+306	Cátedra	14:30	16:00		EI4204-9 Inglés 4 Curso B113-Edificio Computación Sala	EI4204-9	Inglés 4	B113-Edificio Computación
+307	Cátedra	14:30	16:00		EI4206-1 English Pioneers Curso B103-Edificio Computación Sala	EI4206-1	English Pioneers	B103-Edificio Computación
+308	Cátedra	14:30	16:00		EI2301-3 Francés Elemental Curso B105-Edificio Computación Sala	EI2301-3	Francés Elemental	B105-Edificio Computación
+309	Cátedra	14:30	16:00		DR100A-2 Acondicionamiento Físico Básico Curso Gimnasio Domeyko-FCFM Sala	DR100A-2	Acondicionamiento Físico Básico	Gimnasio Domeyko-FCFM
+310	Cátedra	14:30	16:00		DR100B-2 Acondicionamiento Físico Avanzado Curso Gimnasio Domeyko-FCFM Sala	DR100B-2	Acondicionamiento Físico Avanzado	Gimnasio Domeyko-FCFM
+311	Cátedra	14:30	16:00		DR160A-4 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-4	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+312	Cátedra	14:30	16:00		ME5150-1 Robótica Curso B211-Edificio Computación Sala	ME5150-1	Robótica	B211-Edificio Computación
+313	Cátedra	14:30	16:00		CC1002-4 Introducción a la Programación Curso B112-Edificio Computación Sala	CC1002-4	Introducción a la Programación	B112-Edificio Computación
+314	Cátedra	14:30	16:00		CC3102-1 Teoría de la Computación Curso Q10-Edificio Química Sala	CC3102-1	Teoría de la Computación	Q10-Edificio Química
+315	Cátedra	14:30	16:00		CC3102-2 Teoría de la Computación Curso Q10-Edificio Química Sala	CC3102-2	Teoría de la Computación	Q10-Edificio Química
+316	Cátedra	14:30	16:00		CC4102-1 Diseño y Análisis de Algoritmos Curso G301-Edificio Geología Sala	CC4102-1	Diseño y Análisis de Algoritmos	G301-Edificio Geología
+317	Cátedra	14:30	16:00		CC4102-2 Diseño y Análisis de Algoritmos Curso N11-Edificio Escuela Sala	CC4102-2	Diseño y Análisis de Algoritmos	N11-Edificio Escuela
+318	Cátedra	14:30	16:00		CC5116-1 Diseño e Implementación de Compiladores Curso	CC5116-1	Diseño e Implementación de Compiladores	
+319	Cátedra	14:30	16:00		CC5209-1 Visión Computacional Curso Auditorio P303 - Philippe Flajolet-Edificio Computación Sala	CC5209-1	Visión Computacional	Auditorio P303 - Philippe Flajolet-Edificio Computación
+320	Cátedra	14:30	16:00		IN7T5-1 Políticas Públicas Curso	IN7T5-1	Políticas Públicas	
+321	Cátedra	14:30	16:00		IN7F1-1 Enfoques y Modelos de Análisis en Políticas Públicas Curso	IN7F1-1	Enfoques y Modelos de Análisis en Políticas Públicas	
+322	Cátedra	14:30	16:00		CC5330-1 Ciberseguridad Curso F12-Edificio Física Sala	CC5330-1	Ciberseguridad	F12-Edificio Física
+323	Cátedra	14:30	16:00		CC5614-2 Herramientas para el Trabajo en Equipo Curso S25-Edificio Escuela Sala	CC5614-2	Herramientas para el Trabajo en Equipo	S25-Edificio Escuela
+324	Cátedra	14:30	16:00		CC5623-1 Taller Desarrollo de Carrera Curso Q23-Edificio Química Sala	CC5623-1	Taller Desarrollo de Carrera	Q23-Edificio Química
+325	Cátedra	14:30	16:00		MA1101-3 Introducción al Álgebra Curso B01-Beauchef 851 Sala	MA1101-3	Introducción al Álgebra	B01-Beauchef 851
+326	Cátedra	14:30	16:00		MA1102-3 Álgebra Lineal Curso B104-Edificio Computación Sala	MA1102-3	Álgebra Lineal	B104-Edificio Computación
+327	Cátedra	14:30	16:00		MA1102-6 Álgebra Lineal Curso B204-Edificio Computación Sala	MA1102-6	Álgebra Lineal	B204-Edificio Computación
+328	Cátedra	14:30	16:00		MA1102-7 Álgebra Lineal Curso S24-Edificio Escuela Sala	MA1102-7	Álgebra Lineal	S24-Edificio Escuela
+329	Cátedra	14:30	16:00		MA3403-2 Probabilidades y Estadística Curso S14-Edificio Escuela Sala	MA3403-2	Probabilidades y Estadística	S14-Edificio Escuela
+330	Cátedra	14:30	16:00		MA3403-3 Probabilidades y Estadística Curso B02-Beauchef 851 Sala	MA3403-3	Probabilidades y Estadística	B02-Beauchef 851
+331	Cátedra	14:30	16:00		MA3402-1 Estadística Curso F20-Edificio Física Sala	MA3402-1	Estadística	F20-Edificio Física
+332	Cátedra	14:30	16:00		MA4703-1 Control Óptimo: Teoría y Laboratorio Curso B212-Edificio Computación Sala	MA4703-1	Control Óptimo: Teoría y Laboratorio	B212-Edificio Computación
+333	Cátedra	14:30	16:00		IQ2211-2 Química Curso QO-Edificio Química Sala	IQ2211-2	Química	QO-Edificio Química
+334	Cátedra	14:30	16:00		IQ5423-1 Estabilidad Química de Depósitos de Relaves Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	IQ5423-1	Estabilidad Química de Depósitos de Relaves	B010 (Torre Norte piso -2)-Edificio Computación
+335	Cátedra	14:30	16:00		IQ4001-1 Caracterización de Materiales Curso B214-Edificio Computación Sala	IQ4001-1	Caracterización de Materiales	B214-Edificio Computación
+336	Cátedra	14:30	16:00		IQ3311-1 Análisis de Procesos Curso S26-Edificio Escuela Sala	IQ3311-1	Análisis de Procesos	S26-Edificio Escuela
+337	Cátedra	14:30	16:00		IQ6906-1 Introducción al Trabajo de Título Curso G201-Edificio Geología Sala	IQ6906-1	Introducción al Trabajo de Título	G201-Edificio Geología
+338	Cátedra	14:30	16:00		BT6906-1 Introducción al Trabajo de Título Curso B109-Edificio Computación Sala	BT6906-1	Introducción al Trabajo de Título	B109-Edificio Computación
+339	Cátedra	14:30	16:00		EH2516-1 Ingeniería, Tecnología y Sociedad: una Perspectiva Histórica Curso B06-Beauchef 851 Sala	EH2516-1	Ingeniería, Tecnología y Sociedad: una Perspectiva Histórica	B06-Beauchef 851
+340	Cátedra	14:30	16:00		EH2527-1 Lengua, Cultura y Cosmopráctica Aymara (Nivel Básico) Curso B114-Edificio Computación Sala	EH2527-1	Lengua, Cultura y Cosmopráctica Aymara (Nivel Básico)	B114-Edificio Computación
+341	Cátedra	14:30	16:00		"EH4005-1 ¿Es necesario hablar de Igualdad de Género en disciplinas ""neutras ? Curso B203-Edificio Computación Sala"	EH4005-1	"¿Es necesario hablar de Igualdad de Género en disciplinas ""neutras ?"	B203-Edificio Computación
+342	Cátedra	14:30	16:00		MI3230-1 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-1	Fisicoquímica Metalúrgica	F11-Edificio Física
+343	Cátedra	14:30	16:00		MI3230-2 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-2	Fisicoquímica Metalúrgica	F11-Edificio Física
+344	Cátedra	14:30	16:00		MI4135-1 Metalurgia Extractiva Curso Q21-Edificio Química Sala	MI4135-1	Metalurgia Extractiva	Q21-Edificio Química
+345	Cátedra	14:30	16:00		MI5072-1 Simulación de Procesos Mineros Curso Sala Gianna Vallebuona - Depto. Minas-Edificio Química Sala	MI5072-1	Simulación de Procesos Mineros	Gianna Vallebuona - Depto. Minas-Edificio Química
+346	Cátedra	14:30	16:00		CI4146-1 Economía de Transporte Curso	CI4146-1	Economía de Transporte	
+347	Cátedra	14:30	16:00		GL6302-1 Geología Ambiental Curso G107-Edificio Geología Sala	GL6302-1	Geología Ambiental	G107-Edificio Geología
+348	Cátedra	14:30	16:00		CD1201-2 Proyecto de Innovación en Ingeniería y Ciencias Curso B08-Beauchef 851 Sala	CD1201-2	Proyecto de Innovación en Ingeniería y Ciencias	B08-Beauchef 851
+349	Cátedra	14:30	16:00		CI3261-1 Ingeniería Ambiental Curso Q12-Edificio Química Sala	CI3261-1	Ingeniería Ambiental	Q12-Edificio Química
+350	Cátedra	14:30	16:00		CI4111-1 Dinámica de Estructuras Curso G303-Edificio Geología Sala	CI4111-1	Dinámica de Estructuras	G303-Edificio Geología
+351	Cátedra	14:30	16:00		CI4165-1 Calidad de Agua Curso F22-Edificio Física Sala	CI4165-1	Calidad de Agua	F22-Edificio Física
+352	Cátedra	14:30	16:00		CI5135-1 Inspección técnica de obras de hormigón Curso G104-Edificio Geología Sala	CI5135-1	Inspección técnica de obras de hormigón	G104-Edificio Geología
+353	Cátedra	14:30	16:00		CI5411-1 Fundaciones II Curso B206-Edificio Computación Sala	CI5411-1	Fundaciones II	B206-Edificio Computación
+354	Cátedra	14:30	16:00		FI1100-1 Introducción a la Física Moderna Curso B04-Beauchef 851 Sala	FI1100-1	Introducción a la Física Moderna	B04-Beauchef 851
+355	Cátedra	14:30	16:00		FI2001-3 Mecánica Curso F10-Edificio Física Sala	FI2001-3	Mecánica	F10-Edificio Física
+356	Cátedra	14:30	16:00		FI2002-5 Electromagnetismo Curso B03-Beauchef 851 Sala	FI2002-5	Electromagnetismo	B03-Beauchef 851
+357	Cátedra	14:30	16:00		EL3203-2 Análisis de Señales Curso S15-Edificio Escuela Sala	EL3203-2	Análisis de Señales	S15-Edificio Escuela
+358	Cátedra	14:30	16:00		EL4107-1 Tecnologías de Información y de Comunicación Curso	EL4107-1	Tecnologías de Información y de Comunicación	
+359	Cátedra	14:30	16:00		EL6016-1 Análisis Técnico Económico del Sector Eléctrico Curso Q13-Edificio Química Sala	EL6016-1	Análisis Técnico Económico del Sector Eléctrico	Q13-Edificio Química
+360	Cátedra	14:30	16:00		EL6301-1 Taller de Desempeño Profesional Curso E216-Edificio Eléctrica Sala	EL6301-1	Taller de Desempeño Profesional	E216-Edificio Eléctrica
+361	Cátedra	14:30	16:00		EL7008-1 Procesamiento Avanzado de Imágenes Curso E111-Edificio Eléctrica Sala	EL7008-1	Procesamiento Avanzado de Imágenes	E111-Edificio Eléctrica
+362	Cátedra	14:30	16:00		GF3004-1 Sistema Climático Curso B001-Edificio Computación Sala	GF3004-1	Sistema Climático	B001-Edificio Computación
+363	Cátedra	14:30	16:00		GF3005-1 Contaminación Atmosférica Curso Sala Geofísica 2º Piso-Geofísica Sala	GF3005-1	Contaminación Atmosférica	Geofísica 2º Piso-Geofísica
+364	Cátedra	14:30	16:00		GF750-1 Meteorología Sinóptica Curso B100-Edificio Computación Sala	GF750-1	Meteorología Sinóptica	B100-Edificio Computación
+365	Cátedra	14:30	16:00		GF4101-1 Sismología Aplicada Curso	GF4101-1	Sismología Aplicada	
+366	Cátedra	14:30	16:00		AS2001-1 Astronomía General Curso B07-Beauchef 851 Sala	AS2001-1	Astronomía General	B07-Beauchef 851
+367	Cátedra	14:30	16:00		AS3000-1 Astronomía y Astrofísica Curso G106-Edificio Geología Sala	AS3000-1	Astronomía y Astrofísica	G106-Edificio Geología
+368	Cátedra	14:30	16:00		AS3101-1 Astrofísica de Estrellas Curso G110-Edificio Geología Sala	AS3101-1	Astrofísica de Estrellas	G110-Edificio Geología
+369	Cátedra	14:30	16:00		ME7300-1 Taller de Proyecto de Tesis Curso	ME7300-1	Taller de Proyecto de Tesis	
+370	Cátedra	14:30	16:00		MDS7103-1 Bases de Datos Curso B213-Edificio Computación Sala	MDS7103-1	Bases de Datos	B213-Edificio Computación
+371	Cátedra	14:30	16:00		EL7050-1 Writing for Engineers Curso B111-Edificio Computación Sala	EL7050-1	Writing for Engineers	B111-Edificio Computación
+372	Laboratorio	14:30	16:00		ME5240-2 Laboratorio de Energía Curso	ME5240-2	Laboratorio de Energía	
+373	Laboratorio	14:30	16:00		CD1201-12 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-12	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+15:00								
+374	Cátedra	15:00	16:30		VA-01-0327-177-1 Autocuidado y promoción de la salud mental Curso .-FCFM Sala	VA-01-0327-177-1	Autocuidado y promoción de la salud mental	.-FCFM
+375	Cátedra	15:00	16:30		VA-01-0327-206-1 Prácticas creativas para hacer, sentir y pensar con conceptos disciplinares Curso .-FCFM Sala	VA-01-0327-206-1	Prácticas creativas para hacer, sentir y pensar con conceptos disciplinares	.-FCFM
+376	Cátedra	15:00	16:30		VA-01-0327-212-1 La ciudad para todes: territorios interseccionales Curso .-FCFM Sala	VA-01-0327-212-1	La ciudad para todes: territorios interseccionales	.-FCFM
+16:00								
+377	Auxiliar	16:00	18:00		MA3403-1 Probabilidades y Estadística Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	MA3403-1	Probabilidades y Estadística	B010 (Torre Norte piso -2)-Edificio Computación
+378	Auxiliar	16:00	18:00		MA3403-2 Probabilidades y Estadística Curso S14-Edificio Escuela Sala	MA3403-2	Probabilidades y Estadística	S14-Edificio Escuela
+379	Auxiliar	16:00	18:00		MA3403-3 Probabilidades y Estadística Curso B212-Edificio Computación Sala	MA3403-3	Probabilidades y Estadística	B212-Edificio Computación
+380	Auxiliar	16:00	18:00		MA3801-1 Análisis Curso S24-Edificio Escuela Sala	MA3801-1	Análisis	S24-Edificio Escuela
+381	Auxiliar	16:00	18:00		MA3802-1 Teoría de la Medida Curso B07-Beauchef 851 Sala	MA3802-1	Teoría de la Medida	B07-Beauchef 851
+382	Auxiliar	16:00	18:00		MA4801-1 Análisis Funcional Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA4801-1	Análisis Funcional	Seminario DIM 5º PISO-Edificio Computación
+383	Auxiliar	16:00	18:00		MA4802-1 Ecuaciones en Derivadas Parciales Curso QO-Edificio Química Sala	MA4802-1	Ecuaciones en Derivadas Parciales	QO-Edificio Química
+384	Auxiliar	16:00	18:00		EL3201-2 Laboratorio de Ingeniería Eléctrica Curso S29-Edificio Escuela Sala	EL3201-2	Laboratorio de Ingeniería Eléctrica	S29-Edificio Escuela
+385	Auxiliar	16:00	18:00		CI4262-1 Hidráulica de Aguas Subterráneas y Aprovechamiento Curso B111-Edificio Computación Sala	CI4262-1	Hidráulica de Aguas Subterráneas y Aprovechamiento	B111-Edificio Computación
+386	Cátedra	16:00	18:00		FT1101-4 Comunicación académica en Ingeniería y Ciencias Curso B213-Edificio Computación Sala	FT1101-4	Comunicación académica en Ingeniería y Ciencias	B213-Edificio Computación
+387	Cátedra	16:00	18:00		ME3220-3 Taller Mecánico Curso Taller Molina-Av. Blanco Encalada 2743 Sala	ME3220-3	Taller Mecánico	Taller Molina-Av. Blanco Encalada 2743
+388	Cátedra	16:00	18:00		IQ5472-1 Industria de Procesos Químicos y Biotecnológicos Curso	IQ5472-1	Industria de Procesos Químicos y Biotecnológicos	
+389	Cátedra	16:00	18:00		CI5909-2 Introducción a la Práctica de Título Curso B102-Edificio Computación Sala	CI5909-2	Introducción a la Práctica de Título	B102-Edificio Computación
+390	Cátedra	16:00	18:00		EL5206-1 Laboratorio de Inteligencia Computacional y Robótica Curso E215-Edificio Eléctrica Sala	EL5206-1	Laboratorio de Inteligencia Computacional y Robótica	E215-Edificio Eléctrica
+391	Cátedra	16:00	18:00		EL6908-1 Introducción al Trabajo de Título Curso B214-Edificio Computación Sala	EL6908-1	Introducción al Trabajo de Título	B214-Edificio Computación
+392	Cátedra	16:00	18:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+393	Cátedra	16:00	18:00		CI6908-3 Introducción al Trabajo de Título Curso	CI6908-3	Introducción al Trabajo de Título	
+394	Laboratorio	16:00	18:00		EL3102-1 Sistemas Digitales Curso	EL3102-1	Sistemas Digitales	
+16:00								
+395	Exámen de Grado o Título	16:00	18:00		Examen de Grado de Medardo Zambrano A. Examen de Grado Examen Online Química y Biotecnologia Sala			Examen de Grado de Medardo Zambrano A. Examen de Grado Examen Online Química y Biotecnologia
+16:15								
+396	Auxiliar	16:15	17:45		BT4712-1 Biotecnología en Agricultura, Salud, Ambiente e Industria Curso S26-Edificio Escuela Sala	BT4712-1	Biotecnología en Agricultura, Salud, Ambiente e Industria	S26-Edificio Escuela
+397	Auxiliar	16:15	17:45		IQ3711-1 Sustentabilidad en Ingeniería Curso B211-Edificio Computación Sala	IQ3711-1	Sustentabilidad en Ingeniería	B211-Edificio Computación
+398	Auxiliar	16:15	17:45		IQ6920-1 Trabajo de Título Curso B109-Edificio Computación Sala	IQ6920-1	Trabajo de Título	B109-Edificio Computación
+399	Auxiliar	16:15	17:45		IN4123-1 Macroeconomía Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	IN4123-1	Macroeconomía	G108 - Humberto Fuenzalida-Edificio Geología
+400	Auxiliar	16:15	17:45		IN5111-1 Comportamiento Organizacional Curso B203-Edificio Computación Sala	IN5111-1	Comportamiento Organizacional	B203-Edificio Computación
+401	Auxiliar	16:15	17:45		GL4203-1 Geomorfología Dinámica Curso G105 Laboratorio de Computación-Edificio Geología Sala	GL4203-1	Geomorfología Dinámica	G105 Laboratorio de Computación-Edificio Geología
+402	Auxiliar	16:15	17:45		GL4401-1 Introducción a Yacimientos Minerales Curso G109-Edificio Geología Sala	GL4401-1	Introducción a Yacimientos Minerales	G109-Edificio Geología
+403	Auxiliar	16:15	17:45		GL5314-1 Geología Andina Curso N03-BIBLIOTECA Sala	GL5314-1	Geología Andina	N03-BIBLIOTECA
+404	Auxiliar	16:15	17:45		CI4111-1 Dinámica de Estructuras Curso G110-Edificio Geología Sala	CI4111-1	Dinámica de Estructuras	G110-Edificio Geología
+405	Auxiliar	16:15	17:45		FI1000-2 Introducción a la Física Clásica Curso E216-Edificio Eléctrica Sala	FI1000-2	Introducción a la Física Clásica	E216-Edificio Eléctrica
+406	Auxiliar	16:15	17:45		FI3102-1 Física Moderna Curso Q13-Edificio Química Sala	FI3102-1	Física Moderna	Q13-Edificio Química
+407	Auxiliar	16:15	17:45		EL4114-1 Optimización Curso E111-Edificio Eléctrica Sala	EL4114-1	Optimización	E111-Edificio Eléctrica
+408	Auxiliar	16:15	17:45		AS2001-1 Astronomía General Curso F9-Edificio Física Sala	AS2001-1	Astronomía General	F9-Edificio Física
+409	Auxiliar	16:15	17:45		FI7015-1 Cosmología Curso Seminario 2 Poniente-Edificio Física Sala	FI7015-1	Cosmología	Seminario 2 Poniente-Edificio Física
+410	Auxiliar Extra	16:15	17:45		CI5135-1 Inspección técnica de obras de hormigón Curso G107-Edificio Geología Sala	CI5135-1	Inspección técnica de obras de hormigón	G107-Edificio Geología
+411	Cátedra	16:15	17:45		EI4204-7 Inglés 4 Curso B105-Edificio Computación Sala	EI4204-7	Inglés 4	B105-Edificio Computación
+412	Cátedra	16:15	17:45		DR160A-5 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-5	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+413	Cátedra	16:15	17:45		DR250A-3 Boxeo Funcional Damas I Curso Gimnasio Domeyko-FCFM Sala	DR250A-3	Boxeo Funcional Damas I	Gimnasio Domeyko-FCFM
+414	Cátedra	16:15	17:45		DR251A-3 Boxeo Funcional Varones I Curso Gimnasio Domeyko-FCFM Sala	DR251A-3	Boxeo Funcional Varones I	Gimnasio Domeyko-FCFM
+415	Cátedra	16:15	17:45		DR340A-1 Balonmano I Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR340A-1	Balonmano I	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+416	Cátedra	16:15	17:45		DR720A-1 Fotografía Digital Básica Curso Sala de Juegos-Beauchef 851 Sala	DR720A-1	Fotografía Digital Básica	de Juegos-Beauchef 851
+417	Cátedra	16:15	17:45		ME5806-1 Emprendimiento e Innovación con enfoque de género Curso B101-Edificio Computación Sala	ME5806-1	Emprendimiento e Innovación con enfoque de género	B101-Edificio Computación
+418	Cátedra	16:15	17:45		CC1002-3 Introducción a la Programación Curso B01-Beauchef 851 Sala	CC1002-3	Introducción a la Programación	B01-Beauchef 851
+419	Cátedra	16:15	17:45		CC4401-1 Ingeniería de Software Curso G303-Edificio Geología Sala	CC4401-1	Ingeniería de Software	G303-Edificio Geología
+420	Cátedra	16:15	17:45		CC4402-1 Formulación, Evaluación y Gestión de Proyectos Curso F21-Edificio Física Sala	CC4402-1	Formulación, Evaluación y Gestión de Proyectos	F21-Edificio Física
+421	Cátedra	16:15	17:45		CC4402-2 Formulación, Evaluación y Gestión de Proyectos Curso F21-Edificio Física Sala	CC4402-2	Formulación, Evaluación y Gestión de Proyectos	F21-Edificio Física
+422	Cátedra	16:15	17:45		IN7T5-1 Políticas Públicas Curso	IN7T5-1	Políticas Públicas	
+423	Cátedra	16:15	17:45		IN7F1-1 Enfoques y Modelos de Análisis en Políticas Públicas Curso	IN7F1-1	Enfoques y Modelos de Análisis en Políticas Públicas	
+424	Cátedra	16:15	17:45		CC5614-3 Herramientas para el Trabajo en Equipo Curso S25-Edificio Escuela Sala	CC5614-3	Herramientas para el Trabajo en Equipo	S25-Edificio Escuela
+425	Cátedra	16:15	17:45		IQ6910-1 Trabajo de Memoria de Título Curso	IQ6910-1	Trabajo de Memoria de Título	
+426	Cátedra	16:15	17:45		BT6920-1 Trabajo de Título Curso G104-Edificio Geología Sala	BT6920-1	Trabajo de Título	G104-Edificio Geología
+427	Cátedra	16:15	17:45		BT6910-1 Trabajo de Memoria de Título Curso	BT6910-1	Trabajo de Memoria de Título	
+428	Cátedra	16:15	17:45		IN3242-2 Estadística Curso B08-Beauchef 851 Sala	IN3242-2	Estadística	B08-Beauchef 851
+429	Cátedra	16:15	17:45		EH2518-1 Introducción a la Lengua y Cultura Mapuche Curso B208-Edificio Computación Sala	EH2518-1	Introducción a la Lengua y Cultura Mapuche	B208-Edificio Computación
+430	Cátedra	16:15	17:45		EH2528-1 Historia política y social de Chile 1960-2010 para entender el Chile de hoy Curso B06-Beauchef 851 Sala	EH2528-1	Historia política y social de Chile 1960-2010 para entender el Chile de hoy	B06-Beauchef 851
+431	Cátedra	16:15	17:45		MI3230-1 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-1	Fisicoquímica Metalúrgica	F11-Edificio Física
+432	Cátedra	16:15	17:45		MI3230-2 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-2	Fisicoquímica Metalúrgica	F11-Edificio Física
+433	Cátedra	16:15	17:45		MI4135-1 Metalurgia Extractiva Curso Q21-Edificio Química Sala	MI4135-1	Metalurgia Extractiva	Q21-Edificio Química
+434	Cátedra	16:15	17:45		CI71J-1 Transporte Hidráulico de Sólidos Curso	CI71J-1	Transporte Hidráulico de Sólidos	
+435	Cátedra	16:15	17:45		CI7411-1 Dinámica de Suelos Curso E213-Edificio Eléctrica Sala	CI7411-1	Dinámica de Suelos	E213-Edificio Eléctrica
+436	Cátedra	16:15	17:45		FI1100-6 Introducción a la Física Moderna Curso B03-Beauchef 851 Sala	FI1100-6	Introducción a la Física Moderna	B03-Beauchef 851
+437	Cátedra	16:15	17:45		FI1100-8 Introducción a la Física Moderna Curso B02-Beauchef 851 Sala	FI1100-8	Introducción a la Física Moderna	B02-Beauchef 851
+438	Cátedra	16:15	17:45		EL4106-1 Inteligencia Computacional Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	EL4106-1	Inteligencia Computacional	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+439	Cátedra	16:15	17:45		GF7004-1 Sismología de Volcanes Curso B100-Edificio Computación Sala	GF7004-1	Sismología de Volcanes	B100-Edificio Computación
+440	Cátedra	16:15	17:45		GF757-1 Seminario Peligro Sísmico I Curso	GF757-1	Seminario Peligro Sísmico I	
+441	Cátedra	16:15	17:45		CC7320-1 Estructuras de Datos Comprimidas Curso B210-Edificio Computación Sala	CC7320-1	Estructuras de Datos Comprimidas	B210-Edificio Computación
+442	Cátedra	16:15	17:45		IN6531-1 Introducción a la Minería de Datos Curso B103-Edificio Computación Sala	IN6531-1	Introducción a la Minería de Datos	B103-Edificio Computación
+443	Cátedra	16:15	17:45		FI1100-7 Introducción a la Física Moderna Curso F20-Edificio Física Sala	FI1100-7	Introducción a la Física Moderna	F20-Edificio Física
+444	Cátedra	16:15	17:45		CI6316-1 Modelación y Diseño Experimental de Comportamiento Humano Curso	CI6316-1	Modelación y Diseño Experimental de Comportamiento Humano	
+445	Cátedra	16:15	17:45		IQ7422-2 Transferencia de Masa Avanzada Curso B205-Edificio Computación Sala	IQ7422-2	Transferencia de Masa Avanzada	B205-Edificio Computación
+446	Control	16:15	17:45		MA2002-1 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-1	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+447	Control	16:15	17:45		MA2002-4 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-4	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+448	Control	16:15	17:45		MA2002-2 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-2	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+449	Control	16:15	17:45		MA2002-3 Cálculo Avanzado y Aplicaciones Curso G304-Edificio Geología Sala G305-Edificio Geología Sala	MA2002-3	Cálculo Avanzado y Aplicaciones	G304-Edificio Geología | G305-Edificio Geología
+450	Control	16:15	17:45		MA2002-5 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-5	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+451	Control	16:15	17:45		MA2002-6 Cálculo Avanzado y Aplicaciones Curso B104-Edificio Computación Sala B204-Edificio Computación Sala	MA2002-6	Cálculo Avanzado y Aplicaciones	B104-Edificio Computación | B204-Edificio Computación
+452	Control de Adecuación	16:15	19:30	MA2002	F22-Edificio Física Sala	F22-Edificio		F22-Edificio Física
+453	Laboratorio	16:15	17:45		ME5240-2 Laboratorio de Energía Curso	ME5240-2	Laboratorio de Energía	
+454	Laboratorio	16:15	17:45		FI1100-2 Introducción a la Física Moderna Curso	FI1100-2	Introducción a la Física Moderna	
+16:30								
+455	Cátedra	16:30	18:00		VA-01-0327-154-1 Innovación social y pública Curso .-FCFM Sala	VA-01-0327-154-1	Innovación social y pública	.-FCFM
+17:30								
+456	Taller extralaboral  Pintura y Expresión Creativa	17:30	20:00		S15-Edificio Escuela Sala	S15-Edificio		S15-Edificio Escuela
+18:00								
+457	Auxiliar	18:00	19:30		ME4230-1 Elementos de Máquinas Curso B211-Edificio Computación Sala	ME4230-1	Elementos de Máquinas	B211-Edificio Computación
+458	Auxiliar	18:00	19:30		IN73F-2 Métodos Cuantitativos Curso	IN73F-2	Métodos Cuantitativos	
+459	Auxiliar	18:00	20:00		CC1002-9 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-9	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+460	Auxiliar	18:00	19:30		MI6071-2 Tronadura y Excavación Curso B101-Edificio Computación Sala	MI6071-2	Tronadura y Excavación	B101-Edificio Computación
+461	Auxiliar	18:00	19:30		IE4200-1 Técnicas de Venta y Escalamiento de Proyectos de Innovación y Emprendimiento Curso .-FCFM Sala	IE4200-1	Técnicas de Venta y Escalamiento de Proyectos de Innovación y Emprendimiento	.-FCFM
+462	Auxiliar	18:00	19:30		FI1100-4 Introducción a la Física Moderna Curso B01-Beauchef 851 Sala	FI1100-4	Introducción a la Física Moderna	B01-Beauchef 851
+463	Auxiliar	18:00	19:30		FI1100-8 Introducción a la Física Moderna Curso B02-Beauchef 851 Sala	FI1100-8	Introducción a la Física Moderna	B02-Beauchef 851
+464	Cátedra	18:00	19:30		DR160A-6 Métodos de Entrenamiento en Gimnasio I Curso Gimnasio Pesas-Beauchef 851 Sala	DR160A-6	Métodos de Entrenamiento en Gimnasio I	Gimnasio Pesas-Beauchef 851
+465	Cátedra	18:00	19:30		ME5704-1 Mantenimiento Predictivo Curso Q13-Edificio Química Sala	ME5704-1	Mantenimiento Predictivo	Q13-Edificio Química
+466	Cátedra	18:00	19:30		CC5002-2 Desarrollo de Aplicaciones Web Curso	CC5002-2	Desarrollo de Aplicaciones Web	
+467	Cátedra	18:00	19:30		CC5213-1 Recuperación de Información Multimedia Curso	CC5213-1	Recuperación de Información Multimedia	
+468	Cátedra	18:00	19:30		IN7T4-1 Economía y Políticas Públicas II Curso	IN7T4-1	Economía y Políticas Públicas II	
+469	Cátedra	18:00	19:30		EP601-1 Matemáticas y Estadística Curso	EP601-1	Matemáticas y Estadística	
+470	Cátedra	18:00	19:30		IN7U5-1 Evaluación de Políticas Públicas Curso	IN7U5-1	Evaluación de Políticas Públicas	
+471	Cátedra	18:00	19:30		CC5402-1 Proyecto de Software Curso	CC5402-1	Proyecto de Software	
+472	Cátedra	18:00	19:30		GF4102-1 Prospección Sismica Curso	GF4102-1	Prospección Sismica	
+473	Cátedra	18:00	19:30		MI4265-1 Legislación Minera Curso Q21-Edificio Química Sala	MI4265-1	Legislación Minera	Q21-Edificio Química
+474	Cátedra	18:00	19:30		MA5503-1 Introducción a la Dinámica Simbólica Curso	MA5503-1	Introducción a la Dinámica Simbólica	
+475	Cátedra	18:00	19:30		GL5002-1 Seguridad en Montaña Curso G104-Edificio Geología Sala	GL5002-1	Seguridad en Montaña	G104-Edificio Geología
+476	Cátedra	18:00	19:30		CI5261-1 Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales Curso B210-Edificio Computación Sala	CI5261-1	Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales	B210-Edificio Computación
+477	Cátedra	18:00	19:30		CI5261-2 Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales Curso B102-Edificio Computación Sala	CI5261-2	Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales	B102-Edificio Computación
+478	Cátedra	18:00	20:00		EL5206-1 Laboratorio de Inteligencia Computacional y Robótica Curso E215-Edificio Eléctrica Sala	EL5206-1	Laboratorio de Inteligencia Computacional y Robótica	E215-Edificio Eléctrica
+479	Cátedra	18:00	20:00		EL6017-1 Gestión de la Distribución de la Energía Eléctrica Curso B214-Edificio Computación Sala	EL6017-1	Gestión de la Distribución de la Energía Eléctrica	B214-Edificio Computación
+480	Cátedra	18:00	19:30		GF757-1 Seminario Peligro Sísmico I Curso	GF757-1	Seminario Peligro Sísmico I	
+481	Cátedra	18:00	19:30		MIE7101-1 Dimensión Social de la Innovación y el Emprendimiento Curso B208-Edificio Computación Sala	MIE7101-1	Dimensión Social de la Innovación y el Emprendimiento	B208-Edificio Computación
+482	Control	18:00	19:30		MA2002-5 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-5	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+483	Control	18:00	19:30		MA2002-2 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-2	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+484	Control	18:00	19:30		MA2002-1 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-1	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+485	Control	18:00	19:30		MA2002-3 Cálculo Avanzado y Aplicaciones Curso G304-Edificio Geología Sala G305-Edificio Geología Sala	MA2002-3	Cálculo Avanzado y Aplicaciones	G304-Edificio Geología | G305-Edificio Geología
+486	Control	18:00	19:30		MA2002-4 Cálculo Avanzado y Aplicaciones Curso B112-Edificio Computación Sala B113-Edificio Computación Sala QP-Edificio Química Sala Q10-Edificio Química Sala Q12-Edificio Química Sala F10-Edificio Física Sala F12-Edificio Física Sala S17-Edificio Escuela Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala E214-Edificio Eléctrica Sala G201-Edificio Geología Sala B04-Beauchef 851 Sala B05-Beauchef 851 Sala Q22-Edificio Química Sala	MA2002-4	Cálculo Avanzado y Aplicaciones	B112-Edificio Computación | B113-Edificio Computación | QP-Edificio Química | Q10-Edificio Química | Q12-Edificio Química | F10-Edificio Física | F12-Edificio Física | S17-Edificio Escuela | S19-Edificio Escuela | S28-Edificio Escuela | E214-Edificio Eléctrica | G201-Edificio Geología | B04-Beauchef 851 | B05-Beauchef 851 | Q22-Edificio Química
+487	Control	18:00	19:30		MA2002-6 Cálculo Avanzado y Aplicaciones Curso B104-Edificio Computación Sala B204-Edificio Computación Sala	MA2002-6	Cálculo Avanzado y Aplicaciones	B104-Edificio Computación | B204-Edificio Computación
+488	Entrega Certificados Diploma Postítulo de Caracterización, Tratamiento y Revalorización de Recursos Hídricos 2025 - DIC	18:00	19:00		B08-Beauchef 851 Sala	B08-Beauchef		B08-Beauchef 851
+489	Laboratorio	18:00	19:30		FI1100-2 Introducción a la Física Moderna Curso	FI1100-2	Introducción a la Física Moderna	
+490	Taller extralaboral Canto Colectivo	18:00	20:00		N11-Edificio Escuela Sala	N11-Edificio		N11-Edificio Escuela
+19:30								
+491	Auxiliar	19:30	21:00		IN73G-2 Evaluación de Proyectos Curso	IN73G-2	Evaluación de Proyectos	
+492	Auxiliar	19:30	21:00		MI6071-2 Tronadura y Excavación Curso B101-Edificio Computación Sala	MI6071-2	Tronadura y Excavación	B101-Edificio Computación
+493	Cátedra	19:30	21:00		IN7T4-1 Economía y Políticas Públicas II Curso	IN7T4-1	Economía y Políticas Públicas II	
+494	Cátedra	19:30	21:00		EP601-1 Matemáticas y Estadística Curso	EP601-1	Matemáticas y Estadística	
+495	Cátedra	19:30	21:00		IN7U5-1 Evaluación de Políticas Públicas Curso	IN7U5-1	Evaluación de Políticas Públicas	
+496	Cátedra	19:30	21:00		MI4265-1 Legislación Minera Curso Q21-Edificio Química Sala	MI4265-1	Legislación Minera	Q21-Edificio Química
+497	Cátedra	19:30	21:00		CI5261-1 Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales Curso B210-Edificio Computación Sala	CI5261-1	Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales	B210-Edificio Computación
+498	Cátedra	19:30	21:00		CI5261-2 Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales Curso B102-Edificio Computación Sala	CI5261-2	Proyecto de Sistemas Hidráulicos Sanitarios y Ambientales	B102-Edificio Computación
+499	Cátedra	19:30	21:00		MIE7101-1 Dimensión Social de la Innovación y el Emprendimiento Curso B208-Edificio Computación Sala	MIE7101-1	Dimensión Social de la Innovación y el Emprendimiento	B208-Edificio Computación
+
+Eventos del Viernes 24 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+8:00								
+1	Auxiliar	8:00	10:00		CC1002-2 Introducción a la Programación Curso S03-Edificio Escuela Sala S05-Edificio Escuela Sala	CC1002-2	Introducción a la Programación	S03-Edificio Escuela | S05-Edificio Escuela
+2	Auxiliar	8:00	10:00		MA3101-1 Elementos de Álgebra Curso B05-Beauchef 851 Sala	MA3101-1	Elementos de Álgebra	B05-Beauchef 851
+3	Cátedra	8:00	10:00		EL5204-1 Laboratorio de Equipos y Dispositivos Eléctricos Curso E215-Edificio Eléctrica Sala	EL5204-1	Laboratorio de Equipos y Dispositivos Eléctricos	E215-Edificio Eléctrica
+8:00								
+4	Exámen de Grado o Título	8:00	9:00		Examen de Grado de María Espinoza V. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de María Espinoza V. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+8:30								
+5	Auxiliar	8:30	10:00		MA2601-3 Ecuaciones Diferenciales Ordinarias Curso B203-Edificio Computación Sala	MA2601-3	Ecuaciones Diferenciales Ordinarias	B203-Edificio Computación
+6	Auxiliar	8:30	10:00		MI5110-1 Gestión de Operaciones Mineras Curso B110-Edificio Computación Sala	MI5110-1	Gestión de Operaciones Mineras	B110-Edificio Computación
+7	Auxiliar	8:30	10:00		GL5213-1 Hidrogeología Curso G109-Edificio Geología Sala	GL5213-1	Hidrogeología	G109-Edificio Geología
+8	Auxiliar	8:30	10:00		CI71F-1 Modelación Hidrológica Curso B214-Edificio Computación Sala	CI71F-1	Modelación Hidrológica	B214-Edificio Computación
+9	Auxiliar	8:30	10:00		FI1100-5 Introducción a la Física Moderna Curso S26-Edificio Escuela Sala	FI1100-5	Introducción a la Física Moderna	S26-Edificio Escuela
+10	Auxiliar	8:30	10:00		FI2004-1 Termodinámica Curso F10-Edificio Física Sala	FI2004-1	Termodinámica	F10-Edificio Física
+11	Auxiliar	8:30	10:00		EL4106-1 Inteligencia Computacional Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	EL4106-1	Inteligencia Computacional	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+12	Cátedra	8:30	10:00		EI2201-2 Inglés 1 Curso B205-Edificio Computación Sala	EI2201-2	Inglés 1	B205-Edificio Computación
+13	Cátedra	8:30	10:00		EI2202-1 Inglés 2 Curso B100-Edificio Computación Sala	EI2202-1	Inglés 2	B100-Edificio Computación
+14	Cátedra	8:30	10:00		EI3203-1 Inglés 3 Curso B113-Edificio Computación Sala	EI3203-1	Inglés 3	B113-Edificio Computación
+15	Cátedra	8:30	10:00		EI4204-1 Inglés 4 Curso B114-Edificio Computación Sala	EI4204-1	Inglés 4	B114-Edificio Computación
+16	Cátedra	8:30	10:00		EI4204-3 Inglés 4 Curso B111-Edificio Computación Sala	EI4204-3	Inglés 4	B111-Edificio Computación
+17	Cátedra	8:30	10:00		EI4205-16 Inglés 5 Curso B213-Edificio Computación Sala	EI4205-16	Inglés 5	B213-Edificio Computación
+18	Cátedra	8:30	10:00		EI4205-17 Inglés 5 Curso B103-Edificio Computación Sala	EI4205-17	Inglés 5	B103-Edificio Computación
+19	Cátedra	8:30	10:00		DR331A-1 Basquetbol Varones I Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR331A-1	Basquetbol Varones I	Cancha Voleibol - Básquetbol-Beauchef 851
+20	Cátedra	8:30	10:00		DR331B-1 Basquetbol Varones  II Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR331B-1	Basquetbol Varones II	Cancha Voleibol - Básquetbol-Beauchef 851
+21	Cátedra	8:30	10:00		DR313A-1 Futsal Mixto I Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR313A-1	Futsal Mixto I	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+22	Cátedra	8:30	10:00		DR313B-1 Futsal Mixto II Curso Cancha Futsal - Tenis - Balonmano-Beauchef 851 Sala	DR313B-1	Futsal Mixto II	Cancha Futsal - Tenis - Balonmano-Beauchef 851
+23	Cátedra	8:30	10:00		DR400A-1 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-1	Natación I	Piscina-Beauchef 851
+24	Cátedra	8:30	10:00		DR400B-1 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-1	Natación II	Piscina-Beauchef 851
+25	Cátedra	8:30	10:00		DR700A-1 Teatro I Curso Sala de Artes-Beauchef 851 Sala	DR700A-1	Teatro I	de Artes-Beauchef 851
+26	Cátedra	8:30	10:00		CC1002-10 Introducción a la Programación Curso F20-Edificio Física Sala	CC1002-10	Introducción a la Programación	F20-Edificio Física
+27	Cátedra	8:30	10:00		CC5101-1 Análisis Avanzado de Algoritmos Curso .-FCFM Sala	CC5101-1	Análisis Avanzado de Algoritmos	.-FCFM
+28	Cátedra	8:30	10:00		MA1002-6 Cálculo Diferencial e Integral Curso Multiuso-Edificio Escuela Sala	MA1002-6	Cálculo Diferencial e Integral	Multiuso-Edificio Escuela
+29	Cátedra	8:30	10:00		MA1002-7 Cálculo Diferencial e Integral Curso B01-Beauchef 851 Sala	MA1002-7	Cálculo Diferencial e Integral	B01-Beauchef 851
+30	Cátedra	8:30	10:00		MA2001-1 Cálculo en Varias Variables Curso B204-Edificio Computación Sala	MA2001-1	Cálculo en Varias Variables	B204-Edificio Computación
+31	Cátedra	8:30	10:00		MA3403-1 Probabilidades y Estadística Curso B02-Beauchef 851 Sala	MA3403-1	Probabilidades y Estadística	B02-Beauchef 851
+32	Cátedra	8:30	10:00		IQ2212-1 Termodinámica Química Curso B04-Beauchef 851 Sala	IQ2212-1	Termodinámica Química	B04-Beauchef 851
+33	Cátedra	8:30	10:00		IQ3400-2 Introducción a la Sustentabilidad en la Ingeniería y Ciencias Curso G110-Edificio Geología Sala	IQ3400-2	Introducción a la Sustentabilidad en la Ingeniería y Ciencias	G110-Edificio Geología
+34	Cátedra	8:30	10:00		IQ3111-1 Modelamiento y Optimización para Ingeniería de Procesos Curso B07-Beauchef 851 Sala	IQ3111-1	Modelamiento y Optimización para Ingeniería de Procesos	B07-Beauchef 851
+35	Cátedra	8:30	10:00		IQ4316-1 Operaciones Mecánicas Curso B001-Edificio Computación Sala	IQ4316-1	Operaciones Mecánicas	B001-Edificio Computación
+36	Cátedra	8:30	10:00		IN2201-3 Economía Curso B03-Beauchef 851 Sala	IN2201-3	Economía	B03-Beauchef 851
+37	Cátedra	8:30	10:00		IN3141-1 Probabilidades Curso Q10-Edificio Química Sala	IN3141-1	Probabilidades	Q10-Edificio Química
+38	Cátedra	8:30	10:00		IN4123-1 Macroeconomía Curso QP-Edificio Química Sala	IN4123-1	Macroeconomía	QP-Edificio Química
+39	Cátedra	8:30	10:00		IN5827-1 Manejo de Negocios Internacionales Curso B112-Edificio Computación Sala	IN5827-1	Manejo de Negocios Internacionales	B112-Edificio Computación
+40	Cátedra	8:30	10:00		IN6192-1 Práctica Profesional Extendida Curso B115-Edificio Computación Sala	IN6192-1	Práctica Profesional Extendida	B115-Edificio Computación
+41	Cátedra	8:30	10:00		IN6192-2 Práctica Profesional Extendida Curso B208-Edificio Computación Sala	IN6192-2	Práctica Profesional Extendida	B208-Edificio Computación
+42	Cátedra	8:30	10:00		IN6193-3 Proyecto de Título Curso	IN6193-3	Proyecto de Título	
+43	Cátedra	8:30	10:00		IN6193-4 Proyecto de Título Curso B102-Edificio Computación Sala	IN6193-4	Proyecto de Título	B102-Edificio Computación
+44	Cátedra	8:30	10:00		MI3210-1 Introducción a Yacimientos Minerales Curso G106-Edificio Geología Sala	MI3210-1	Introducción a Yacimientos Minerales	G106-Edificio Geología
+45	Cátedra	8:30	10:00		MI5075-1 Minería inteligente Curso	MI5075-1	Minería inteligente	
+46	Cátedra	8:30	10:00		CI4152-1 Evaluación de Proyectos Curso G303-Edificio Geología Sala	CI4152-1	Evaluación de Proyectos	G303-Edificio Geología
+47	Cátedra	8:30	10:00		CI4251-1 Planificación y Gestión de Proyectos Curso S28-Edificio Escuela Sala	CI4251-1	Planificación y Gestión de Proyectos	S28-Edificio Escuela
+48	Cátedra	8:30	10:00		CI5222-1 Hormigón Pretensado Curso F22-Edificio Física Sala	CI5222-1	Hormigón Pretensado	F22-Edificio Física
+49	Cátedra	8:30	10:00		FI2001-2 Mecánica Curso B104-Edificio Computación Sala	FI2001-2	Mecánica	B104-Edificio Computación
+50	Cátedra	8:30	10:00		FI6028-1 Introducción a la Interacción Onda-Vórtice Curso sala de reuniones del laboratorio de materia fuera del equilibrio-Edificio Física Sala	FI6028-1	Introducción a la Interacción Onda-Vórtice	de reuniones del laboratorio de materia fuera del equilibrio-Edificio Física
+51	Cátedra	8:30	10:00		IN703-1 Macroeconomía I Curso B211-Edificio Computación Sala	IN703-1	Macroeconomía I	B211-Edificio Computación
+52	Cátedra	8:30	10:00		IN3301-1 Evaluación de Proyectos Curso F21-Edificio Física Sala	IN3301-1	Evaluación de Proyectos	F21-Edificio Física
+53	Cátedra	8:30	10:00		IN7R1-1 Economía Financiera Curso B206-Edificio Computación Sala	IN7R1-1	Economía Financiera	B206-Edificio Computación
+54	Laboratorio	8:30	10:00		CD1201-1 Proyecto de Innovación en Ingeniería y Ciencias Curso	CD1201-1	Proyecto de Innovación en Ingeniería y Ciencias	
+55	Laboratorio	8:30	10:00		CD1201-9 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-9	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+56	Laboratorio	8:30	10:00		CD1201-11 Proyecto de Innovación en Ingeniería y Ciencias Curso	CD1201-11	Proyecto de Innovación en Ingeniería y Ciencias	
+57	Laboratorio	8:30	10:00		CD1201-21 Proyecto de Innovación en Ingeniería y Ciencias Curso N03-BIBLIOTECA Sala	CD1201-21	Proyecto de Innovación en Ingeniería y Ciencias	N03-BIBLIOTECA
+58	Laboratorio	8:30	10:00		FI1100-3 Introducción a la Física Moderna Curso	FI1100-3	Introducción a la Física Moderna	
+9:00								
+59	Ceremonia Entrega Distinción Prof. Emérito Rodolfo Saragoni - Comunicaciones FCFM	9:00	15:00		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala Cafeteria-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 | Cafeteria-Beauchef 851
+9:00								
+60	Exámen de Grado o Título	9:00	10:00		Examen de Grado de Richard Solís M. Examen de Grado DII 210 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Richard Solís M. Examen de Grado DII 210 Domeyko 2338 2DO. Piso
+61	Exámen de Grado o Título	9:00	10:00		Examen de Grado de Robert Collins D. Examen de Grado DII 201 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Robert Collins D. Examen de Grado DII 201 Domeyko 2338 2DO. Piso
+62	Exámen de Grado o Título	9:00	10:00		Examen de Grado de Mario Mayora A. Examen de Grado Examen Online Industria Sala			Examen de Grado de Mario Mayora A. Examen de Grado Examen Online Industria
+10:00								
+63	Auxiliar	10:00	12:00		CC5330-1 Ciberseguridad Curso F12-Edificio Física Sala	CC5330-1	Ciberseguridad	F12-Edificio Física
+64	Auxiliar	10:00	12:00		EL5204-1 Laboratorio de Equipos y Dispositivos Eléctricos Curso Q23-Edificio Química Sala	EL5204-1	Laboratorio de Equipos y Dispositivos Eléctricos	Q23-Edificio Química
+65	Cátedra	10:00	12:00		ME4012-1 Eficiencia Energética Curso G107-Edificio Geología Sala	ME4012-1	Eficiencia Energética	G107-Edificio Geología
+66	Cátedra	10:00	12:00		EL4103-1 Sistemas de Energía y Equipos Eléctricos Curso E213-Edificio Eléctrica Sala	EL4103-1	Sistemas de Energía y Equipos Eléctricos	E213-Edificio Eléctrica
+67	Control	10:00	12:00		IQ5113-1 Dinámica y Control de Procesos Curso E214-Edificio Eléctrica Sala	IQ5113-1	Dinámica y Control de Procesos	E214-Edificio Eléctrica
+68	Laboratorio	10:00	12:00		EL3201-1 Laboratorio de Ingeniería Eléctrica Curso	EL3201-1	Laboratorio de Ingeniería Eléctrica	
+10:00								
+69	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Bárbara Pérez C. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Bárbara Pérez C. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+70	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Matías Vásquez M. Examen de Grado DII 201 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Matías Vásquez M. Examen de Grado DII 201 Domeyko 2338 2DO. Piso
+71	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Ignacio Romero L. Examen de Grado DII 210 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Ignacio Romero L. Examen de Grado DII 210 Domeyko 2338 2DO. Piso
+72	Exámen de Grado o Título	10:00	12:00		Examen de Grado de Ana Agüero P. Examen de Grado Sala Geol. Ignacio Domeyko Sala			Examen de Grado de Ana Agüero P. Examen de Grado | Geol. Ignacio Domeyko
+73	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Nataly Martínez R. Examen de Grado Examen Online Industria Sala			Examen de Grado de Nataly Martínez R. Examen de Grado Examen Online Industria
+10:15								
+74	Auxiliar	10:15	11:45		CC3201-1 Bases de Datos Curso B105-Edificio Computación Sala	CC3201-1	Bases de Datos	B105-Edificio Computación
+75	Auxiliar	10:15	11:45		CC3201-2 Bases de Datos Curso S24-Edificio Escuela Sala	CC3201-2	Bases de Datos	S24-Edificio Escuela
+76	Auxiliar	10:15	11:45		CC5003-1 Aplicaciones Web Reactivas Curso B04-Beauchef 851 Sala	CC5003-1	Aplicaciones Web Reactivas	B04-Beauchef 851
+77	Auxiliar	10:15	11:45		CC5301-1 Introducción a la Criptografía Moderna Curso E215-Edificio Eléctrica Sala	CC5301-1	Introducción a la Criptografía Moderna	E215-Edificio Eléctrica
+78	Auxiliar	10:15	11:45		IN4232-2 Finanzas Curso G301-Edificio Geología Sala	IN4232-2	Finanzas	G301-Edificio Geología
+79	Auxiliar	10:15	11:45		FI2002-3 Electromagnetismo Curso F10-Edificio Física Sala	FI2002-3	Electromagnetismo	F10-Edificio Física
+80	Auxiliar	10:15	11:45		FI2002-6 Electromagnetismo Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	FI2002-6	Electromagnetismo	B010 (Torre Norte piso -2)-Edificio Computación
+81	Auxiliar	10:15	11:45		EL3103-1 Electromagnetismo Aplicado Curso G303-Edificio Geología Sala	EL3103-1	Electromagnetismo Aplicado	G303-Edificio Geología
+82	Auxiliar	10:15	11:45		EL6013-1 Puesta a Tierra de Instalaciones Eléctricas y Electrónicas Curso G110-Edificio Geología Sala	EL6013-1	Puesta a Tierra de Instalaciones Eléctricas y Electrónicas	G110-Edificio Geología
+83	Auxiliar	10:15	11:45		CC7220-1 La Web de Datos Curso B203-Edificio Computación Sala	CC7220-1	La Web de Datos	B203-Edificio Computación
+84	Auxiliar	10:15	11:45		CC3201-3 Bases de Datos Curso F20-Edificio Física Sala	CC3201-3	Bases de Datos	F20-Edificio Física
+85	Cátedra	10:15	11:45		EI2021-1 Inglés 1 Curso B115-Edificio Computación Sala	EI2021-1	Inglés 1	B115-Edificio Computación
+86	Cátedra	10:15	11:45		EI2202-2 Inglés 2 Curso B100-Edificio Computación Sala	EI2202-2	Inglés 2	B100-Edificio Computación
+87	Cátedra	10:15	11:45		EI3203-3 Inglés 3 Curso B205-Edificio Computación Sala	EI3203-3	Inglés 3	B205-Edificio Computación
+88	Cátedra	10:15	11:45		EI3023-3 Inglés 3 Curso B103-Edificio Computación Sala	EI3023-3	Inglés 3	B103-Edificio Computación
+89	Cátedra	10:15	11:45		EI4204-3 Inglés 4 Curso B111-Edificio Computación Sala	EI4204-3	Inglés 4	B111-Edificio Computación
+90	Cátedra	10:15	11:45		EI4205-3 Inglés 5 Curso B114-Edificio Computación Sala	EI4205-3	Inglés 5	B114-Edificio Computación
+91	Cátedra	10:15	11:45		EI4205-15 Inglés 5 Curso B113-Edificio Computación Sala	EI4205-15	Inglés 5	B113-Edificio Computación
+92	Cátedra	10:15	11:45		EI4205-16 Inglés 5 Curso B213-Edificio Computación Sala	EI4205-16	Inglés 5	B213-Edificio Computación
+93	Cátedra	10:15	11:45		DR601A-3 Baile y Ritmo Damas I Curso Sala Aerobica-Beauchef 851 Sala	DR601A-3	Baile y Ritmo Damas I	Aerobica-Beauchef 851
+94	Cátedra	10:15	11:45		DR602A-3 Baile y Ritmo Varones I Curso Sala Aerobica-Beauchef 851 Sala	DR602A-3	Baile y Ritmo Varones I	Aerobica-Beauchef 851
+95	Cátedra	10:15	11:45		DR331A-2 Basquetbol Varones I Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR331A-2	Basquetbol Varones I	Cancha Voleibol - Básquetbol-Beauchef 851
+96	Cátedra	10:15	11:45		DR331B-2 Basquetbol Varones  II Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR331B-2	Basquetbol Varones II	Cancha Voleibol - Básquetbol-Beauchef 851
+97	Cátedra	10:15	11:45		DR420A-1 Tenis de Mesa I Curso Gimnasio Domeyko-FCFM Sala	DR420A-1	Tenis de Mesa I	Gimnasio Domeyko-FCFM
+98	Cátedra	10:15	11:45		DR420B-1 Tenis de Mesa II Curso Gimnasio Domeyko-FCFM Sala	DR420B-1	Tenis de Mesa II	Gimnasio Domeyko-FCFM
+99	Cátedra	10:15	11:45		DR400A-2 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-2	Natación I	Piscina-Beauchef 851
+100	Cátedra	10:15	11:45		DR400B-2 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-2	Natación II	Piscina-Beauchef 851
+101	Cátedra	10:15	11:45		DR705A-1 Teatro y Lenguaje Audiovisual I Curso Sala de Artes-Beauchef 851 Sala	DR705A-1	Teatro y Lenguaje Audiovisual I	de Artes-Beauchef 851
+102	Cátedra	10:15	11:45		ME3230-1 Mecánica de Sólidos Curso QO-Edificio Química Sala	ME3230-1	Mecánica de Sólidos	QO-Edificio Química
+103	Cátedra	10:15	11:45		CC1002-1 Introducción a la Programación Curso G304-Edificio Geología Sala	CC1002-1	Introducción a la Programación	G304-Edificio Geología
+104	Cátedra	10:15	11:45		CC1002-6 Introducción a la Programación Curso B05-Beauchef 851 Sala	CC1002-6	Introducción a la Programación	B05-Beauchef 851
+105	Cátedra	10:15	11:45		CC4301-1 Arquitectura de Computadores Curso E111-Edificio Eléctrica Sala	CC4301-1	Arquitectura de Computadores	E111-Edificio Eléctrica
+106	Cátedra	10:15	11:45		CC4302-1 Sistemas Operativos Curso S17-Edificio Escuela Sala	CC4302-1	Sistemas Operativos	S17-Edificio Escuela
+107	Cátedra	10:15	11:45		CC5208-1 Visualización de Información Curso B214-Edificio Computación Sala	CC5208-1	Visualización de Información	B214-Edificio Computación
+108	Cátedra	10:15	11:45		CC5328-1 Sistemas embebidos y sensores Curso B206-Edificio Computación Sala	CC5328-1	Sistemas embebidos y sensores	B206-Edificio Computación
+109	Cátedra	10:15	11:45		CC5408-1 Taller de Diseño y Desarrollo de Videojuegos Curso B06-Beauchef 851 Sala	CC5408-1	Taller de Diseño y Desarrollo de Videojuegos	B06-Beauchef 851
+110	Cátedra	10:15	11:45		CC5603-1 Gestión y Gobernanza de Datos Curso S28-Edificio Escuela Sala	CC5603-1	Gestión y Gobernanza de Datos	S28-Edificio Escuela
+111	Cátedra	10:15	11:45		CC5609-1 Taller de Desarrollo Comercial Curso P307 Grace Hopper-Beauchef 851 Sala	CC5609-1	Taller de Desarrollo Comercial	P307 Grace Hopper-Beauchef 851
+112	Cátedra	10:15	11:45		CC6402-1 Taller Avanzado de Desarrollo Agil y Lean Curso B001-Edificio Computación Sala	CC6402-1	Taller Avanzado de Desarrollo Agil y Lean	B001-Edificio Computación
+113	Cátedra	10:15	11:45		MA1001-2 Introducción al Cálculo Curso B112-Edificio Computación Sala	MA1001-2	Introducción al Cálculo	B112-Edificio Computación
+114	Cátedra	10:15	11:45		MA1001-4 Introducción al Cálculo Curso Multiuso-Edificio Escuela Sala	MA1001-4	Introducción al Cálculo	Multiuso-Edificio Escuela
+115	Cátedra	10:15	11:45		MA1002-2 Cálculo Diferencial e Integral Curso B01-Beauchef 851 Sala	MA1002-2	Cálculo Diferencial e Integral	B01-Beauchef 851
+116	Cátedra	10:15	11:45		MA1002-5 Cálculo Diferencial e Integral Curso B204-Edificio Computación Sala	MA1002-5	Cálculo Diferencial e Integral	B204-Edificio Computación
+117	Cátedra	10:15	11:45		MA1002-8 Cálculo Diferencial e Integral Curso B212-Edificio Computación Sala	MA1002-8	Cálculo Diferencial e Integral	B212-Edificio Computación
+118	Cátedra	10:15	11:45		MA2001-2 Cálculo en Varias Variables Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	MA2001-2	Cálculo en Varias Variables	G108 - Humberto Fuenzalida-Edificio Geología
+119	Cátedra	10:15	11:45		MA3801-1 Análisis Curso F22-Edificio Física Sala	MA3801-1	Análisis	F22-Edificio Física
+120	Cátedra	10:15	11:45		MA3802-1 Teoría de la Medida Curso S14-Edificio Escuela Sala	MA3802-1	Teoría de la Medida	S14-Edificio Escuela
+121	Cátedra	10:15	11:45		MA4802-1 Ecuaciones en Derivadas Parciales Curso QP-Edificio Química Sala	MA4802-1	Ecuaciones en Derivadas Parciales	QP-Edificio Química
+122	Cátedra	10:15	11:45		BT1211-1 Aplicaciones de la Biología a la Ingeniería y Ciencias Curso E216-Edificio Eléctrica Sala	BT1211-1	Aplicaciones de la Biología a la Ingeniería y Ciencias	E216-Edificio Eléctrica
+123	Cátedra	10:15	11:45		IQ2211-4 Química Curso G306-Edificio Geología Sala	IQ2211-4	Química	G306-Edificio Geología
+124	Cátedra	10:15	11:45		BT4451-1 Introducción a la Sostenibilidad Ecológica Curso Q13-Edificio Química Sala	BT4451-1	Introducción a la Sostenibilidad Ecológica	Q13-Edificio Química
+125	Cátedra	10:15	11:45		BT3112-1 Biología y Metabolismo de Microorganismos Curso G111-Edificio Geología Sala	BT3112-1	Biología y Metabolismo de Microorganismos	G111-Edificio Geología
+126	Cátedra	10:15	11:45		IN2201-4 Economía Curso F21-Edificio Física Sala	IN2201-4	Economía	F21-Edificio Física
+127	Cátedra	10:15	11:45		IN3171-1 Modelamiento y Optimización Curso B02-Beauchef 851 Sala	IN3171-1	Modelamiento y Optimización	B02-Beauchef 851
+128	Cátedra	10:15	11:45		IN3272-1 Decisiones Bajo Incertidumbre Curso B104-Edificio Computación Sala	IN3272-1	Decisiones Bajo Incertidumbre	B104-Edificio Computación
+129	Cátedra	10:15	11:45		IN4232-1 Finanzas Curso S15-Edificio Escuela Sala	IN4232-1	Finanzas	S15-Edificio Escuela
+130	Cátedra	10:15	11:45		IN5162-1 Ingeniería de Marketing Curso S19-Edificio Escuela Sala	IN5162-1	Ingeniería de Marketing	S19-Edificio Escuela
+131	Cátedra	10:15	11:45		IN5233-1 Ingeniería Financiera Curso N11-Edificio Escuela Sala	IN5233-1	Ingeniería Financiera	N11-Edificio Escuela
+132	Cátedra	10:15	11:45		IN3171-2 Modelamiento y Optimización Curso G201-Edificio Geología Sala	IN3171-2	Modelamiento y Optimización	G201-Edificio Geología
+133	Cátedra	10:15	11:45		IN6192-3 Práctica Profesional Extendida Curso B109-Edificio Computación Sala	IN6192-3	Práctica Profesional Extendida	B109-Edificio Computación
+134	Cátedra	10:15	11:45		IN6192-4 Práctica Profesional Extendida Curso B208-Edificio Computación Sala	IN6192-4	Práctica Profesional Extendida	B208-Edificio Computación
+135	Cátedra	10:15	11:45		IN6193-3 Proyecto de Título Curso	IN6193-3	Proyecto de Título	
+136	Cátedra	10:15	11:45		IN6193-4 Proyecto de Título Curso B102-Edificio Computación Sala	IN6193-4	Proyecto de Título	B102-Edificio Computación
+137	Cátedra	10:15	11:45		EH2202-1 Ética Profesional de la Ingeniería Curso S25-Edificio Escuela Sala	EH2202-1	Ética Profesional de la Ingeniería	S25-Edificio Escuela
+138	Cátedra	10:15	11:45		EH2310-1 ¿Camino a la extinción? Curso S26-Edificio Escuela Sala	EH2310-1	¿Camino a la extinción?	S26-Edificio Escuela
+139	Cátedra	10:15	11:45		EH2609-1 Cine Latinoamericano y Chileno Curso B07-Beauchef 851 Sala	EH2609-1	Cine Latinoamericano y Chileno	B07-Beauchef 851
+140	Cátedra	10:15	11:45		MI3110-1 Minería y Sustentabilidad Curso Auditorio Eduardo Simian-Edificio Química Sala	MI3110-1	Minería y Sustentabilidad	Auditorio Eduardo Simian-Edificio Química
+141	Cátedra	10:15	11:45		MI3110-2 Minería y Sustentabilidad Curso Auditorio Eduardo Simian-Edificio Química Sala	MI3110-2	Minería y Sustentabilidad	Auditorio Eduardo Simian-Edificio Química
+142	Cátedra	10:15	11:45		MI4040-1 Análisis Estadístico y Geoestadístico de Datos Curso Sala Gianna Vallebuona - Depto. Minas-Edificio Química Sala	MI4040-1	Análisis Estadístico y Geoestadístico de Datos	Gianna Vallebuona - Depto. Minas-Edificio Química
+143	Cátedra	10:15	11:45		MI4040-2 Análisis Estadístico y Geoestadístico de Datos Curso Sala Gianna Vallebuona - Depto. Minas-Edificio Química Sala	MI4040-2	Análisis Estadístico y Geoestadístico de Datos	Gianna Vallebuona - Depto. Minas-Edificio Química
+144	Cátedra	10:15	11:45		MI4240-1 Evaluación de Yacimientos Curso B210-Edificio Computación Sala	MI4240-1	Evaluación de Yacimientos	B210-Edificio Computación
+145	Cátedra	10:15	11:45		MI4240-2 Evaluación de Yacimientos Curso B210-Edificio Computación Sala	MI4240-2	Evaluación de Yacimientos	B210-Edificio Computación
+146	Cátedra	10:15	11:45		MI5110-1 Gestión de Operaciones Mineras Curso B110-Edificio Computación Sala	MI5110-1	Gestión de Operaciones Mineras	B110-Edificio Computación
+147	Cátedra	10:15	11:45		MI5210-1 Taller de Proyecto Minero Curso S29-Edificio Escuela Sala	MI5210-1	Taller de Proyecto Minero	S29-Edificio Escuela
+148	Cátedra	10:15	11:45		MI5075-1 Minería inteligente Curso	MI5075-1	Minería inteligente	
+149	Cátedra	10:15	11:45		GL3203-1 Ciencia de los Minerales II Curso G109-Edificio Geología Sala	GL3203-1	Ciencia de los Minerales II	G109-Edificio Geología
+150	Cátedra	10:15	11:45		GL5314-1 Geología Andina Curso N03-BIBLIOTECA Sala	GL5314-1	Geología Andina	N03-BIBLIOTECA
+151	Cátedra	10:15	11:45		CD1201-14 Proyecto de Innovación en Ingeniería y Ciencias Curso Q12-Edificio Química Sala	CD1201-14	Proyecto de Innovación en Ingeniería y Ciencias	Q12-Edificio Química
+152	Cátedra	10:15	11:45		CI3141-1 Análisis de Sistemas de Transporte Curso G106-Edificio Geología Sala	CI3141-1	Análisis de Sistemas de Transporte	G106-Edificio Geología
+153	Cátedra	10:15	11:45		CI5135-1 Inspección técnica de obras de hormigón Curso G104-Edificio Geología Sala	CI5135-1	Inspección técnica de obras de hormigón	G104-Edificio Geología
+154	Cátedra	10:15	11:45		CI5413-1 Instrumentación en Ingeniería Geotecnica y Estructural Curso	CI5413-1	Instrumentación en Ingeniería Geotecnica y Estructural	
+155	Cátedra	10:15	11:45		CI7112-1 Hidrología de Nieve Curso	CI7112-1	Hidrología de Nieve	
+156	Cátedra	10:15	11:45		FI2002-2 Electromagnetismo Curso G305-Edificio Geología Sala	FI2002-2	Electromagnetismo	G305-Edificio Geología
+157	Cátedra	10:15	11:45		FI3001-1 Vibraciones y Ondas Curso Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala	FI3001-1	Vibraciones y Ondas	Aud. Eléctrica, Piso 4-Edificio Eléctrica
+158	Cátedra	10:15	11:45		FI3111-1 Mecánica Clásica Curso F11-Edificio Física Sala	FI3111-1	Mecánica Clásica	F11-Edificio Física
+159	Cátedra	10:15	11:45		FI7015-1 Cosmología Curso Seminario 2 Poniente-Edificio Física Sala	FI7015-1	Cosmología	Seminario 2 Poniente-Edificio Física
+160	Cátedra	10:15	11:45		EL7018-1 Mercados Internacionales de la Energia Curso .-FCFM Sala	EL7018-1	Mercados Internacionales de la Energia	.-FCFM
+161	Cátedra	10:15	11:45		GL3203-2 Ciencia de los Minerales II Curso G109-Edificio Geología Sala	GL3203-2	Ciencia de los Minerales II	G109-Edificio Geología
+162	Cátedra	10:15	11:45		GF3004-1 Sistema Climático Curso Q22-Edificio Química Sala	GF3004-1	Sistema Climático	Q22-Edificio Química
+163	Cátedra	10:15	11:45		GF652-1 Meteorología de Capa Límite Curso Sala Geofísica 2º Piso-Geofísica Sala	GF652-1	Meteorología de Capa Límite	Geofísica 2º Piso-Geofísica
+164	Cátedra	10:15	11:45		GF41E-1 Geodinámica del Margen Chileno Curso	GF41E-1	Geodinámica del Margen Chileno	
+165	Cátedra	10:15	11:45		IN79O-1 Modelos Estocásticos en Sistemas de Ingeniería Curso Q10-Edificio Química Sala	IN79O-1	Modelos Estocásticos en Sistemas de Ingeniería	Q10-Edificio Química
+166	Cátedra	10:15	11:45		MDS7104-1 Aprendizaje de Máquinas Curso G302-Edificio Geología Sala	MDS7104-1	Aprendizaje de Máquinas	G302-Edificio Geología
+167	Cátedra	10:15	11:45		IN7S8-1 Desarrollo Económico Curso	IN7S8-1	Desarrollo Económico	
+168	Cátedra	10:15	11:45		IN5633-1 Neurociencia del consumidor Curso F9-Edificio Física Sala	IN5633-1	Neurociencia del consumidor	F9-Edificio Física
+169	Cátedra	10:15	11:45		IN6533-1 Fundamentos de Inteligencia Artificial (IA) Generativa Curso B211-Edificio Computación Sala	IN6533-1	Fundamentos de Inteligencia Artificial (IA) Generativa	B211-Edificio Computación
+170	Cátedra	10:15	11:45		IN2201-1 Economía Curso B03-Beauchef 851 Sala	IN2201-1	Economía	B03-Beauchef 851
+171	Laboratorio	10:15	11:45		FI1100-3 Introducción a la Física Moderna Curso	FI1100-3	Introducción a la Física Moderna	
+172	Laboratorio	10:15	11:45		FI2003-1 Métodos Experimentales Curso	FI2003-1	Métodos Experimentales	
+173	Presentaciones	10:15	11:45		CD1201-4 Proyecto de Innovación en Ingeniería y Ciencias Curso B08-Beauchef 851 Sala	CD1201-4	Proyecto de Innovación en Ingeniería y Ciencias	B08-Beauchef 851
+174	Taller de Práctica	10:15	11:45	DIQBM	B101-Edificio Computación Sala	B101-Edificio		B101-Edificio Computación
+175	Tutorías TIP - A2IC	10:15	11:45		N02-Edificio Escuela Sala	N02-Edificio		N02-Edificio Escuela
+11:00								
+176	Exámen de Grado o Título	11:00	12:30		Examen de Grado de Javiera Tillería A. Examen de Grado Sala Gianna Vallebuona, Depto Ingeniería de Minas, Edificio Química Piso 1 Sala			Examen de Grado de Javiera Tillería A. Examen de Grado | Gianna Vallebuona, Depto Ingeniería de Minas, Edificio Química Piso 1
+12:00								
+177	Auxiliar	12:00	13:30		ME3250-1 Cinemática y Dinámica de Mecanismos Curso S26-Edificio Escuela Sala	ME3250-1	Cinemática y Dinámica de Mecanismos	S26-Edificio Escuela
+178	Auxiliar	12:00	13:30		ME4110-1 Procesos de Manufactura Curso Seminario 5to piso, mecanica-Beauchef 851 Sala	ME4110-1	Procesos de Manufactura	Seminario 5to piso, mecanica-Beauchef 851
+179	Auxiliar	12:00	13:30		CC3501-2 Modelación y Computación Gráfica para Ingenieros Curso G107-Edificio Geología Sala	CC3501-2	Modelación y Computación Gráfica para Ingenieros	G107-Edificio Geología
+180	Auxiliar	12:00	14:00		IQ2211-2 Química Curso B05-Beauchef 851 Sala	IQ2211-2	Química	B05-Beauchef 851
+181	Auxiliar	12:00	13:30		IN4273-1 Gestión de Operaciones Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	IN4273-1	Gestión de Operaciones	G108 - Humberto Fuenzalida-Edificio Geología
+182	Auxiliar	12:00	13:30		IN4273-2 Gestión de Operaciones Curso QP-Edificio Química Sala	IN4273-2	Gestión de Operaciones	QP-Edificio Química
+183	Auxiliar	12:00	13:30		MI4040-1 Análisis Estadístico y Geoestadístico de Datos Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI4040-1	Análisis Estadístico y Geoestadístico de Datos	Laboratorio Bunker - Depto. Minas-Edificio Química
+184	Auxiliar	12:00	13:30		MI4040-2 Análisis Estadístico y Geoestadístico de Datos Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI4040-2	Análisis Estadístico y Geoestadístico de Datos	Laboratorio Bunker - Depto. Minas-Edificio Química
+185	Auxiliar	12:00	13:30		CI4242-1 Diseño de Sistemas de Transporte Curso N02-Edificio Escuela Sala	CI4242-1	Diseño de Sistemas de Transporte	N02-Edificio Escuela
+186	Auxiliar	12:00	13:30		FI3002-1 Métodos Matemáticos de la Física Curso S17-Edificio Escuela Sala	FI3002-1	Métodos Matemáticos de la Física	S17-Edificio Escuela
+187	Auxiliar	12:00	13:30		FI3106-1 Electrodinámica Curso G110-Edificio Geología Sala	FI3106-1	Electrodinámica	G110-Edificio Geología
+188	Auxiliar	12:00	13:30		EL7024-1 Teoría de Información: Fundamentos y Aplicaciones Curso S15-Edificio Escuela Sala	EL7024-1	Teoría de Información: Fundamentos y Aplicaciones	S15-Edificio Escuela
+189	Auxiliar	12:00	13:30		GF3024-1 Peligros Naturales Curso B102-Edificio Computación Sala	GF3024-1	Peligros Naturales	B102-Edificio Computación
+190	Auxiliar	12:00	13:30		IN6531-1 Introducción a la Minería de Datos Curso B213-Edificio Computación Sala	IN6531-1	Introducción a la Minería de Datos	B213-Edificio Computación
+191	Auxiliar Extra	12:00	13:30		CI5135-1 Inspección técnica de obras de hormigón Curso G201-Edificio Geología Sala	CI5135-1	Inspección técnica de obras de hormigón	G201-Edificio Geología
+192	Cátedra	12:00	13:30		EI2022-3 Inglés 2 Curso B115-Edificio Computación Sala	EI2022-3	Inglés 2	B115-Edificio Computación
+193	Cátedra	12:00	13:30		EI3203-2 Inglés 3 Curso B205-Edificio Computación Sala	EI3203-2	Inglés 3	B205-Edificio Computación
+194	Cátedra	12:00	13:30		EI4204-8 Inglés 4 Curso B111-Edificio Computación Sala	EI4204-8	Inglés 4	B111-Edificio Computación
+195	Cátedra	12:00	13:30		EI4024-3 Inglés 4 Curso B113-Edificio Computación Sala	EI4024-3	Inglés 4	B113-Edificio Computación
+196	Cátedra	12:00	13:30		EI4025-1 Inglés 5 Curso B114-Edificio Computación Sala	EI4025-1	Inglés 5	B114-Edificio Computación
+197	Cátedra	12:00	13:30		DR101A-1 Acondicionamiento Físico Básico Curso Sala Aerobica-Beauchef 851 Sala	DR101A-1	Acondicionamiento Físico Básico	Aerobica-Beauchef 851
+198	Cátedra	12:00	13:30		DR101A-2 Acondicionamiento Físico Básico Curso Sala Aerobica-Beauchef 851 Sala	DR101A-2	Acondicionamiento Físico Básico	Aerobica-Beauchef 851
+199	Cátedra	12:00	13:30		DR332A-1 Basquetbol Damas  I Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR332A-1	Basquetbol Damas I	Cancha Voleibol - Básquetbol-Beauchef 851
+200	Cátedra	12:00	13:30		DR332B-1 Basquetbol Damas II Curso Cancha Voleibol - Básquetbol-Beauchef 851 Sala	DR332B-1	Basquetbol Damas II	Cancha Voleibol - Básquetbol-Beauchef 851
+201	Cátedra	12:00	13:30		DR410A-3 Tenis I Curso Cancha Tenis B. Poniente-Beauchef 851 Sala	DR410A-3	Tenis I	Cancha Tenis B. Poniente-Beauchef 851
+202	Cátedra	12:00	13:30		DR420A-2 Tenis de Mesa I Curso Gimnasio Domeyko-FCFM Sala	DR420A-2	Tenis de Mesa I	Gimnasio Domeyko-FCFM
+203	Cátedra	12:00	13:30		DR420B-2 Tenis de Mesa II Curso Gimnasio Domeyko-FCFM Sala	DR420B-2	Tenis de Mesa II	Gimnasio Domeyko-FCFM
+204	Cátedra	12:00	13:30		DR400A-3 Natación I Curso Piscina-Beauchef 851 Sala	DR400A-3	Natación I	Piscina-Beauchef 851
+205	Cátedra	12:00	13:30		DR400B-3 Natación II Curso Piscina-Beauchef 851 Sala	DR400B-3	Natación II	Piscina-Beauchef 851
+206	Cátedra	12:00	13:30		ME5220-1 Proyecto en Ingeniería Mecánica Curso F11-Edificio Física Sala	ME5220-1	Proyecto en Ingeniería Mecánica	F11-Edificio Física
+207	Cátedra	12:00	13:30		ME701-1 Mecánica de Medios Continuos Curso B103-Edificio Computación Sala	ME701-1	Mecánica de Medios Continuos	B103-Edificio Computación
+208	Cátedra	12:00	13:30		CC4006-1 Taller de Programación Competitiva B Curso CEC, Zócalo, Zona D-Edificio Computación Sala	CC4006-1	Taller de Programación Competitiva B	CEC, Zócalo, Zona D-Edificio Computación
+209	Cátedra	12:00	13:30		CC5205-1 Minería de Datos Curso S14-Edificio Escuela Sala	CC5205-1	Minería de Datos	S14-Edificio Escuela
+210	Cátedra	12:00	13:30		CC5205-2 Minería de Datos Curso G304-Edificio Geología Sala	CC5205-2	Minería de Datos	G304-Edificio Geología
+211	Cátedra	12:00	13:30		CC5409-1 Taller de Videojuegos Multijugador Curso Q21-Edificio Química Sala	CC5409-1	Taller de Videojuegos Multijugador	Q21-Edificio Química
+212	Cátedra	12:00	13:30		CC5609-2 Taller de Desarrollo Comercial Curso Q13-Edificio Química Sala	CC5609-2	Taller de Desarrollo Comercial	Q13-Edificio Química
+213	Cátedra	12:00	13:30		CC5622-1 Taller de Habilidades Profesionales Interpersonales Curso S25-Edificio Escuela Sala	CC5622-1	Taller de Habilidades Profesionales Interpersonales	S25-Edificio Escuela
+214	Cátedra	12:00	13:30		CC6402-1 Taller Avanzado de Desarrollo Agil y Lean Curso B001-Edificio Computación Sala	CC6402-1	Taller Avanzado de Desarrollo Agil y Lean	B001-Edificio Computación
+215	Cátedra	12:00	13:30		MA2001-3 Cálculo en Varias Variables Curso F21-Edificio Física Sala	MA2001-3	Cálculo en Varias Variables	F21-Edificio Física
+216	Cátedra	12:00	13:30		MA3701-1 Optimización Curso QO-Edificio Química Sala	MA3701-1	Optimización	QO-Edificio Química
+217	Cátedra	12:00	13:30		MA5505-1 Teoría de Grafos Curso G303-Edificio Geología Sala	MA5505-1	Teoría de Grafos	G303-Edificio Geología
+218	Cátedra	12:00	13:30		IQ3211-1 Termodinámica Aplicada Curso B109-Edificio Computación Sala	IQ3211-1	Termodinámica Aplicada	B109-Edificio Computación
+219	Cátedra	12:00	13:30		BT3113-1 Biología Molecular Curso G111-Edificio Geología Sala	BT3113-1	Biología Molecular	G111-Edificio Geología
+220	Cátedra	12:00	13:30		BT5316-1 Procesos de Separación en Biotecnología Curso B203-Edificio Computación Sala	BT5316-1	Procesos de Separación en Biotecnología	B203-Edificio Computación
+221	Cátedra	12:00	13:30		IN2201-2 Economía Curso B03-Beauchef 851 Sala	IN2201-2	Economía	B03-Beauchef 851
+222	Cátedra	12:00	13:30		IN2201-5 Economía Curso B204-Edificio Computación Sala	IN2201-5	Economía	B204-Edificio Computación
+223	Cátedra	12:00	13:30		IN3272-2 Decisiones Bajo Incertidumbre Curso E111-Edificio Eléctrica Sala	IN3272-2	Decisiones Bajo Incertidumbre	E111-Edificio Eléctrica
+224	Cátedra	12:00	13:30		IN3301-2 Evaluación de Proyectos Curso B04-Beauchef 851 Sala	IN3301-2	Evaluación de Proyectos	B04-Beauchef 851
+225	Cátedra	12:00	13:30		IN4143-1 Análisis de Datos e Inferencia Causal Curso F20-Edificio Física Sala	IN4143-1	Análisis de Datos e Inferencia Causal	F20-Edificio Física
+226	Cátedra	12:00	13:30		IN4822-1 Seminario de Ingeniería Industrial Curso B08-Beauchef 851 Sala	IN4822-1	Seminario de Ingeniería Industrial	B08-Beauchef 851
+227	Cátedra	12:00	13:30		IN5174-1 Estrategia de Operaciones Curso E214-Edificio Eléctrica Sala	IN5174-1	Estrategia de Operaciones	E214-Edificio Eléctrica
+228	Cátedra	12:00	13:30		IN6192-5 Práctica Profesional Extendida Curso B101-Edificio Computación Sala	IN6192-5	Práctica Profesional Extendida	B101-Edificio Computación
+229	Cátedra	12:00	13:30		IN6192-6 Práctica Profesional Extendida Curso B208-Edificio Computación Sala	IN6192-6	Práctica Profesional Extendida	B208-Edificio Computación
+230	Cátedra	12:00	13:30		EH2607-1 Literatura y Memoria Curso F22-Edificio Física Sala	EH2607-1	Literatura y Memoria	F22-Edificio Física
+231	Cátedra	12:00	13:30		EH2609-2 Cine Latinoamericano y Chileno Curso B07-Beauchef 851 Sala	EH2609-2	Cine Latinoamericano y Chileno	B07-Beauchef 851
+232	Cátedra	12:00	13:30		MI4240-1 Evaluación de Yacimientos Curso B210-Edificio Computación Sala	MI4240-1	Evaluación de Yacimientos	B210-Edificio Computación
+233	Cátedra	12:00	13:30		MI4240-2 Evaluación de Yacimientos Curso B210-Edificio Computación Sala	MI4240-2	Evaluación de Yacimientos	B210-Edificio Computación
+234	Cátedra	12:00	13:30		MI5210-1 Taller de Proyecto Minero Curso S29-Edificio Escuela Sala	MI5210-1	Taller de Proyecto Minero	S29-Edificio Escuela
+235	Cátedra	12:00	13:30		MI5260-1 Seguridad Minera Curso B110-Edificio Computación Sala	MI5260-1	Seguridad Minera	B110-Edificio Computación
+236	Cátedra	12:00	13:30		CI3252-1 Topografía Curso Q22-Edificio Química Sala	CI3252-1	Topografía	Q22-Edificio Química
+237	Cátedra	12:00	13:30		CI5122-1 Diseño de Estructuras de Acero Curso G104-Edificio Geología Sala	CI5122-1	Diseño de Estructuras de Acero	G104-Edificio Geología
+238	Cátedra	12:00	13:30		CI5244-1 Competencia y Regulación en Transporte Curso B105-Edificio Computación Sala	CI5244-1	Competencia y Regulación en Transporte	B105-Edificio Computación
+239	Cátedra	12:00	13:30		CI5321-1 Mecánica de Suelos Avanzada Curso B211-Edificio Computación Sala	CI5321-1	Mecánica de Suelos Avanzada	B211-Edificio Computación
+240	Cátedra	12:00	13:30		CI5504-1 Patología de las Obras de Construcción Curso Q23-Edificio Química Sala	CI5504-1	Patología de las Obras de Construcción	Q23-Edificio Química
+241	Cátedra	12:00	13:30		CI5806-1 Gestión de la Innovación Curso B214-Edificio Computación Sala	CI5806-1	Gestión de la Innovación	B214-Edificio Computación
+242	Cátedra	12:00	13:30		FI4101-1 Introducción a la Física del Sólido Curso B206-Edificio Computación Sala	FI4101-1	Introducción a la Física del Sólido	B206-Edificio Computación
+243	Cátedra	12:00	13:30		EL3104-1 Probabilidad y Procesos Estocásticos Curso S19-Edificio Escuela Sala	EL3104-1	Probabilidad y Procesos Estocásticos	S19-Edificio Escuela
+244	Cátedra	12:00	14:00		EL7019-1 Fenómenos Dinámicos en Redes Eléctricas Curso E215-Edificio Eléctrica Sala	EL7019-1	Fenómenos Dinámicos en Redes Eléctricas	E215-Edificio Eléctrica
+245	Cátedra	12:00	13:30		EL7060-1  Deep learning  para procesamiento de señales Curso E216-Edificio Eléctrica Sala	EL7060-1	Deep learning para procesamiento de señales	E216-Edificio Eléctrica
+246	Cátedra	12:00	13:30		GF3001-1 Geofísica General Curso G106-Edificio Geología Sala	GF3001-1	Geofísica General	G106-Edificio Geología
+247	Cátedra	12:00	13:30		GF5030-1 Quimica Atmosférica y Clima Curso Sala Geofísica 2º Piso-Geofísica Sala	GF5030-1	Quimica Atmosférica y Clima	Geofísica 2º Piso-Geofísica
+248	Cátedra	12:00	13:30		EL5203-1 Laboratorio de Energía Curso Q12-Edificio Química Sala	EL5203-1	Laboratorio de Energía	Q12-Edificio Química
+249	Cátedra	12:00	13:30		MA5603-1 Análisis no Lineal Curso Sala Seminario 4°piso DIM-Edificio Computación Sala	MA5603-1	Análisis no Lineal	Seminario 4°piso DIM-Edificio Computación
+250	Cátedra	12:00	13:30		CC4303-2 Redes Curso G306-Edificio Geología Sala	CC4303-2	Redes	G306-Edificio Geología
+251	Cátedra	12:00	13:30		IN7E5-1 Seminario de Finanzas Curso	IN7E5-1	Seminario de Finanzas	
+252	Cátedra	12:00	13:30		IN7S8-1 Desarrollo Económico Curso	IN7S8-1	Desarrollo Económico	
+253	Cátedra	12:00	13:30		IQ7431-1 Procesos Biotecnológicos y de Separación Curso	IQ7431-1	Procesos Biotecnológicos y de Separación	
+254	Cátedra	12:00	13:30		EH2515-1 Primeras Naciones Americanas Curso S28-Edificio Escuela Sala	EH2515-1	Primeras Naciones Americanas	S28-Edificio Escuela
+255	Cátedra	12:00	13:30		FD704-1 Métodos Experimentales en Fluidodinámica Curso	FD704-1	Métodos Experimentales en Fluidodinámica	
+256	Cátedra	12:00	13:30		MA4004-1 Taller de escritura y comunicación matemática Curso	MA4004-1	Taller de escritura y comunicación matemática	
+257	Cátedra	12:00	13:30		FI6018-1 Introducción a la Nanociencia en Dispositivos Electrónicos Curso F9-Edificio Física Sala	FI6018-1	Introducción a la Nanociencia en Dispositivos Electrónicos	F9-Edificio Física
+258	Control	12:00	14:00		CC3501-1 Modelación y Computación Gráfica para Ingenieros Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	CC3501-1	Modelación y Computación Gráfica para Ingenieros	B010 (Torre Norte piso -2)-Edificio Computación
+259	Laboratorio	12:00	13:30		FI2003-1 Métodos Experimentales Curso	FI2003-1	Métodos Experimentales	
+260	Laboratorio	12:00	14:00		EL3201-1 Laboratorio de Ingeniería Eléctrica Curso	EL3201-1	Laboratorio de Ingeniería Eléctrica	
+261	Taller de Práctica	12:00	13:30	DIQBM	E213-Edificio Eléctrica Sala	E213-Edificio		E213-Edificio Eléctrica
+12:00								
+262	Exámen de Grado o Título	12:00	14:00		Examen de Grado de Matías Sánchez B. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Matías Sánchez B. Examen de Grado Auditorio Picarte 3ER Piso DCC
+263	Exámen de Grado o Título	12:00	13:00		Examen de Grado de Alfonso Bula A. Examen de Grado DII 210 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Alfonso Bula A. Examen de Grado DII 210 Domeyko 2338 2DO. Piso
+264	Exámen de Grado o Título	12:00	14:00		Examen de Grado de Javier Andrews G. Examen de Grado Auditorio P303, Philippe Flajolet Sala			Examen de Grado de Javier Andrews G. Examen de Grado Auditorio P303, Philippe Flajolet
+12:15								
+265	Charla Capital Social y Desarrollo Integral - Tristan Claridge - Subdirector de Vinculación con el Medio DII	12:15	13:30		Salón Gorbea-Edificio Escuela Sala			Salón Gorbea-Edificio Escuela
+12:30								
+266	Exámen de Grado o Título	12:30	13:30		Examen de Grado de Hans Guerrero A. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Hans Guerrero A. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+12:45								
+267	Auxiliar	12:45	14:15		MA1001-1 Introducción al Cálculo Curso B212-Edificio Computación Sala	MA1001-1	Introducción al Cálculo	B212-Edificio Computación
+268	Auxiliar	12:45	14:15		MA1102-2 Álgebra Lineal Curso G301-Edificio Geología Sala	MA1102-2	Álgebra Lineal	G301-Edificio Geología
+269	Auxiliar	12:45	14:15		MA1102-7 Álgebra Lineal Curso S24-Edificio Escuela Sala	MA1102-7	Álgebra Lineal	S24-Edificio Escuela
+270	Cátedra	12:45	14:15		CC1002-5 Introducción a la Programación Curso B01-Beauchef 851 Sala	CC1002-5	Introducción a la Programación	B01-Beauchef 851
+271	Cátedra	12:45	14:15		CC1002-9 Introducción a la Programación Curso B112-Edificio Computación Sala	CC1002-9	Introducción a la Programación	B112-Edificio Computación
+272	Cátedra	12:45	14:15		MA1001-3 Introducción al Cálculo Curso B104-Edificio Computación Sala	MA1001-3	Introducción al Cálculo	B104-Edificio Computación
+273	Cátedra	12:45	14:15		MA1002-1 Cálculo Diferencial e Integral Curso G305-Edificio Geología Sala	MA1002-1	Cálculo Diferencial e Integral	G305-Edificio Geología
+274	Cátedra	12:45	14:15		MA1002-3 Cálculo Diferencial e Integral Curso B02-Beauchef 851 Sala	MA1002-3	Cálculo Diferencial e Integral	B02-Beauchef 851
+275	Cátedra	12:45	14:15		CD1201-8 Proyecto de Innovación en Ingeniería y Ciencias Curso N03-BIBLIOTECA Sala	CD1201-8	Proyecto de Innovación en Ingeniería y Ciencias	N03-BIBLIOTECA
+276	Laboratorio	12:45	14:15		CD1201-18 Proyecto de Innovación en Ingeniería y Ciencias Curso B09-Beauchef 851 Sala	CD1201-18	Proyecto de Innovación en Ingeniería y Ciencias	B09-Beauchef 851
+13:00								
+277	Exámen de Grado o Título	13:00	14:00		Examen de Grado de Bruno Toledo T. Examen de Grado DII 201 Domeyko 2338 2DO. Piso Sala			Examen de Grado de Bruno Toledo T. Examen de Grado DII 201 Domeyko 2338 2DO. Piso
+14:00								
+278	Auxiliar	14:00	16:00		ME5120-1 Diseño de Sistemas Mecánicos Curso Sala de Proyectos 4to piso - Mecanica-Beauchef 851 Sala	ME5120-1	Diseño de Sistemas Mecánicos	de Proyectos 4to piso - Mecanica-Beauchef 851
+279	Auxiliar	14:00	16:00		MA3705-1 Algoritmos Combinatoriales Curso F21-Edificio Física Sala	MA3705-1	Algoritmos Combinatoriales	F21-Edificio Física
+280	Auxiliar	14:00	16:00		IQ2212-3 Termodinámica Química Curso B03-Beauchef 851 Sala	IQ2212-3	Termodinámica Química	B03-Beauchef 851
+281	Auxiliar	14:00	16:00		CI3162-1 Mecánica de Fluidos Curso S25-Edificio Escuela Sala	CI3162-1	Mecánica de Fluidos	S25-Edificio Escuela
+282	Auxiliar	14:00	16:00		CI3262-1 Ingeniería Hidráulica Curso QP-Edificio Química Sala	CI3262-1	Ingeniería Hidráulica	QP-Edificio Química
+283	Auxiliar	14:00	16:00		CI4251-1 Planificación y Gestión de Proyectos Curso B211-Edificio Computación Sala	CI4251-1	Planificación y Gestión de Proyectos	B211-Edificio Computación
+284	Auxiliar	14:00	16:00		CI5532-1 Diseño y Construcción de Estructuras Prefabricadas Curso	CI5532-1	Diseño y Construcción de Estructuras Prefabricadas	
+285	Auxiliar	14:00	16:00		CI7112-1 Hidrología de Nieve Curso S26-Edificio Escuela Sala	CI7112-1	Hidrología de Nieve	S26-Edificio Escuela
+286	Auxiliar	14:00	16:00		EL3101-1 Análisis y Diseño de Circuitos Eléctricos Curso Q12-Edificio Química Sala	EL3101-1	Análisis y Diseño de Circuitos Eléctricos	Q12-Edificio Química
+287	Auxiliar	14:00	16:00		EL5203-1 Laboratorio de Energía Curso S29-Edificio Escuela Sala	EL5203-1	Laboratorio de Energía	S29-Edificio Escuela
+288	Cátedra	14:00	16:00		MI6147-1 Estrategia de Negocios en la Industria Minera Curso B205-Edificio Computación Sala	MI6147-1	Estrategia de Negocios en la Industria Minera	B205-Edificio Computación
+289	Cátedra	14:00	16:00		CI5115-1 Agua en Minería Curso B113-Edificio Computación Sala	CI5115-1	Agua en Minería	B113-Edificio Computación
+290	Cátedra	14:00	16:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+291	Cátedra	14:00	16:00		MA5409-1 Tópicos en Probabilidades II Curso Sala Seminario DIM 5º PISO-Edificio Computación Sala	MA5409-1	Tópicos en Probabilidades II	Seminario DIM 5º PISO-Edificio Computación
+14:00								
+292	Exámen de Grado o Título	14:00	15:00		Examen de Grado de Francisco Zapata V. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Francisco Zapata V. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+14:30								
+293	Auxiliar	14:30	16:00		ME3140-1 Mecánica de Fluidos Curso B206-Edificio Computación Sala	ME3140-1	Mecánica de Fluidos	B206-Edificio Computación
+294	Auxiliar	14:30	16:00		ME3140-2 Mecánica de Fluidos Curso B206-Edificio Computación Sala	ME3140-2	Mecánica de Fluidos	B206-Edificio Computación
+295	Auxiliar	14:30	16:00		ME3240-1 Termotecnia Curso G306-Edificio Geología Sala	ME3240-1	Termotecnia	G306-Edificio Geología
+296	Auxiliar	14:30	16:00		ME4220-2 Planos de Ingeniería Curso Sala Computadores 4º piso Mecánica-Edificio Central Sala	ME4220-2	Planos de Ingeniería	Computadores 4º piso Mecánica-Edificio Central
+297	Auxiliar	14:30	16:00		ME5220-1 Proyecto en Ingeniería Mecánica Curso F11-Edificio Física Sala	ME5220-1	Proyecto en Ingeniería Mecánica	F11-Edificio Física
+298	Auxiliar	14:30	16:00		CC3001-1 Algoritmos y Estructuras de Datos Curso B204-Edificio Computación Sala	CC3001-1	Algoritmos y Estructuras de Datos	B204-Edificio Computación
+299	Auxiliar	14:30	16:00		CC3001-2 Algoritmos y Estructuras de Datos Curso B203-Edificio Computación Sala	CC3001-2	Algoritmos y Estructuras de Datos	B203-Edificio Computación
+300	Auxiliar	14:30	16:00		CC3301-1 Programación de Software de Sistemas Curso S28-Edificio Escuela Sala	CC3301-1	Programación de Software de Sistemas	S28-Edificio Escuela
+301	Auxiliar	14:30	16:00		CC3301-2 Programación de Software de Sistemas Curso G108 - Humberto Fuenzalida-Edificio Geología Sala	CC3301-2	Programación de Software de Sistemas	G108 - Humberto Fuenzalida-Edificio Geología
+302	Auxiliar	14:30	16:00		CC4101-1 Lenguajes de Programación Curso G302-Edificio Geología Sala	CC4101-1	Lenguajes de Programación	G302-Edificio Geología
+303	Auxiliar	14:30	16:00		CC4101-2 Lenguajes de Programación Curso S19-Edificio Escuela Sala	CC4101-2	Lenguajes de Programación	S19-Edificio Escuela
+304	Auxiliar	14:30	16:00		CC5209-1 Visión Computacional Curso B102-Edificio Computación Sala	CC5209-1	Visión Computacional	B102-Edificio Computación
+305	Auxiliar	14:30	16:00		GF3005-1 Contaminación Atmosférica Curso Q13-Edificio Química Sala	GF3005-1	Contaminación Atmosférica	Q13-Edificio Química
+306	Auxiliar	14:30	16:00		MA2601-1 Ecuaciones Diferenciales Ordinarias Curso B112-Edificio Computación Sala	MA2601-1	Ecuaciones Diferenciales Ordinarias	B112-Edificio Computación
+307	Auxiliar	14:30	16:00		IQ3212-1 Fisicoquímica Curso E213-Edificio Eléctrica Sala	IQ3212-1	Fisicoquímica	E213-Edificio Eléctrica
+308	Auxiliar	14:30	16:00		IQ5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso N11-Edificio Escuela Sala	IQ5715-1	Taller de Proyectos en Ingeniería o Ciencias	N11-Edificio Escuela
+309	Auxiliar	14:30	16:00		BT3112-1 Biología y Metabolismo de Microorganismos Curso G111-Edificio Geología Sala	BT3112-1	Biología y Metabolismo de Microorganismos	G111-Edificio Geología
+310	Auxiliar	14:30	16:00		BT5715-1 Taller de Proyectos en Ingeniería o Ciencias Curso N11-Edificio Escuela Sala	BT5715-1	Taller de Proyectos en Ingeniería o Ciencias	N11-Edificio Escuela
+311	Auxiliar	14:30	16:00		IN3242-1 Estadística Curso B04-Beauchef 851 Sala	IN3242-1	Estadística	B04-Beauchef 851
+312	Auxiliar	14:30	16:00		IN3242-2 Estadística Curso QO-Edificio Química Sala	IN3242-2	Estadística	QO-Edificio Química
+313	Auxiliar	14:30	16:00		IN5244-1 Ciencia de los Datos Curso G301-Edificio Geología Sala	IN5244-1	Ciencia de los Datos	G301-Edificio Geología
+314	Auxiliar	14:30	16:00		MI3110-1 Minería y Sustentabilidad Curso Q21-Edificio Química Sala	MI3110-1	Minería y Sustentabilidad	Q21-Edificio Química
+315	Auxiliar	14:30	16:00		MI3110-2 Minería y Sustentabilidad Curso Q21-Edificio Química Sala	MI3110-2	Minería y Sustentabilidad	Q21-Edificio Química
+316	Auxiliar	14:30	16:00		MI4070-1 Fundamentos de Tecnología Minera Curso G107-Edificio Geología Sala	MI4070-1	Fundamentos de Tecnología Minera	G107-Edificio Geología
+317	Auxiliar	14:30	16:00		GL5311-2 Metalogénesis Curso Laboratorio de Microscopio-Edificio Geología Sala	GL5311-2	Metalogénesis	Laboratorio de Microscopio-Edificio Geología
+318	Auxiliar	14:30	16:00		CI5411-1 Fundaciones II Curso F9-Edificio Física Sala	CI5411-1	Fundaciones II	F9-Edificio Física
+319	Auxiliar	14:30	16:00		FI2004-3 Termodinámica Curso Q10-Edificio Química Sala	FI2004-3	Termodinámica	Q10-Edificio Química
+320	Auxiliar	14:30	16:00		EL3204-2 Análisis de Sistemas Dinámicos y Estimación Curso S24-Edificio Escuela Sala	EL3204-2	Análisis de Sistemas Dinámicos y Estimación	S24-Edificio Escuela
+321	Auxiliar	14:30	16:00		EL7019-1 Fenómenos Dinámicos en Redes Eléctricas Curso B105-Edificio Computación Sala	EL7019-1	Fenómenos Dinámicos en Redes Eléctricas	B105-Edificio Computación
+322	Auxiliar	14:30	16:00		GF3001-1 Geofísica General Curso G106-Edificio Geología Sala	GF3001-1	Geofísica General	G106-Edificio Geología
+323	Auxiliar	14:30	16:00		GF4001-1 Sismología Curso B110-Edificio Computación Sala	GF4001-1	Sismología	B110-Edificio Computación
+324	Auxiliar	14:30	16:00		GF4006-1 Métodos de Exploración Geofísica Curso	GF4006-1	Métodos de Exploración Geofísica	
+325	Auxiliar	14:30	16:00		IN5152-1 Diseño de Procesos de Negocios Curso B05-Beauchef 851 Sala	IN5152-1	Diseño de Procesos de Negocios	B05-Beauchef 851
+326	Auxiliar	14:30	16:00		MDS7203-1 Modelos Generativos Profundos Curso B214-Edificio Computación Sala	MDS7203-1	Modelos Generativos Profundos	B214-Edificio Computación
+327	Auxiliar	14:30	16:00		IN72X-1 Introducción a la Historia del Pensamiento Económico Curso	IN72X-1	Introducción a la Historia del Pensamiento Económico	
+328	Cátedra	14:30	16:00		ME4130-1 Vibraciones Mecánicas Curso F22-Edificio Física Sala	ME4130-1	Vibraciones Mecánicas	F22-Edificio Física
+329	Cátedra	14:30	16:00		CC1002-7 Introducción a la Programación Curso B010 (Torre Norte piso -2)-Edificio Computación Sala	CC1002-7	Introducción a la Programación	B010 (Torre Norte piso -2)-Edificio Computación
+330	Cátedra	14:30	16:00		IN7L1-1 Inferencia Causal de Políticas Públicas Curso	IN7L1-1	Inferencia Causal de Políticas Públicas	
+331	Cátedra	14:30	16:00		MA1002-4 Cálculo Diferencial e Integral Curso B104-Edificio Computación Sala	MA1002-4	Cálculo Diferencial e Integral	B104-Edificio Computación
+332	Cátedra	14:30	16:00		IQ2211-3 Química Curso B07-Beauchef 851 Sala	IQ2211-3	Química	B07-Beauchef 851
+333	Cátedra	14:30	16:00		IN2201-6 Economía Curso G305-Edificio Geología Sala	IN2201-6	Economía	G305-Edificio Geología
+334	Cátedra	14:30	16:00		IN4261-1 Marketing Curso B08-Beauchef 851 Sala	IN4261-1	Marketing	B08-Beauchef 851
+335	Cátedra	14:30	16:00		IN6193-1 Proyecto de Título Curso B115-Edificio Computación Sala	IN6193-1	Proyecto de Título	B115-Edificio Computación
+336	Cátedra	14:30	16:00		IN6193-2 Proyecto de Título Curso B101-Edificio Computación Sala	IN6193-2	Proyecto de Título	B101-Edificio Computación
+337	Cátedra	14:30	16:00		IN6193-5 Proyecto de Título Curso B100-Edificio Computación Sala	IN6193-5	Proyecto de Título	B100-Edificio Computación
+338	Cátedra	14:30	16:00		IN6193-6 Proyecto de Título Curso B114-Edificio Computación Sala	IN6193-6	Proyecto de Título	B114-Edificio Computación
+339	Cátedra	14:30	16:00		IN6193-7 Proyecto de Título Curso B208-Edificio Computación Sala	IN6193-7	Proyecto de Título	B208-Edificio Computación
+340	Cátedra	14:30	16:00		IN6193-8 Proyecto de Título Curso B109-Edificio Computación Sala	IN6193-8	Proyecto de Título	B109-Edificio Computación
+341	Cátedra	14:30	16:00		MI5120-1 Diseño y Planificación de Minas Subterráneas Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI5120-1	Diseño y Planificación de Minas Subterráneas	Laboratorio Bunker - Depto. Minas-Edificio Química
+342	Cátedra	14:30	16:00		MI5265-1 Evaluación y Gestión de Proyectos Mineros Curso E215-Edificio Eléctrica Sala	MI5265-1	Evaluación y Gestión de Proyectos Mineros	E215-Edificio Eléctrica
+343	Cátedra	14:30	16:00		CD1201-19 Proyecto de Innovación en Ingeniería y Ciencias Curso G201-Edificio Geología Sala	CD1201-19	Proyecto de Innovación en Ingeniería y Ciencias	G201-Edificio Geología
+344	Cátedra	14:30	16:00		CD2201-14 Módulo Interdisciplinario Curso N03-BIBLIOTECA Sala	CD2201-14	Módulo Interdisciplinario	N03-BIBLIOTECA
+345	Cátedra	14:30	16:00		CD2201-17 Módulo Interdisciplinario Curso B111-Edificio Computación Sala	CD2201-17	Módulo Interdisciplinario	B111-Edificio Computación
+346	Cátedra	14:30	16:00		CI5909-1 Introducción a la Práctica de Título Curso E216-Edificio Eléctrica Sala	CI5909-1	Introducción a la Práctica de Título	E216-Edificio Eléctrica
+347	Cátedra	14:30	16:00		CI5910-1 Práctica de Título Curso E216-Edificio Eléctrica Sala	CI5910-1	Práctica de Título	E216-Edificio Eléctrica
+348	Cátedra	14:30	16:00		EL3204-1 Análisis de Sistemas Dinámicos y Estimación Curso S14-Edificio Escuela Sala	EL3204-1	Análisis de Sistemas Dinámicos y Estimación	S14-Edificio Escuela
+349	Cátedra	14:30	16:00		EL7024-1 Teoría de Información: Fundamentos y Aplicaciones Curso S15-Edificio Escuela Sala	EL7024-1	Teoría de Información: Fundamentos y Aplicaciones	S15-Edificio Escuela
+350	Cátedra	14:30	16:00		GF5030-1 Quimica Atmosférica y Clima Curso	GF5030-1	Quimica Atmosférica y Clima	
+351	Cátedra	14:30	16:00		IN3863-1 Aplicaciones de Blockchain y Criptomonedas Curso B01-Beauchef 851 Sala	IN3863-1	Aplicaciones de Blockchain y Criptomonedas	B01-Beauchef 851
+352	Cátedra	14:30	16:00		EL4203-1 Programación Avanzada Curso B001-Edificio Computación Sala	EL4203-1	Programación Avanzada	B001-Edificio Computación
+353	Cátedra	14:30	16:00		VA-01-0327-10-1 Educación superior y segregación social en Chile: historia de sus ideas, políticas e instituciones Curso .-FCFM Sala	VA-01-0327-10-1	Educación superior y segregación social en Chile: historia de sus ideas, políticas e instituciones	.-FCFM
+354	Cátedra	14:30	16:00		VA-01-0327-82-1 Pueblos indígenas hoy: nuevos enfoques, nuevos desafíos Curso .-FCFM Sala	VA-01-0327-82-1	Pueblos indígenas hoy: nuevos enfoques, nuevos desafíos	.-FCFM
+355	Cátedra	14:30	16:00		VA-01-0327-182-1 Infancia y política: concepciones e imaginarios de la niñez en Chile Curso .-FCFM Sala	VA-01-0327-182-1	Infancia y política: concepciones e imaginarios de la niñez en Chile	.-FCFM
+356	Cátedra	14:30	16:00		VA-01-0327-203-1 Filosofía en la cultura pop Curso .-FCFM Sala	VA-01-0327-203-1	Filosofía en la cultura pop	.-FCFM
+357	Cátedra	14:30	16:00		CI6908-2 Introducción al Trabajo de Título Curso	CI6908-2	Introducción al Trabajo de Título	
+358	Cátedra	14:30	16:00		CI6911-2 Trabajo de Título Curso	CI6911-2	Trabajo de Título	
+359	Cátedra	14:30	16:00		BT7431-1 Biología Molecular e Ingeniería Genética Curso	BT7431-1	Biología Molecular e Ingeniería Genética	
+360	Laboratorio	14:30	16:00		FI2003-3 Métodos Experimentales Curso	FI2003-3	Métodos Experimentales	
+361	Laboratorio	14:30	16:00		FI1100-8 Introducción a la Física Moderna Curso	FI1100-8	Introducción a la Física Moderna	
+362	Seminario - DFI	14:30	16:00		F12-Edificio Física Sala	F12-Edificio		F12-Edificio Física
+15:00								
+363	Exámen de Grado o Título	15:00	17:00		Examen de Grado de Mauro González B. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Mauro González B. Examen de Grado Auditorio Picarte 3ER Piso DCC
+16:00								
+364	Auxiliar	16:00	18:00		MA5505-1 Teoría de Grafos Curso B07-Beauchef 851 Sala	MA5505-1	Teoría de Grafos	B07-Beauchef 851
+365	Auxiliar	16:00	18:00		MA5603-1 Análisis no Lineal Curso Sala Seminario 4°piso DIM-Edificio Computación Sala	MA5603-1	Análisis no Lineal	Seminario 4°piso DIM-Edificio Computación
+366	Auxiliar	16:00	18:00		IQ2212-2 Termodinámica Química Curso G301-Edificio Geología Sala	IQ2212-2	Termodinámica Química	G301-Edificio Geología
+367	Auxiliar	16:00	18:00		CI3251-1 Cálculo Numérico para Ingeniería Civil Curso Q12-Edificio Química Sala	CI3251-1	Cálculo Numérico para Ingeniería Civil	Q12-Edificio Química
+368	Auxiliar	16:00	18:00		CI4164-1 Hidráulica Curso B102-Edificio Computación Sala	CI4164-1	Hidráulica	B102-Edificio Computación
+369	Auxiliar	16:00	18:00		CI4212-1 Diseño Hormigón Armado Curso B210-Edificio Computación Sala	CI4212-1	Diseño Hormigón Armado	B210-Edificio Computación
+370	Auxiliar	16:00	18:00		EL3101-1 Análisis y Diseño de Circuitos Eléctricos Curso B06-Beauchef 851 Sala	EL3101-1	Análisis y Diseño de Circuitos Eléctricos	B06-Beauchef 851
+371	Auxiliar	16:00	18:00		EL5203-1 Laboratorio de Energía Curso S17-Edificio Escuela Sala	EL5203-1	Laboratorio de Energía	S17-Edificio Escuela
+372	Café Cargado - Electrotutores - SAE	16:00	19:30		E213-Edificio Eléctrica Sala	E213-Edificio		E213-Edificio Eléctrica
+373	Cátedra	16:00	18:00		ME6600-1 Proyecto en Ingeniería Mecánica Curso B213-Edificio Computación Sala	ME6600-1	Proyecto en Ingeniería Mecánica	B213-Edificio Computación
+374	Cátedra	16:00	18:00		EL4030-2 Seminario de Diseño e Innovación Tecnológica Curso	EL4030-2	Seminario de Diseño e Innovación Tecnológica	
+375	Cátedra	16:00	18:00		EL5030-2 Seminario de Diseño e Innovación Tecnológica II Curso	EL5030-2	Seminario de Diseño e Innovación Tecnológica II	
+376	Cátedra	16:00	18:00		EL6030-1 Seminario de Diseño e Innovación Tecnológica III Curso	EL6030-1	Seminario de Diseño e Innovación Tecnológica III	
+377	Cátedra	16:00	18:00		AA2200-1 Taller Dos Relojes Curso N01-Edificio Escuela Sala N02-Edificio Escuela Sala	AA2200-1	Taller Dos Relojes	N01-Edificio Escuela | N02-Edificio Escuela
+378	Ejercicio	16:00	18:00		IQ2212-1 Termodinámica Química Curso B212-Edificio Computación Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala	IQ2212-1	Termodinámica Química	B212-Edificio Computación | B02-Beauchef 851 | B03-Beauchef 851
+379	Tardes de Karaoke	16:00	19:00		N11-Edificio Escuela Sala	N11-Edificio		N11-Edificio Escuela
+16:00								
+380	Exámen de Grado o Título	16:00	18:00		Examen de Grado de Nicolás Moraga F. Examen de Grado Auditorio Eduardo Simian Depto.Ing.Minas Sala			Examen de Grado de Nicolás Moraga F. Examen de Grado Auditorio Eduardo Simian Depto.Ing.Minas
+16:15								
+381	Auxiliar	16:15	17:45		CC3002-1 Metodologías de Diseño y Programación Curso B05-Beauchef 851 Sala	CC3002-1	Metodologías de Diseño y Programación	B05-Beauchef 851
+382	Auxiliar	16:15	17:45		CC3002-2 Metodologías de Diseño y Programación Curso G306-Edificio Geología Sala	CC3002-2	Metodologías de Diseño y Programación	G306-Edificio Geología
+383	Auxiliar	16:15	17:45		CC5205-1 Minería de Datos Curso B01-Beauchef 851 Sala	CC5205-1	Minería de Datos	B01-Beauchef 851
+384	Auxiliar	16:15	17:45		CC5205-2 Minería de Datos Curso B01-Beauchef 851 Sala	CC5205-2	Minería de Datos	B01-Beauchef 851
+385	Auxiliar	16:15	17:45		CC6409-1 Taller de Desarrollo de Proyectos de IA Curso S25-Edificio Escuela Sala	CC6409-1	Taller de Desarrollo de Proyectos de IA	S25-Edificio Escuela
+386	Auxiliar	16:15	17:45		IQ4315-1 Operaciones de Transferencia de Masa y Separación Curso B211-Edificio Computación Sala	IQ4315-1	Operaciones de Transferencia de Masa y Separación	B211-Edificio Computación
+387	Auxiliar	16:15	17:45		BT4315-1 Operaciones de Transferencia de Masa y Separación Curso B211-Edificio Computación Sala	BT4315-1	Operaciones de Transferencia de Masa y Separación	B211-Edificio Computación
+388	Auxiliar	16:15	17:45		IN4151-1 Ingeniería de la Información Curso S15-Edificio Escuela Sala	IN4151-1	Ingeniería de la Información	S15-Edificio Escuela
+389	Auxiliar	16:15	17:45		MI3230-1 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-1	Fisicoquímica Metalúrgica	F11-Edificio Física
+390	Auxiliar	16:15	17:45		MI3230-2 Fisicoquímica Metalúrgica Curso F11-Edificio Física Sala	MI3230-2	Fisicoquímica Metalúrgica	F11-Edificio Física
+391	Auxiliar	16:15	17:45		MI4135-1 Metalurgia Extractiva Curso Q13-Edificio Química Sala	MI4135-1	Metalurgia Extractiva	Q13-Edificio Química
+392	Auxiliar	16:15	17:45		GL5311-2 Metalogénesis Curso Laboratorio de Microscopio-Edificio Geología Sala	GL5311-2	Metalogénesis	Laboratorio de Microscopio-Edificio Geología
+393	Auxiliar	16:15	17:45		CI5413-1 Instrumentación en Ingeniería Geotecnica y Estructural Curso Q21-Edificio Química Sala	CI5413-1	Instrumentación en Ingeniería Geotecnica y Estructural	Q21-Edificio Química
+394	Auxiliar	16:15	17:45		FI2004-2 Termodinámica Curso Q10-Edificio Química Sala	FI2004-2	Termodinámica	Q10-Edificio Química
+395	Auxiliar	16:15	17:45		FI4001-1 Mecánica Cuántica Curso G106-Edificio Geología Sala	FI4001-1	Mecánica Cuántica	G106-Edificio Geología
+396	Auxiliar	16:15	17:45		MDS7202-1 Laboratorio de Programación Científica para Ciencia de Datos Curso	MDS7202-1	Laboratorio de Programación Científica para Ciencia de Datos	
+397	Cátedra	16:15	17:45		ME4130-1 Vibraciones Mecánicas Curso F22-Edificio Física Sala	ME4130-1	Vibraciones Mecánicas	F22-Edificio Física
+398	Cátedra	16:15	17:45		IN7L1-1 Inferencia Causal de Políticas Públicas Curso	IN7L1-1	Inferencia Causal de Políticas Públicas	
+399	Cátedra	16:15	17:45		IN4261-2 Marketing Curso B08-Beauchef 851 Sala	IN4261-2	Marketing	B08-Beauchef 851
+400	Cátedra	16:15	17:45		ME4705-1 Fabricación Digital Curso Sala de Proyectos 4to piso - Mecanica-Beauchef 851 Sala	ME4705-1	Fabricación Digital	de Proyectos 4to piso - Mecanica-Beauchef 851
+401	Cátedra	16:15	17:45		IN6193-1 Proyecto de Título Curso B115-Edificio Computación Sala	IN6193-1	Proyecto de Título	B115-Edificio Computación
+402	Cátedra	16:15	17:45		IN6193-2 Proyecto de Título Curso B101-Edificio Computación Sala	IN6193-2	Proyecto de Título	B101-Edificio Computación
+403	Cátedra	16:15	17:45		IN6193-5 Proyecto de Título Curso B100-Edificio Computación Sala	IN6193-5	Proyecto de Título	B100-Edificio Computación
+404	Cátedra	16:15	17:45		IN6193-6 Proyecto de Título Curso B114-Edificio Computación Sala	IN6193-6	Proyecto de Título	B114-Edificio Computación
+405	Cátedra	16:15	17:45		IN6193-7 Proyecto de Título Curso B208-Edificio Computación Sala	IN6193-7	Proyecto de Título	B208-Edificio Computación
+406	Cátedra	16:15	17:45		IN6193-8 Proyecto de Título Curso B109-Edificio Computación Sala	IN6193-8	Proyecto de Título	B109-Edificio Computación
+407	Cátedra	16:15	17:45		MI5120-1 Diseño y Planificación de Minas Subterráneas Curso Laboratorio Bunker - Depto. Minas-Edificio Química Sala	MI5120-1	Diseño y Planificación de Minas Subterráneas	Laboratorio Bunker - Depto. Minas-Edificio Química
+408	Cátedra	16:15	17:45		MI5265-1 Evaluación y Gestión de Proyectos Mineros Curso E215-Edificio Eléctrica Sala	MI5265-1	Evaluación y Gestión de Proyectos Mineros	E215-Edificio Eléctrica
+409	Cátedra	16:15	17:45		CI5909-1 Introducción a la Práctica de Título Curso E216-Edificio Eléctrica Sala	CI5909-1	Introducción a la Práctica de Título	E216-Edificio Eléctrica
+410	Cátedra	16:15	17:45		CI5910-1 Práctica de Título Curso E216-Edificio Eléctrica Sala	CI5910-1	Práctica de Título	E216-Edificio Eléctrica
+411	Cátedra	16:15	17:45		FI2004-1 Termodinámica Curso F10-Edificio Física Sala	FI2004-1	Termodinámica	F10-Edificio Física
+412	Cátedra	16:15	17:45		EL6101-2 Taller de Proyectos Tecnológicos Curso B214-Edificio Computación Sala	EL6101-2	Taller de Proyectos Tecnológicos	B214-Edificio Computación
+413	Cátedra	16:15	17:45		EL6101-3 Taller de Proyectos Tecnológicos Curso B113-Edificio Computación Sala	EL6101-3	Taller de Proyectos Tecnológicos	B113-Edificio Computación
+414	Cátedra	16:15	17:45		AS3101-1 Astrofísica de Estrellas Curso F9-Edificio Física Sala	AS3101-1	Astrofísica de Estrellas	F9-Edificio Física
+415	Cátedra	16:15	17:45		IN3864-1 Contabilidad Gerencial y Análisis Estratégico Curso B205-Edificio Computación Sala	IN3864-1	Contabilidad Gerencial y Análisis Estratégico	B205-Edificio Computación
+416	Cátedra	16:15	17:45		CI6316-1 Modelación y Diseño Experimental de Comportamiento Humano Curso	CI6316-1	Modelación y Diseño Experimental de Comportamiento Humano	
+417	Control	16:15	17:45		MA1101-1 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-1	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+418	Control	16:15	17:45		MA1101-2 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-2	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+419	Control	16:15	17:45		MA1101-3 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-3	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+420	Control	16:15	17:45		MA1101-4 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-4	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+421	Control de Adecuación	16:15	19:30	MA1101	Aud. Eléctrica, Piso 4-Edificio Eléctrica Sala			Aud. Eléctrica, Piso 4-Edificio Eléctrica
+422	Laboratorio	16:15	17:45		FI2003-3 Métodos Experimentales Curso	FI2003-3	Métodos Experimentales	
+423	Laboratorio	16:15	17:45		FI1100-8 Introducción a la Física Moderna Curso	FI1100-8	Introducción a la Física Moderna	
+424	Presentaciones	16:15	17:45		EL4030-1 Seminario de Diseño e Innovación Tecnológica Curso E111-Edificio Eléctrica Sala	EL4030-1	Seminario de Diseño e Innovación Tecnológica	E111-Edificio Eléctrica
+18:00								
+425	Auxiliar	18:00	19:30		IN7T4-1 Economía y Políticas Públicas II Curso	IN7T4-1	Economía y Políticas Públicas II	
+426	Auxiliar	18:00	19:30		CC5308-1 Administración de Sistemas Linux Curso B103-Edificio Computación Sala	CC5308-1	Administración de Sistemas Linux	B103-Edificio Computación
+427	Auxiliar	18:00	19:30		IQ3111-1 Modelamiento y Optimización para Ingeniería de Procesos Curso B07-Beauchef 851 Sala	IQ3111-1	Modelamiento y Optimización para Ingeniería de Procesos	B07-Beauchef 851
+428	Auxiliar	18:00	19:30		FI2001-4 Mecánica Curso F10-Edificio Física Sala	FI2001-4	Mecánica	F10-Edificio Física
+429	Cátedra	18:00	19:30		EL3105-1 Seminario de Ingeniería Eléctrica e innovación tecnológica Curso	EL3105-1	Seminario de Ingeniería Eléctrica e innovación tecnológica	
+430	Control	18:00	19:30		MA1101-2 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-2	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+431	Control	18:00	19:30		MA1101-4 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-4	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+432	Control	18:00	19:30		MA1101-1 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-1	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+433	Control	18:00	19:30		MA1101-3 Introducción al Álgebra Curso B104-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala F20-Edificio Física Sala F21-Edificio Física Sala B204-Edificio Computación Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G302-Edificio Geología Sala G303-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1101-3	Introducción al Álgebra	B104-Edificio Computación | QP-Edificio Química | QO-Edificio Química | F20-Edificio Física | F21-Edificio Física | B204-Edificio Computación | G108 - Humberto Fuenzalida-Edificio Geología | G302-Edificio Geología | G303-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B010 (Torre Norte piso -2)-Edificio Computación
+434	MONTAJE Festival Teatro - GCine - SAE	18:00	20:00		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala Cafeteria-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 | Cafeteria-Beauchef 851
+
+Eventos del Sábado 25 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+8:00								
+1	Festival Teatro - GCine - SAE	8:00	14:00		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851
+2	Festival Teatro - GCine - SAE	8:00	16:00		Cafeteria-Beauchef 851 Sala	Cafeteria-Beauchef		Cafeteria-Beauchef 851
+8:30								
+3	Cátedra	8:30	10:00		IN7G3-1 La Perspectiva de Género: Un Desafío de las Políticas Públicas Curso	IN7G3-1	La Perspectiva de Género: Un Desafío de las Políticas Públicas	
+4	Control	8:30	10:00		MA1102-6 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-6	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+5	Control	8:30	10:00		MA1102-2 Álgebra Lineal Curso B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-2	Álgebra Lineal	B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+6	Control	8:30	10:00		MA1102-4 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-4	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+7	Control	8:30	10:00		MA1102-7 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-7	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+8	Control	8:30	10:00		MA1102-1 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-1	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+9	Control	8:30	10:00		MA1102-5 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-5	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+10	Control	8:30	10:00		MA1102-3 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-3	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+11	Control	8:30	10:00		MA1102-8 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-8	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+12	Control de Adecuación	8:30	12:30	MA1102	B06-Beauchef 851 Sala	B06-Beauchef		B06-Beauchef 851
+9:00								
+13	Control	9:00	14:00		MA3802-1 Teoría de la Medida Curso B05-Beauchef 851 Sala	MA3802-1	Teoría de la Medida	B05-Beauchef 851
+9:15								
+14	Torneo de Oro - CMM	9:15	11:45		B103-Edificio Computación Sala B105-Edificio Computación Sala B111-Edificio Computación Sala B100-Edificio Computación Sala	B103-Edificio		B103-Edificio Computación | B105-Edificio Computación | B111-Edificio Computación | B100-Edificio Computación
+10:00								
+15	Auxiliar	10:00	11:45		CI3252-1 Topografía Curso	CI3252-1	Topografía	
+10:15								
+16	Cátedra	10:15	11:45		IN7G3-1 La Perspectiva de Género: Un Desafío de las Políticas Públicas Curso	IN7G3-1	La Perspectiva de Género: Un Desafío de las Políticas Públicas	
+17	Control	10:15	11:45		MA1102-2 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-2	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+18	Control	10:15	11:45		MA1102-4 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-4	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+19	Control	10:15	11:45		MA1102-3 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-3	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+20	Control	10:15	11:45		MA1102-7 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-7	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+21	Control	10:15	11:45		MA1102-1 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-1	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+22	Control	10:15	11:45		MA1102-6 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-6	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+23	Control	10:15	11:45		MA1102-8 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-8	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+24	Control	10:15	11:45		MA1102-5 Álgebra Lineal Curso B104-Edificio Computación Sala B112-Edificio Computación Sala QP-Edificio Química Sala QO-Edificio Química Sala E111-Edificio Eléctrica Sala F10-Edificio Física Sala F20-Edificio Física Sala F21-Edificio Física Sala S19-Edificio Escuela Sala S28-Edificio Escuela Sala B204-Edificio Computación Sala B212-Edificio Computación Sala E214-Edificio Eléctrica Sala E216-Edificio Eléctrica Sala G108 - Humberto Fuenzalida-Edificio Geología Sala G301-Edificio Geología Sala G302-Edificio Geología Sala G304-Edificio Geología Sala G305-Edificio Geología Sala B01-Beauchef 851 Sala B02-Beauchef 851 Sala B03-Beauchef 851 Sala B04-Beauchef 851 Sala B010 (Torre Norte piso -2)-Edificio Computación Sala	MA1102-5	Álgebra Lineal	B104-Edificio Computación | B112-Edificio Computación | QP-Edificio Química | QO-Edificio Química | E111-Edificio Eléctrica | F10-Edificio Física | F20-Edificio Física | F21-Edificio Física | S19-Edificio Escuela | S28-Edificio Escuela | B204-Edificio Computación | B212-Edificio Computación | E214-Edificio Eléctrica | E216-Edificio Eléctrica | G108 - Humberto Fuenzalida-Edificio Geología | G301-Edificio Geología | G302-Edificio Geología | G304-Edificio Geología | G305-Edificio Geología | B01-Beauchef 851 | B02-Beauchef 851 | B03-Beauchef 851 | B04-Beauchef 851 | B010 (Torre Norte piso -2)-Edificio Computación
+10:30								
+25	Taller Niños y Niñas Junta de Vecinos Barrio Yungay - ARPA	10:30	14:00		S15-Edificio Escuela Sala S14-Edificio Escuela Sala	S15-Edificio		S15-Edificio Escuela | S14-Edificio Escuela
+12:00								
+26	Auxiliar	12:00	13:00		CI3252-1 Topografía Curso	CI3252-1	Topografía	
+27	Cátedra	12:00	13:30		IN7G3-1 La Perspectiva de Género: Un Desafío de las Políticas Públicas Curso	IN7G3-1	La Perspectiva de Género: Un Desafío de las Políticas Públicas	
+
+Eventos del Lunes 27 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+9:00								
+1	Bridging the Water Adaptation Gap Inter-Country Comparison Partner Workshop -  CR2	9:00	19:00	Doris Aída Díaz Contreras Centro de Ciencia del Clima y la Resiliencia CR2 Tel: 229777466	B01-Beauchef 851 Sala	B01-Beauchef		B01-Beauchef 851
+10:00								
+2	Visita Técnica	10:00	11:00	IMPACT Day - proyecto basal de ANID IMPACT: Centro de Medicina Intervencional de Precisión y Terapia Celular Avanzada	Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851
+10:00								
+3	Exámen de Grado o Título	10:00	11:00		Examen de Grado de Elisa Caro F. Examen de Grado DII 200 Domeyko 2338 2DO. Piso. Sala			Examen de Grado de Elisa Caro F. Examen de Grado DII 200 Domeyko 2338 2DO. Piso.
+13:00								
+4	Exámen de Grado o Título	13:00	15:00		Examen de Grado de Martín Gallegos L. Examen de Grado Sala de Reuniones Depto.Ing.Electr. 3ER.Pisl Sala			Examen de Grado de Martín Gallegos L. Examen de Grado | de Reuniones Depto.Ing.Electr. 3ER.Pisl
+14:30								
+5	GGOO Club de Rol	14:30	20:00		Multiuso-Edificio Escuela Sala	Multiuso-Edificio		Multiuso-Edificio Escuela
+15:00								
+6	Exámen de Grado o Título	15:00	17:00		Examen de Grado de Camila Fuentes G. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Camila Fuentes G. Examen de Grado Auditorio Picarte 3ER Piso DCC
+16:00								
+7	Taller Oratoria - IDIEM	16:00	17:30		S25-Edificio Escuela Sala	S25-Edificio		S25-Edificio Escuela
+18:00								
+8	Diplomado Cambio Climático - CR2	18:00	19:30		B06-Beauchef 851 Sala	B06-Beauchef		B06-Beauchef 851
+9	Diplomado Cambio Climático - CR2	18:00	20:45		Hall Central Beauchef 851-Beauchef 851 Sala			Hall Central Beauchef 851-Beauchef 851
+
+Eventos del Martes 28 de Octubre
+Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
+8:30								
+1	Actividad Interna para Funcionarios - Desarrollo Organizacional - Dirección Económica y Administrativa.	8:30	13:00		B05-Beauchef 851 Sala	B05-Beauchef		B05-Beauchef 851
+2	Segunda Versión Seminario Internacional sobre Resiliencia y Políticas de Incendios - Chile California Council	8:30	13:00		Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 Sala Explanada-Beauchef 851 Sala Cafeteria-Beauchef 851 Sala			Auditorio Beauchef 851 - Enrique d'Etigny Lyon-Beauchef 851 | Explanada-Beauchef 851 | Cafeteria-Beauchef 851
+9:00								
+3	Bridging the Water Adaptation Gap Inter-Country Comparison Partner Workshop -  CR2	9:00	19:00	Doris Aída Díaz Contreras  Centro de Ciencia del Clima y la Resiliencia CR2    Tel: 229777466	B01-Beauchef 851 Sala	B01-Beauchef		B01-Beauchef 851
+4	Seminario Agrivoltaico - Centro de Energía	9:00	13:00		S19-Edificio Escuela Sala	S19-Edificio		S19-Edificio Escuela
+11:00								
+5	Exámen de Grado o Título	11:00	13:00		Examen de Grado de Anaís Higuera S. Examen de Grado Sala de Seminario Cebib, Beaucheff 851, 7° Piso Sala			Examen de Grado de Anaís Higuera S. Examen de Grado | de Seminario Cebib, Beaucheff 851, 7° Piso
+12:00								
+6	Taller de Metodologías Activas para Docentes - ETHICS	12:00	14:00		S25-Edificio Escuela Sala	S25-Edificio		S25-Edificio Escuela
+12:00								
+7	Exámen de Grado o Título	12:00	14:00		Examen de Grado de Matías González P. Examen de Grado Auditorio Picarte 3ER Piso  DCC Sala			Examen de Grado de Matías González P. Examen de Grado Auditorio Picarte 3ER Piso DCC
+14:30								
+8	GGOO Club de Rol	14:30	20:00		Multiuso-Edificio Escuela Sala	Multiuso-Edificio		Multiuso-Edificio Escuela
+16:00								
+9	Exámen de Grado o Título	16:00	18:00		Examen de Grado de Cristian Reyes I. Examen de Grado Sala Oficina de Títulos y Grados 1° Piso, Torre Justicia Espada Acuña Mena Sala			Examen de Grado de Cristian Reyes I. Examen de Grado | Oficina de Títulos y Grados 1° Piso, Torre Justicia Espada Acuña Mena
+18:00								
+10	Exámen de Grado o Título	18:00	19:00		Examen de Grado de Ulises Contreras H. Examen de Grado Sala de Reuniones Depto. Ing. Industrial Beaucheff 851, 4° Piso Sala Bp 0411 Sala			Examen de Grado de Ulises Contreras H. Examen de Grado | de Reuniones Depto. Ing. Industrial Beaucheff 851, 4° Piso | Bp 0411
+
 `;
