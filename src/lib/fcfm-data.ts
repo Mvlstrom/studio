@@ -457,7 +457,6 @@ Teléfono: +569297880910
 Dirección: Av. Beauchef 851, Santiago. Edificio Norte, Piso -1, Sala B09 (Laboratorio de Innovación).
 Correo electrónico: helice@ing.uchile.cl 
 
-
 30. Estudios Transversales en Humanidades para las Ingenierías y Ciencias (Ethics):
 En consonancia con el compromiso de la Universidad de Chile y sus principios y valores institucionales, ETHICS contribuye al desarrollo integral de los y las estudiantes a través de la formación y la extensión en el ámbito de las Humanidades, las Ciencias Sociales y las Artes en los planes de estudio que imparte la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile. De este modo busca aportar a la formación ética, al pensamiento crítico y sistémico, y al quehacer de su comunidad desde una perspectiva inter y transdisciplinaria, con sustento en la reflexión y en la investigación en torno a las relaciones entre ciencia, tecnología y sociedad.
 Integrantes:
@@ -568,4 +567,30 @@ Centro de Producción Audiovisual: Magdalena Vallejos
 Centro de Producción audiovisual: Christopher Garcés
 Contacto:
 Dirección: Av. Beauchef 850, Santiago. Edificio Escuela, 3er piso.
+
+34. DIRECCIÓN DE SALUD ESTUDIANTIL (SEMDA)
+Presentación: Dentro de sus competencias, la Dirección de Salud Estudiantil esta a cargo de administar el servicio de atención en salud para estudiantes en un nivel primario y secundario. Esto se realiza mediante cuatro Centros de Salud Estudiantil distribuidos en los distintos territorios de la universidad. Los centros de Salud Estudiantil se encargan de atender las necesidades primarias de salud médica y dental de los estudiantes de la Universidad de Chile.
+Horario de atención: Lunes a viernes, entre las 08:30 y 17:00 horas.
+Reserva de horas: Para acceder a la atención de salud, el único requisito es ser alumno regular de la Universidad (estar matriculado). Para agendar una hora de atención se puede: 
+Reservar vía telefónica (números dependen del centro de atención, mencionados más adelante).
+Reservar vía online: https://agendamiento.reservo.cl/makereserva/agenda/80NuWbo0u0BSNq0p3A01IpG776M7PI 
+Reservar presencialmente (en las direcciones que se mencionan más adelante).
+Servicios:
+Medicina General
+Enfermería 
+Matronas  (Salud Sexual)
+Salud Mental (Psiquiatría, Psicólogía)
+Nutrición
+Kinesiología
+Tecnología en Oftalmología
+Odontología (Salud Oral)
+Toma de Muestras de laboratorio
+Radiografías Dental
+Botiquín de farmacia
+Asistente social
+Centros: Existen cuatro centros de atención, un servicio central y tres territoriales. Los centros territoriales tienen atenciones en Medicina general, Enfermería, Matrona, Odontología y Psicología. Mientras que el central cuenta con lo anterior y suma las especialidades de Psiquiatría, Kinesiologia , Nutrición, Tecnologo en oftalmología y servicio odontológico.
+- Central: Av. La Paz 1002, Independencia. Contacto: +562 29788970, +562 229788998
+- Juan Gómez Millas: Las Palmeras 3425, Ñuñoa. Contacto: +562 29787471
+- Ingeniería: Blanco Encalada 2085, Santiago. Contacto: +562 29784918
+- Sur: Santa Rosa 11.315 Paradero 32, La Pintana. Contacto: +562 29785819
 `;
