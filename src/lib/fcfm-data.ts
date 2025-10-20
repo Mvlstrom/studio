@@ -1175,4 +1175,5 @@ Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
 552	Cátedra	19:30	21:00		IN73F-2 Métodos Cuantitativos Curso	IN73F-2	Métodos Cuantitativos	
 553	Cátedra	19:30	21:00		MIE7104-1 Seminario de Innovación y Emprendimiento Científico-Tecnológico I Curso B211-Edificio Computación Sala	MIE7104-1	Seminario de Innovación y Emprendimiento Científico-Tecnológico I	B211-Edificio Computación
 554	Cátedra	19:30	21:00		MIE7201-1 Formulación y Gestión de Proyectos de Innovación y Emprendimiento Tecnológicos Curso B115-Edificio Computación Sala	MIE7201-1	Formulación y Gestión de Proyectos de Innovación y Emprendimiento Tecnológicos	B115-Edificio Computación
+
 `;
