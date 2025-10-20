@@ -1,7 +1,6 @@
 'use client';
 import { Button } from '@/components/ui/button';
 import { UbicatitoIcon } from '@/components/icons';
-import { DataEditor } from './data-editor';
 import { Avatar, AvatarFallback } from './ui/avatar';
 import {
   DropdownMenu,
@@ -31,7 +30,6 @@ export function Header() {
         <h1 className="text-xl font-semibold font-headline tracking-tight">Ubicatito</h1>
       </div>
       <div className="flex items-center gap-4">
-        {user?.isAdmin && <DataEditor />}
         {user ? (
           <DropdownMenu>
             <DropdownMenuTrigger asChild>

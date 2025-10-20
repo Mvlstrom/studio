@@ -39,17 +39,3 @@ export async function getAiResponse(prevState: any, formData: FormData) {
     return { success: false, message: 'Lo siento, ha ocurrido un error. Por favor, intenta de nuevo.' };
   }
 }
-
-/**
- * Server Action to update the data used by the chatbot.
- * This is a temporary solution for local development.
- * @param newData The new data string to use.
- */
-export async function updateData(newData: { content: string, name: string, instructions: string }) {
-  if (typeof newData.content === 'string') {
-    const fileData = `Instrucciones para este archivo: ${newData.instructions || 'Sin instrucciones'}\n${newData.content}`;
-    accumulatedData.push({ type: 'file', content: fileData, name: newData.name });
-    return { success: true, message: 'Datos actualizados correctamente.' };
-  }
-  return { success: false, message: 'Formato de datos inválido.' };
-}
