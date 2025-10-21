@@ -2689,7 +2689,6 @@ Nº	Tipo	Hora Inicio	Hora Fin	Descripción	Objetos	Código	Nombre del ramo	Sala
 9	Exámen de Grado o Título	16:00	18:00		Examen de Grado de Cristian Reyes I. Examen de Grado Sala Oficina de Títulos y Grados 1° Piso, Torre Justicia Espada Acuña Mena Sala			Examen de Grado de Cristian Reyes I. Examen de Grado | Oficina de Títulos y Grados 1° Piso, Torre Justicia Espada Acuña Mena
 18:00								
 10	Exámen de Grado o Título	18:00	19:00		Examen de Grado de Ulises Contreras H. Examen de Grado Sala de Reuniones Depto. Ing. Industrial Beaucheff 851, 4° Piso Sala Bp 0411 Sala			Examen de Grado de Ulises Contreras H. Examen de Grado | de Reuniones Depto. Ing. Industrial Beaucheff 851, 4° Piso | Bp 0411
-
 `
     .replace(/[“]/g, '"')
     .replace(/[”]/g, '"')
