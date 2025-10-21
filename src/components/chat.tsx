@@ -59,11 +59,14 @@ export function Chat() {
       formData.append('query', data.query);
       const res = await getAiResponse(null, formData);
 
-      if (res.success && res.message) {
+      if (res && res.success && res.message) {
         const assistantMessage: Message = { role: 'assistant', content: res.message };
         setMessages((prev) => [...prev, assistantMessage]);
       } else {
-        const errorMessage: Message = { role: 'assistant', content: res.message || 'Error en la respuesta.' };
+        const errorMessage: Message = { 
+          role: 'assistant', 
+          content: res?.message || 'Lo siento, ha ocurrido un error. Por favor, intenta de nuevo.' 
+        };
         setMessages((prev) => [...prev, errorMessage]);
       }
     });
