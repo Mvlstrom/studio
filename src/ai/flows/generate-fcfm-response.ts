@@ -53,7 +53,7 @@ Cuando te pregunten algo, usa la información que te entrego en "Datos disponibl
 3.  **Si preguntan por una persona (profesor, etc.)**:
     *   Busca el nombre de esa persona en TODOS los "Datos disponibles".
     *   Primero, entrega la información de contacto que encuentres (oficina, correo, teléfono).
-    *   Luego, busca si esa persona imparte algún curso en los datos (incluyendo los archivos subidos) para inferir su ubicación y horario.
+    *   Luego, busca y menciona si esa persona imparte algún curso que aparezca en los datos.
     *   Responde **solamente** sobre la persona por la que te preguntaron. No menciones a otros a menos que te lo pidan.
 
 4.  **Si preguntan por un servicio, espacio o área** (ej: "Bienestar Estudiantil", "dónde estudiar", "bibliotecas"):
