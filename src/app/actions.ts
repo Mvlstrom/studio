@@ -1,6 +1,7 @@
 'use server';
 
 import { generateFCFMResponse } from '@/ai/flows/generate-fcfm-response';
+import { processUserQuery } from '@/ai/flows/process-user-query';
 import { fcfmData as defaultData } from '@/lib/fcfm-data';
 import { z } from 'zod';
 
@@ -24,6 +25,10 @@ export async function getAiResponse(prevState: any, formData: FormData) {
   const { query } = validatedFields.data;
 
   try {
+    // Step 1: Process the user's query to understand the intent.
+    const processedQueryResponse = await processUserQuery({ query });
+    const processedQuery = processedQueryResponse.processedQuery;
+
     const dataForPrompt = accumulatedData.map(d => {
         if (d.type === 'file') {
             return `--- Contenido del archivo subido: ${d.name} ---\n${d.content}`;
@@ -31,8 +36,8 @@ export async function getAiResponse(prevState: any, formData: FormData) {
         return d.content;
     }).join('\n\n');
 
-    // The AI response now uses the potentially updated 'currentData'.
-    const response = await generateFCFMResponse({ query, data: dataForPrompt });
+    // Step 2: Generate the response using the processed query.
+    const response = await generateFCFMResponse({ query: processedQuery, data: dataForPrompt });
     return { success: true, message: response.response };
   } catch (error) {
     console.error(error);
